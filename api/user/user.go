@@ -3,7 +3,8 @@ package user
 import ("database/sql"
 _ "github.com/go-sql-driver/mysql"
 "errors"
-"strconv")
+"strconv"
+"os")
 
 type User struct {
 	id int
@@ -35,6 +36,13 @@ func (u *User) Reg() error {
 	_, err := u.db.Query("INSERT INTO users(name, email, pwd) VALUES('" + u.name + "', '" + u.email + "', '" + u.pwd + "');")
 	res, _ := u.db.Query("SELECT LAST_INSERT_ID();")
 	res.Scan(&u.id)
+	if (err != nil) {
+		return err
+	}
+	path := "./audio/" + strconv.Itoa(u.id)
+	if _, err := os.Stat(path); os.IsNotExist(err) {
+		os.Mkdir(path, os.ModeDir)
+	}
 	return err
 }
 
