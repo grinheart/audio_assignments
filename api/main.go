@@ -2,7 +2,9 @@ package main
 import ("api/session"
 "github.com/gorilla/mux"
 "database/sql"
-"net/http")
+"net/http"
+"api/user"
+"api/file")
 
 func main() {
 
@@ -12,9 +14,12 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	s.Setup(db)
+	u := &user.User{}
+	s.Setup(db, u)
+	File.Setup(u)
 	r := mux.NewRouter()
 	r.HandleFunc("/auth", s.Auth)
 	r.HandleFunc("/reg", s.Reg)
+	r.HandleFunc("/upload", File.Upload)
 	http.ListenAndServe(":8080", r)
 }

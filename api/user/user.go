@@ -33,15 +33,16 @@ func (u *User) GetId() int {
 
 func (u *User) Reg() error {
 	u.save()
-	_, err := u.db.Query("INSERT INTO users(name, email, pwd) VALUES('" + u.name + "', '" + u.email + "', '" + u.pwd + "');")
-	res, _ := u.db.Query("SELECT LAST_INSERT_ID();")
-	res.Scan(&u.id)
+	stmt, err := u.db.Prepare("INSERT INTO users(name, email, pwd) VALUES(?, ?, ?);")
+	res, err := stmt.Exec(u.name, u.email, u.pwd)
 	if (err != nil) {
-		return err
+		panic(err)
 	}
+	id64, err := res.LastInsertId()
+	u.id = int(id64)
 	path := "./audio/" + strconv.Itoa(u.id)
 	if _, err := os.Stat(path); os.IsNotExist(err) {
-		os.Mkdir(path, os.ModeDir)
+		os.Mkdir(path, 0755)
 	}
 	return err
 }

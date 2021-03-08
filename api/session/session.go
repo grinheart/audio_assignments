@@ -68,8 +68,8 @@ func (s *Session) startSession(w http.ResponseWriter, r *http.Request) {
 	session.Save(r, w)
 }
 
-func (s *Session) Setup(db *sql.DB) {
+func (s *Session) Setup(db *sql.DB, u *user.User) {
 	s.store = sessions.NewCookieStore([]byte(os.Getenv("SESSION_KEY")))
-	s.u = &user.User{}
+	s.u = u
 	s.u.SetDB(db)
 }
