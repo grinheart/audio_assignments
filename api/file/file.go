@@ -5,7 +5,6 @@ import (
 	"io/ioutil"
 	"strconv"
 	"api/user"
-	"fmt"
 	"os"
 	"errors"
 )
@@ -23,8 +22,7 @@ func Upload(w http.ResponseWriter, r *http.Request) {
 		panic(errors.New("Id is empty"))
 	}
 	dir := "./audio/" + strconv.Itoa(u.GetId()) + "/" + id
-	os.Mkdir(dir, 0755) //check and log if dir exists
-	fmt.Printf(dir)
+	os.Mkdir(dir, 0755) //todo: check and log if dir exists
 	file, _, err := r.FormFile("myFile")
 	if (err != nil) {
 		panic(err) 

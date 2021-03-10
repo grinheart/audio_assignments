@@ -31,15 +31,20 @@ func (u *User) GetId() int {
 	return u.id;
 }
 
-func (u *User) Reg() error {
-	u.save()
-	stmt, err := u.db.Prepare("INSERT INTO users(name, email, pwd) VALUES(?, ?, ?);")
-	res, err := stmt.Exec(u.name, u.email, u.pwd)
+func (u *User) retrieveIdWithQuery(query string, args ...interface{}) (sql.Result, error) {
+	stmt, err := u.db.Prepare(query)
+	res, err := stmt.Exec(args...)
 	if (err != nil) {
 		panic(err)
 	}
 	id64, err := res.LastInsertId()
 	u.id = int(id64)
+	return res, err
+}
+
+func (u *User) Reg() error {
+	u.save()
+	_, err := u.retrieveIdWithQuery("INSERT INTO users(name, email, pwd) VALUES(?, ?, ?);", u.name, u.email, u.pwd)
 	path := "./audio/" + strconv.Itoa(u.id)
 	if _, err := os.Stat(path); os.IsNotExist(err) {
 		os.Mkdir(path, 0755)
@@ -57,14 +62,16 @@ func (u *User) save() {
 func (u *User) Auth() (bool, error) {
 	u.save()
 	u.checkDBSet()
-	res, err := u.db.Query("SELECT id, name, email FROM users WHERE email='" + u.email + "' AND pwd='" + u.pwd + "'")
+	var success bool
+	res, err := u.db.Query("SELECT id, name, email FROM users WHERE email=? AND pwd=?", u.email, u.pwd)
 	if (err != nil) {
 		return false, err
 	} else {
+		success = res.Next()
 		res.Scan(&u.id, &u.Name, &u.Email)
 		u.save()
 	}
-	return res.Next(), err
+	return success, err
 }
 
 func (u *User) Load(id int, db *sql.DB) (bool, error) {
