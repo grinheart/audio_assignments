@@ -42,9 +42,9 @@ func main() {
 
     handler := c.Handler(r)
 
-	r.HandleFunc("/auth", s.Auth).Methods("POST")
+	r.HandleFunc("/auth", s.Auth)
 	r.HandleFunc("/reg", s.Reg).Methods("POST")
-	r.HandleFunc("/redirect", s.RedirectIfLogged).Methods("POST")
+	r.HandleFunc("/redirect", s.RedirectIfLogged)
 	r.HandleFunc("/logout", s.Logout).Methods("POST")
 	r.HandleFunc("/upload", File.Upload)
 	r.HandleFunc("/task/create", task.Create)
@@ -52,7 +52,10 @@ func main() {
 	r.HandleFunc("/task/get", task.GetById)
 	r.HandleFunc("/task/get_by_student", task.GetByStudentId)
 	r.HandleFunc("/task/get_for_student", task.GetForStudent)
+	r.HandleFunc("/task/check_if_assigned", task.CheckIfAssigned)
+	r.HandleFunc("/task/get_one", task.GetById)
 	r.HandleFunc("/task/assign", task.Assign)
+	r.HandleFunc("/task/all", task.Get)
 	r.HandleFunc("/students", general.Students)
 
 	log.Fatal(http.ListenAndServe(":8080", handler))

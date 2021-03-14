@@ -28,10 +28,12 @@ func (s *Session) SetHeaders(w http.ResponseWriter, r *http.Request) {
 		w.Header().Set("Access-Control-Allow-Origin", origin)
 	}
 	w.Header().Set("Set-Cookie", w.Header().Get("Set-Cookie") + "; SameSite=Strict")
+	log.Println("SavedId", s.SavedId(r))
+	_, err := s.u.Load(s.SavedId(r))
+	log.Println("error loading", err)
 }
 
 func (s *Session) user(w http.ResponseWriter, r *http.Request, msg string, status int) {
-	s.SetHeaders(w, r)
 	var err errmsg
 	err.Status = status
 	if (status != 0) {
@@ -46,7 +48,7 @@ func (s *Session) user(w http.ResponseWriter, r *http.Request, msg string, statu
 func (s *Session) RedirectIfLogged(w http.ResponseWriter, r *http.Request) {
 	s.SetHeaders(w, r)
 	var resp errmsg
-	if (s.savedId(r) != 0) {
+	if (s.SavedId(r) != 0) {
 		resp.Status = 0
 	} else {
 		resp.Status = 1
@@ -74,10 +76,11 @@ func (s *Session) loadFromReq(r *http.Request) {
 }
 
 func (s *Session) sesId(r *http.Request) (*sessions.Session, error) {
+	log.Println(s.store.Get(r, "session"))
 	return s.store.Get(r, "session")
 }
 
-func (s *Session) savedId(r *http.Request) (int) {
+func (s *Session) SavedId(r *http.Request) (int) {
 	session, _ := s.sesId(r)
 	id, ok := session.Values["id"].(int)
 	if (!ok) {

@@ -55,7 +55,7 @@ func (u *User) Reg() (int) {
 	}
 	_, err = u.retrieveIdWithQuery("INSERT INTO users(name, email, pwd) VALUES(?, ?, ?);", u.name, u.email, u.pwd)
 	if (err != nil) {
-		log.Fatal(err)
+		log.Println(err)
 		return -1
 	}
 	path := "./audio/" + strconv.Itoa(u.id)
@@ -63,7 +63,7 @@ func (u *User) Reg() (int) {
 		os.Mkdir(path, 0755)
 	}
 	if (err != nil) {
-		log.Fatal(err)
+		log.Println(err)
 		return -1
 	}
 	return 0
@@ -93,12 +93,16 @@ func (u *User) Auth() (int) {
 	return 1
 }
 
-func (u *User) Load(id int, db *sql.DB) (bool, error) {
-	res, err := u.db.Query("SELECT name, email, pwd FROM user WHERE id=" + strconv.Itoa(id))
+func (u *User) Load(id int) (bool, error) {
+	res, err := u.db.Query("SELECT name, email, pwd FROM users WHERE id=?;", id)
+	log.Println("id in Load", id)
 	if (err != nil) {
+		log.Println("error loading with ", id)
 		return false, err
 	}
 	if (!res.Next()) {
+		log.Println("empty set with ", id)
+		u.id = 0
 		return false, nil
 	}
 	u.id = id

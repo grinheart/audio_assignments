@@ -17,8 +17,9 @@ var u *user.User;
 var s *session.Session;
 
 type Task struct {
-	Title string
-	Body string
+	Id int `json:"id"`
+	Title string `json:"title"`
+	Body string `json:"body"`
 }
 
 type response struct {
@@ -50,9 +51,10 @@ func errorCode(res **sql.Rows, err error) int {
 	return 0
 }
 
-func setInternalServerError(resp *response) {
+func setInternalServerError(w http.ResponseWriter, resp *response) {
 	resp.Errcode = -1
 	resp.Msg = "Внутренняя ошибка сервера"
+	json.NewEncoder(w).Encode(resp)
 }
 
 func Create(w http.ResponseWriter, r *http.Request) {
@@ -62,29 +64,30 @@ func Create(w http.ResponseWriter, r *http.Request) {
 	resp.Errcode = 0
 	stmt, err := db.Prepare("INSERT INTO tasks (title, body) VALUES (?, ?)")
 	if (err != nil) {
-		setInternalServerError(&resp)
 		log.Println("Error preparing inserting tasks")
-		json.NewEncoder(w).Encode(resp)
+		setInternalServerError(w, &resp)
 		return
 	}
 	res, err := stmt.Exec(params.Get("title"), params.Get("body"))
 	if (err != nil) {
-		setInternalServerError(&resp)
-		log.Fatal("Error executing inserting tasks. Title:\n", params.Get("title"), "\n Body:\n", params.Get("body"))
-		
-		json.NewEncoder(w).Encode(resp)
+		log.Println("Error executing inserting tasks. Title:\n", params.Get("title"), "\n Body:\n", params.Get("body"))
+		setInternalServerError(w, &resp)
 		return
 	}
 
 	taskId64, err := res.LastInsertId()
 	if (err != nil) {
-		setInternalServerError(&resp)
-		log.Fatal("Error retieveing task's inserted id. Title:\n", params.Get("title"), "\n Body:\n", params.Get("body"))
-		json.NewEncoder(w).Encode(resp)
+		setInternalServerError(w, &resp)
+		log.Println("Error retieveing task's inserted id. Title:\n", params.Get("title"), "\n Body:\n", params.Get("body"))
 		return
 	}
 
 	taskId := int(taskId64)
+
+	if (params.Get("assign_to") == "") {
+		json.NewEncoder(w).Encode(resp)
+		return
+	}
 
 	assignToStr := strings.Split(params.Get("assign_to"), ",")
 	var assignTo []interface{}
@@ -92,7 +95,7 @@ func Create(w http.ResponseWriter, r *http.Request) {
 	for _, idStr := range assignToStr {
 		id, err := strconv.Atoi(idStr)
 		if (err != nil) {
-			log.Fatal("Error parsing ids to assign tasks. Ids param: ", params.Get("assign_to"))
+			log.Println("Error parsing ids to assign tasks. Ids param: ", params.Get("assign_to"))
 			json.NewEncoder(w).Encode(resp)
 			return
 		}
@@ -105,9 +108,8 @@ func Create(w http.ResponseWriter, r *http.Request) {
 	//todo: eliminate double code
 	_, err = db.Query(query, assignTo...)
 	if (err != nil) {
-		setInternalServerError(&resp)
-		log.Fatal("Error assigning tasks: ", err, "\nquery: " + query)
-		json.NewEncoder(w).Encode(resp)
+		log.Println("Error assigning tasks: ", err, "\nquery: " + query)
+		setInternalServerError(w, &resp)
 		return
 	}
 
@@ -123,37 +125,60 @@ func Delete(w http.ResponseWriter, r *http.Request) {
 }
 
 func GetById(w http.ResponseWriter, r *http.Request) {
-	id, _ := strconv.Atoi(params(r).Get("id"))
-	res, err := db.Query("SELECT title, body FROM tasks WHERE id = ?", id)
-	if (err != nil) {
-		panic(err)
-	} 
+	s.SetHeaders(w, r)
+	id, err := strconv.Atoi(params(r).Get("id"))
 	var resp response
-	resp.Errcode = errorCode(&res, err)
-	if (resp.Errcode == 0) {
-		resp.Payload = append(resp.Payload, Task{})
-		res.Scan(&resp.Payload[0].Title, &resp.Payload[0].Body)
+	if (err != nil) {
+		log.Println("Parsing id err while retrieving a task for student:", err)
+		setInternalServerError(w, &resp)
+		return
 	}
+	res, err := db.Query("SELECT id, title, body FROM tasks WHERE id = ?", id)
+	if (err != nil) {
+		log.Println("Error retrieving a task:", err)
+		setInternalServerError(w, &resp)
+		return
+	} 
+	if (!res.Next()) {
+		log.Println("Error retrieving a task - no such id: ", id)
+		setInternalServerError(w, &resp)
+		return
+	}
+	resp.Payload = append(resp.Payload, Task{Id: id})
+	res.Scan(&resp.Payload[0].Id, &resp.Payload[0].Title, &resp.Payload[0].Body)
 	json.NewEncoder(w).Encode(resp)
 }
 
-func getByStudentId(w http.ResponseWriter, r *http.Request, id int) {
-	res, err := db.Query("SELECT tasks.title, tasks.body FROM tasks, assignments WHERE tasks.id = assignments.task_id AND assignments.student_id = ?", id)
-	if (err != nil) {
-		panic(err)
-	}
+func getTasks(w http.ResponseWriter, r *http.Request, query string, queryArgs []interface{}, errmsg string) {
+	s.SetHeaders(w, r)
+	log.Printf("args")
+	log.Println(queryArgs...)
+	res, err := db.Query(query, queryArgs...)
 	var resp response
+	if (err != nil) {
+		log.Println(errmsg, "; error:", err)
+		setInternalServerError(w, &resp)
+		return
+	}
 	resp.Errcode = errorCode(&res, err)
 	if (resp.Errcode == 0) {
 		for i := 0;;i++ {
 			resp.Payload = append(resp.Payload, Task{})
-			res.Scan(&resp.Payload[i].Title, &resp.Payload[i].Body)
+			res.Scan(&resp.Payload[i].Id, &resp.Payload[i].Title, &resp.Payload[i].Body)
 			if (!res.Next()) {
 				break;
 			}
 		}
 	}
 	json.NewEncoder(w).Encode(resp)
+}
+
+func getByStudentId(w http.ResponseWriter, r *http.Request, id int) {
+	getTasks(
+		w, r,
+		"SELECT tasks.id, tasks.title, tasks.body FROM tasks, assignments WHERE tasks.id = assignments.task_id AND assignments.student_id = ?",
+		[]interface{}{id},
+		"Couldn't retrieve student's tasks")
 }
 
 func GetByStudentId(w http.ResponseWriter, r *http.Request) {
@@ -163,7 +188,39 @@ func GetByStudentId(w http.ResponseWriter, r *http.Request) {
 }
 
 func GetForStudent(w http.ResponseWriter, r *http.Request) {
+	s.SetHeaders(w, r)
 	getByStudentId(w, r, u.GetId())
+}
+
+func Get(w http.ResponseWriter, r *http.Request) {
+	getTasks(
+		w, r,
+		"SELECT tasks.id, tasks.title, tasks.body FROM tasks",
+		[]interface{}{},
+		"Couldn't retrieve tasks")
+}
+
+func CheckIfAssigned(w http.ResponseWriter, r *http.Request) {
+	s.SetHeaders(w, r)
+	params := params(r)
+	task_id, err := strconv.Atoi(params.Get("task_id"))
+	var resp response;
+	if (err != nil) {
+		log.Println("Invalid task_id: ", params.Get("task_id"))
+		setInternalServerError(w, &resp)
+		return
+	}
+	student_id := s.SavedId(r)
+	if (student_id == 0) {
+		resp.Errcode = 1
+		json.NewEncoder(w).Encode(resp)
+		return
+	}
+	res, err := db.Query("SELECT id FROM assignments WHERE task_id = ? AND student_id = ?", task_id, student_id)
+	if (!res.Next()) {
+		resp.Errcode = 1
+	}
+	json.NewEncoder(w).Encode(resp)
 }
 
 func Assign(w http.ResponseWriter, r *http.Request) {
