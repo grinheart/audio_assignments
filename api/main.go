@@ -32,7 +32,7 @@ func main() {
 	u := &user.User{}
 	s.Setup(db, u)
 	task.Setup(db, u, &s)
-	File.Setup(u)
+	File.Setup(u, &s)
 	general.Setup(&s, db)
 	r := mux.NewRouter()
 	c := cors.New(cors.Options{

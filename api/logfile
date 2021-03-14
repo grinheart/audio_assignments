@@ -3417,3 +3417,2648 @@ query: I;
 2021/03/14 19:35:05 saved id  107
 2021/03/14 19:35:05 id in Load 107
 2021/03/14 19:35:05 error loading <nil>
+2021/03/14 19:54:58 Server launched
+2021/03/14 19:55:00 &{ map[id:107] 0xc000096200 false 0xc000064200 session} <nil>
+2021/03/14 19:55:00 saved id  107
+2021/03/14 19:55:00 SavedId 107
+2021/03/14 19:55:00 &{ map[id:107] 0xc000096200 false 0xc000064200 session} <nil>
+2021/03/14 19:55:00 saved id  107
+2021/03/14 19:55:00 id in Load 107
+2021/03/14 19:55:00 error loading <nil>
+2021/03/14 19:55:00 &{ map[id:107] 0xc000096200 false 0xc000064200 session} <nil>
+2021/03/14 19:55:00 saved id  107
+2021/03/14 19:55:00 &{ map[id:107] 0xc00021a100 false 0xc000064200 session} <nil>
+2021/03/14 19:55:00 saved id  107
+2021/03/14 19:55:00 SavedId 107
+2021/03/14 19:55:00 &{ map[id:107] 0xc00021a100 false 0xc000064200 session} <nil>
+2021/03/14 19:55:00 saved id  107
+2021/03/14 19:55:00 id in Load 107
+2021/03/14 19:55:00 error loading <nil>
+2021/03/14 20:02:38 &{ map[id:107] 0xc00002da00 false 0xc000064200 session} <nil>
+2021/03/14 20:02:38 saved id  107
+2021/03/14 20:02:38 SavedId 107
+2021/03/14 20:02:38 &{ map[id:107] 0xc00002da00 false 0xc000064200 session} <nil>
+2021/03/14 20:02:38 saved id  107
+2021/03/14 20:02:38 id in Load 107
+2021/03/14 20:02:38 error loading <nil>
+2021/03/14 20:02:38 &{ map[id:107] 0xc00002da00 false 0xc000064200 session} <nil>
+2021/03/14 20:02:38 saved id  107
+2021/03/14 20:02:38 &{ map[id:107] 0xc00021a440 false 0xc000064200 session} <nil>
+2021/03/14 20:02:38 saved id  107
+2021/03/14 20:02:38 SavedId 107
+2021/03/14 20:02:38 &{ map[id:107] 0xc00021a440 false 0xc000064200 session} <nil>
+2021/03/14 20:02:38 saved id  107
+2021/03/14 20:02:38 id in Load 107
+2021/03/14 20:02:38 error loading <nil>
+2021/03/14 20:02:44 &{ map[id:107] 0xc0000966c0 false 0xc000064200 session} <nil>
+2021/03/14 20:02:44 saved id  107
+2021/03/14 20:02:44 SavedId 107
+2021/03/14 20:02:44 &{ map[id:107] 0xc0000966c0 false 0xc000064200 session} <nil>
+2021/03/14 20:02:44 saved id  107
+2021/03/14 20:02:44 id in Load 107
+2021/03/14 20:02:44 error loading <nil>
+2021/03/14 20:02:44 &{ map[id:107] 0xc0000966c0 false 0xc000064200 session} <nil>
+2021/03/14 20:02:44 saved id  107
+2021/03/14 20:02:44 &{ map[id:107] 0xc00021a780 false 0xc000064200 session} <nil>
+2021/03/14 20:02:44 saved id  107
+2021/03/14 20:02:44 SavedId 107
+2021/03/14 20:02:44 &{ map[id:107] 0xc00021a780 false 0xc000064200 session} <nil>
+2021/03/14 20:02:44 saved id  107
+2021/03/14 20:02:44 id in Load 107
+2021/03/14 20:02:44 error loading <nil>
+2021/03/14 20:03:19 &{ map[id:107] 0xc00002dd80 false 0xc000064200 session} <nil>
+2021/03/14 20:03:19 saved id  107
+2021/03/14 20:03:19 SavedId 107
+2021/03/14 20:03:19 &{ map[id:107] 0xc00002dd80 false 0xc000064200 session} <nil>
+2021/03/14 20:03:19 saved id  107
+2021/03/14 20:03:19 id in Load 107
+2021/03/14 20:03:19 error loading <nil>
+2021/03/14 20:03:19 &{ map[id:107] 0xc00002dd80 false 0xc000064200 session} <nil>
+2021/03/14 20:03:19 saved id  107
+2021/03/14 20:03:19 &{ map[id:107] 0xc00021aac0 false 0xc000064200 session} <nil>
+2021/03/14 20:03:19 saved id  107
+2021/03/14 20:03:19 SavedId 107
+2021/03/14 20:03:19 &{ map[id:107] 0xc00021aac0 false 0xc000064200 session} <nil>
+2021/03/14 20:03:19 saved id  107
+2021/03/14 20:03:19 id in Load 107
+2021/03/14 20:03:19 error loading <nil>
+2021/03/14 20:03:27 &{ map[id:107] 0xc00021ae00 false 0xc000064200 session} <nil>
+2021/03/14 20:03:27 saved id  107
+2021/03/14 20:03:27 SavedId 107
+2021/03/14 20:03:27 &{ map[id:107] 0xc00021ae00 false 0xc000064200 session} <nil>
+2021/03/14 20:03:27 saved id  107
+2021/03/14 20:03:27 id in Load 107
+2021/03/14 20:03:27 error loading <nil>
+2021/03/14 20:03:27 &{ map[id:107] 0xc00021ae00 false 0xc000064200 session} <nil>
+2021/03/14 20:03:27 saved id  107
+2021/03/14 20:03:27 &{ map[id:107] 0xc0001a4080 false 0xc000064200 session} <nil>
+2021/03/14 20:03:27 saved id  107
+2021/03/14 20:03:27 SavedId 107
+2021/03/14 20:03:27 &{ map[id:107] 0xc0001a4080 false 0xc000064200 session} <nil>
+2021/03/14 20:03:27 saved id  107
+2021/03/14 20:03:27 id in Load 107
+2021/03/14 20:03:27 error loading <nil>
+2021/03/14 20:03:30 &{ map[id:107] 0xc0001a4400 false 0xc000064200 session} <nil>
+2021/03/14 20:03:30 saved id  107
+2021/03/14 20:03:30 SavedId 107
+2021/03/14 20:03:30 &{ map[id:107] 0xc0001a4400 false 0xc000064200 session} <nil>
+2021/03/14 20:03:30 saved id  107
+2021/03/14 20:03:30 id in Load 107
+2021/03/14 20:03:30 error loading <nil>
+2021/03/14 20:03:30 &{ map[id:107] 0xc0001a4400 false 0xc000064200 session} <nil>
+2021/03/14 20:03:30 saved id  107
+2021/03/14 20:03:30 &{ map[id:107] 0xc00021b180 false 0xc000064200 session} <nil>
+2021/03/14 20:03:30 saved id  107
+2021/03/14 20:03:30 SavedId 107
+2021/03/14 20:03:30 &{ map[id:107] 0xc00021b180 false 0xc000064200 session} <nil>
+2021/03/14 20:03:30 saved id  107
+2021/03/14 20:03:30 id in Load 107
+2021/03/14 20:03:30 error loading <nil>
+2021/03/14 20:05:03 &{ map[id:107] 0xc0001a4740 false 0xc000064200 session} <nil>
+2021/03/14 20:05:03 saved id  107
+2021/03/14 20:05:03 SavedId 107
+2021/03/14 20:05:03 &{ map[id:107] 0xc0001a4740 false 0xc000064200 session} <nil>
+2021/03/14 20:05:03 saved id  107
+2021/03/14 20:05:03 id in Load 107
+2021/03/14 20:05:03 error loading <nil>
+2021/03/14 20:05:03 &{ map[id:107] 0xc0001a4740 false 0xc000064200 session} <nil>
+2021/03/14 20:05:03 saved id  107
+2021/03/14 20:05:04 &{ map[id:107] 0xc000096bc0 false 0xc000064200 session} <nil>
+2021/03/14 20:05:04 saved id  107
+2021/03/14 20:05:04 SavedId 107
+2021/03/14 20:05:04 &{ map[id:107] 0xc000096bc0 false 0xc000064200 session} <nil>
+2021/03/14 20:05:04 saved id  107
+2021/03/14 20:05:04 id in Load 107
+2021/03/14 20:05:04 error loading <nil>
+2021/03/14 20:05:07 &{ map[id:107] 0xc0001a4a40 false 0xc000064200 session} <nil>
+2021/03/14 20:05:07 saved id  107
+2021/03/14 20:05:07 SavedId 107
+2021/03/14 20:05:07 &{ map[id:107] 0xc0001a4a40 false 0xc000064200 session} <nil>
+2021/03/14 20:05:07 saved id  107
+2021/03/14 20:05:07 id in Load 107
+2021/03/14 20:05:07 error loading <nil>
+2021/03/14 20:05:07 &{ map[id:107] 0xc0001a4a40 false 0xc000064200 session} <nil>
+2021/03/14 20:05:07 saved id  107
+2021/03/14 20:05:07 &{ map[id:107] 0xc0001a4d80 false 0xc000064200 session} <nil>
+2021/03/14 20:05:07 saved id  107
+2021/03/14 20:05:07 SavedId 107
+2021/03/14 20:05:07 &{ map[id:107] 0xc0001a4d80 false 0xc000064200 session} <nil>
+2021/03/14 20:05:07 saved id  107
+2021/03/14 20:05:07 id in Load 107
+2021/03/14 20:05:07 error loading <nil>
+2021/03/14 20:05:16 &{ map[id:107] 0xc00021b600 false 0xc000064200 session} <nil>
+2021/03/14 20:05:16 saved id  107
+2021/03/14 20:05:16 SavedId 107
+2021/03/14 20:05:16 &{ map[id:107] 0xc00021b600 false 0xc000064200 session} <nil>
+2021/03/14 20:05:16 saved id  107
+2021/03/14 20:05:16 id in Load 107
+2021/03/14 20:05:16 error loading <nil>
+2021/03/14 20:05:16 &{ map[id:107] 0xc00021b600 false 0xc000064200 session} <nil>
+2021/03/14 20:05:16 saved id  107
+2021/03/14 20:05:16 &{ map[id:107] 0xc000096fc0 false 0xc000064200 session} <nil>
+2021/03/14 20:05:16 saved id  107
+2021/03/14 20:05:16 SavedId 107
+2021/03/14 20:05:16 &{ map[id:107] 0xc000096fc0 false 0xc000064200 session} <nil>
+2021/03/14 20:05:16 saved id  107
+2021/03/14 20:05:16 id in Load 107
+2021/03/14 20:05:16 error loading <nil>
+2021/03/14 20:05:31 &{ map[id:107] 0xc00021b940 false 0xc000064200 session} <nil>
+2021/03/14 20:05:31 saved id  107
+2021/03/14 20:05:31 SavedId 107
+2021/03/14 20:05:31 &{ map[id:107] 0xc00021b940 false 0xc000064200 session} <nil>
+2021/03/14 20:05:31 saved id  107
+2021/03/14 20:05:31 id in Load 107
+2021/03/14 20:05:31 error loading <nil>
+2021/03/14 20:05:31 &{ map[id:107] 0xc00021b940 false 0xc000064200 session} <nil>
+2021/03/14 20:05:31 saved id  107
+2021/03/14 20:05:31 &{ map[id:107] 0xc000097380 false 0xc000064200 session} <nil>
+2021/03/14 20:05:31 saved id  107
+2021/03/14 20:05:31 SavedId 107
+2021/03/14 20:05:31 &{ map[id:107] 0xc000097380 false 0xc000064200 session} <nil>
+2021/03/14 20:05:31 saved id  107
+2021/03/14 20:05:31 id in Load 107
+2021/03/14 20:05:31 error loading <nil>
+2021/03/14 20:06:38 &{ map[id:107] 0xc00021bc80 false 0xc000064200 session} <nil>
+2021/03/14 20:06:38 saved id  107
+2021/03/14 20:06:38 SavedId 107
+2021/03/14 20:06:38 &{ map[id:107] 0xc00021bc80 false 0xc000064200 session} <nil>
+2021/03/14 20:06:38 saved id  107
+2021/03/14 20:06:38 id in Load 107
+2021/03/14 20:06:38 error loading <nil>
+2021/03/14 20:06:38 &{ map[id:107] 0xc00021bc80 false 0xc000064200 session} <nil>
+2021/03/14 20:06:38 saved id  107
+2021/03/14 20:06:38 &{ map[id:107] 0xc0001a5100 false 0xc000064200 session} <nil>
+2021/03/14 20:06:38 saved id  107
+2021/03/14 20:06:38 SavedId 107
+2021/03/14 20:06:38 &{ map[id:107] 0xc0001a5100 false 0xc000064200 session} <nil>
+2021/03/14 20:06:38 saved id  107
+2021/03/14 20:06:38 id in Load 107
+2021/03/14 20:06:38 error loading <nil>
+2021/03/14 20:06:46 &{ map[id:107] 0xc000097700 false 0xc000064200 session} <nil>
+2021/03/14 20:06:46 saved id  107
+2021/03/14 20:06:46 SavedId 107
+2021/03/14 20:06:46 &{ map[id:107] 0xc000097700 false 0xc000064200 session} <nil>
+2021/03/14 20:06:46 saved id  107
+2021/03/14 20:06:46 id in Load 107
+2021/03/14 20:06:46 error loading <nil>
+2021/03/14 20:06:46 &{ map[id:107] 0xc000097700 false 0xc000064200 session} <nil>
+2021/03/14 20:06:46 saved id  107
+2021/03/14 20:06:46 &{ map[id:107] 0xc0001a5400 false 0xc000064200 session} <nil>
+2021/03/14 20:06:46 saved id  107
+2021/03/14 20:06:46 SavedId 107
+2021/03/14 20:06:46 &{ map[id:107] 0xc0001a5400 false 0xc000064200 session} <nil>
+2021/03/14 20:06:46 saved id  107
+2021/03/14 20:06:46 id in Load 107
+2021/03/14 20:06:46 error loading <nil>
+2021/03/14 20:12:36 &{ map[id:107] 0xc000097a80 false 0xc000064200 session} <nil>
+2021/03/14 20:12:36 saved id  107
+2021/03/14 20:12:36 SavedId 107
+2021/03/14 20:12:36 &{ map[id:107] 0xc000097a80 false 0xc000064200 session} <nil>
+2021/03/14 20:12:36 saved id  107
+2021/03/14 20:12:36 id in Load 107
+2021/03/14 20:12:36 error loading <nil>
+2021/03/14 20:12:36 &{ map[id:107] 0xc000097a80 false 0xc000064200 session} <nil>
+2021/03/14 20:12:36 saved id  107
+2021/03/14 20:12:36 &{ map[id:107] 0xc000304100 false 0xc000064200 session} <nil>
+2021/03/14 20:12:36 saved id  107
+2021/03/14 20:12:36 SavedId 107
+2021/03/14 20:12:36 &{ map[id:107] 0xc000304100 false 0xc000064200 session} <nil>
+2021/03/14 20:12:36 saved id  107
+2021/03/14 20:12:36 id in Load 107
+2021/03/14 20:12:36 error loading <nil>
+2021/03/14 20:13:05 &{ map[id:107] 0xc000097e40 false 0xc000064200 session} <nil>
+2021/03/14 20:13:05 saved id  107
+2021/03/14 20:13:05 SavedId 107
+2021/03/14 20:13:05 &{ map[id:107] 0xc000097e40 false 0xc000064200 session} <nil>
+2021/03/14 20:13:05 saved id  107
+2021/03/14 20:13:05 id in Load 107
+2021/03/14 20:13:05 error loading <nil>
+2021/03/14 20:13:05 &{ map[id:107] 0xc000097e40 false 0xc000064200 session} <nil>
+2021/03/14 20:13:05 saved id  107
+2021/03/14 20:13:05 &{ map[id:107] 0xc0001a5740 false 0xc000064200 session} <nil>
+2021/03/14 20:13:05 saved id  107
+2021/03/14 20:13:05 SavedId 107
+2021/03/14 20:13:05 &{ map[id:107] 0xc0001a5740 false 0xc000064200 session} <nil>
+2021/03/14 20:13:05 saved id  107
+2021/03/14 20:13:05 id in Load 107
+2021/03/14 20:13:05 error loading <nil>
+2021/03/14 20:13:10 &{ map[id:107] 0xc0001a5a80 false 0xc000064200 session} <nil>
+2021/03/14 20:13:10 saved id  107
+2021/03/14 20:13:10 SavedId 107
+2021/03/14 20:13:10 &{ map[id:107] 0xc0001a5a80 false 0xc000064200 session} <nil>
+2021/03/14 20:13:10 saved id  107
+2021/03/14 20:13:10 id in Load 107
+2021/03/14 20:13:10 error loading <nil>
+2021/03/14 20:13:10 &{ map[id:107] 0xc0001a5a80 false 0xc000064200 session} <nil>
+2021/03/14 20:13:10 saved id  107
+2021/03/14 20:13:10 &{ map[id:107] 0xc0003044c0 false 0xc000064200 session} <nil>
+2021/03/14 20:13:10 saved id  107
+2021/03/14 20:13:10 SavedId 107
+2021/03/14 20:13:10 &{ map[id:107] 0xc0003044c0 false 0xc000064200 session} <nil>
+2021/03/14 20:13:10 saved id  107
+2021/03/14 20:13:10 id in Load 107
+2021/03/14 20:13:10 error loading <nil>
+2021/03/14 20:20:27 &{ map[id:107] 0xc0002a6280 false 0xc000064200 session} <nil>
+2021/03/14 20:20:27 saved id  107
+2021/03/14 20:20:27 SavedId 107
+2021/03/14 20:20:27 &{ map[id:107] 0xc0002a6280 false 0xc000064200 session} <nil>
+2021/03/14 20:20:27 saved id  107
+2021/03/14 20:20:27 id in Load 107
+2021/03/14 20:20:27 error loading <nil>
+2021/03/14 20:20:27 &{ map[id:107] 0xc0002a6280 false 0xc000064200 session} <nil>
+2021/03/14 20:20:27 saved id  107
+2021/03/14 20:20:27 &{ map[id:107] 0xc0001a5dc0 false 0xc000064200 session} <nil>
+2021/03/14 20:20:27 saved id  107
+2021/03/14 20:20:27 SavedId 107
+2021/03/14 20:20:27 &{ map[id:107] 0xc0001a5dc0 false 0xc000064200 session} <nil>
+2021/03/14 20:20:27 saved id  107
+2021/03/14 20:20:27 id in Load 107
+2021/03/14 20:20:27 error loading <nil>
+2021/03/14 20:20:34 &{ map[id:107] 0xc0002a6580 false 0xc000064200 session} <nil>
+2021/03/14 20:20:34 saved id  107
+2021/03/14 20:20:34 SavedId 107
+2021/03/14 20:20:34 &{ map[id:107] 0xc0002a6580 false 0xc000064200 session} <nil>
+2021/03/14 20:20:34 saved id  107
+2021/03/14 20:20:34 id in Load 107
+2021/03/14 20:20:34 error loading <nil>
+2021/03/14 20:20:34 &{ map[id:107] 0xc0002a6580 false 0xc000064200 session} <nil>
+2021/03/14 20:20:34 saved id  107
+2021/03/14 20:20:34 &{ map[id:107] 0xc0001e6100 false 0xc000064200 session} <nil>
+2021/03/14 20:20:34 saved id  107
+2021/03/14 20:20:34 SavedId 107
+2021/03/14 20:20:34 &{ map[id:107] 0xc0001e6100 false 0xc000064200 session} <nil>
+2021/03/14 20:20:34 saved id  107
+2021/03/14 20:20:34 id in Load 107
+2021/03/14 20:20:34 error loading <nil>
+2021/03/14 20:21:14 &{ map[id:107] 0xc0001e6440 false 0xc000064200 session} <nil>
+2021/03/14 20:21:14 saved id  107
+2021/03/14 20:21:14 SavedId 107
+2021/03/14 20:21:14 &{ map[id:107] 0xc0001e6440 false 0xc000064200 session} <nil>
+2021/03/14 20:21:14 saved id  107
+2021/03/14 20:21:14 id in Load 107
+2021/03/14 20:21:14 error loading <nil>
+2021/03/14 20:21:14 &{ map[id:107] 0xc0001e6440 false 0xc000064200 session} <nil>
+2021/03/14 20:21:14 saved id  107
+2021/03/14 20:21:15 &{ map[id:107] 0xc0002a6940 false 0xc000064200 session} <nil>
+2021/03/14 20:21:15 saved id  107
+2021/03/14 20:21:15 SavedId 107
+2021/03/14 20:21:15 &{ map[id:107] 0xc0002a6940 false 0xc000064200 session} <nil>
+2021/03/14 20:21:15 saved id  107
+2021/03/14 20:21:15 id in Load 107
+2021/03/14 20:21:15 error loading <nil>
+2021/03/14 20:27:06 &{ map[id:107] 0xc0001e6840 false 0xc000064200 session} <nil>
+2021/03/14 20:27:06 saved id  107
+2021/03/14 20:27:06 SavedId 107
+2021/03/14 20:27:06 &{ map[id:107] 0xc0001e6840 false 0xc000064200 session} <nil>
+2021/03/14 20:27:06 saved id  107
+2021/03/14 20:27:06 id in Load 107
+2021/03/14 20:27:06 error loading <nil>
+2021/03/14 20:27:06 &{ map[id:107] 0xc0001e6840 false 0xc000064200 session} <nil>
+2021/03/14 20:27:06 saved id  107
+2021/03/14 20:27:06 &{ map[id:107] 0xc0002a6c80 false 0xc000064200 session} <nil>
+2021/03/14 20:27:06 saved id  107
+2021/03/14 20:27:06 SavedId 107
+2021/03/14 20:27:06 &{ map[id:107] 0xc0002a6c80 false 0xc000064200 session} <nil>
+2021/03/14 20:27:06 saved id  107
+2021/03/14 20:27:06 id in Load 107
+2021/03/14 20:27:06 error loading <nil>
+2021/03/14 20:28:03 &{ map[id:107] 0xc0001e6b40 false 0xc000064200 session} <nil>
+2021/03/14 20:28:03 saved id  107
+2021/03/14 20:28:03 SavedId 107
+2021/03/14 20:28:03 &{ map[id:107] 0xc0001e6b40 false 0xc000064200 session} <nil>
+2021/03/14 20:28:03 saved id  107
+2021/03/14 20:28:03 id in Load 107
+2021/03/14 20:28:03 error loading <nil>
+2021/03/14 20:28:03 &{ map[id:107] 0xc0001e6b40 false 0xc000064200 session} <nil>
+2021/03/14 20:28:03 saved id  107
+2021/03/14 20:28:04 &{ map[id:107] 0xc0003049c0 false 0xc000064200 session} <nil>
+2021/03/14 20:28:04 saved id  107
+2021/03/14 20:28:04 SavedId 107
+2021/03/14 20:28:04 &{ map[id:107] 0xc0003049c0 false 0xc000064200 session} <nil>
+2021/03/14 20:28:04 saved id  107
+2021/03/14 20:28:04 id in Load 107
+2021/03/14 20:28:04 error loading <nil>
+2021/03/14 20:28:25 &{ map[id:107] 0xc000304d00 false 0xc000064200 session} <nil>
+2021/03/14 20:28:25 saved id  107
+2021/03/14 20:28:25 SavedId 107
+2021/03/14 20:28:25 &{ map[id:107] 0xc000304d00 false 0xc000064200 session} <nil>
+2021/03/14 20:28:25 saved id  107
+2021/03/14 20:28:25 id in Load 107
+2021/03/14 20:28:25 error loading <nil>
+2021/03/14 20:28:25 &{ map[id:107] 0xc000304d00 false 0xc000064200 session} <nil>
+2021/03/14 20:28:25 saved id  107
+2021/03/14 20:28:25 &{ map[id:107] 0xc0002a7000 false 0xc000064200 session} <nil>
+2021/03/14 20:28:25 saved id  107
+2021/03/14 20:28:25 SavedId 107
+2021/03/14 20:28:25 &{ map[id:107] 0xc0002a7000 false 0xc000064200 session} <nil>
+2021/03/14 20:28:25 saved id  107
+2021/03/14 20:28:25 id in Load 107
+2021/03/14 20:28:25 error loading <nil>
+2021/03/14 20:28:28 &{ map[id:107] 0xc0001e6f40 false 0xc000064200 session} <nil>
+2021/03/14 20:28:28 saved id  107
+2021/03/14 20:28:28 SavedId 107
+2021/03/14 20:28:28 &{ map[id:107] 0xc0001e6f40 false 0xc000064200 session} <nil>
+2021/03/14 20:28:28 saved id  107
+2021/03/14 20:28:28 id in Load 107
+2021/03/14 20:28:28 error loading <nil>
+2021/03/14 20:28:28 &{ map[id:107] 0xc0001e6f40 false 0xc000064200 session} <nil>
+2021/03/14 20:28:28 saved id  107
+2021/03/14 20:28:29 &{ map[id:107] 0xc000305000 false 0xc000064200 session} <nil>
+2021/03/14 20:28:29 saved id  107
+2021/03/14 20:28:29 SavedId 107
+2021/03/14 20:28:29 &{ map[id:107] 0xc000305000 false 0xc000064200 session} <nil>
+2021/03/14 20:28:29 saved id  107
+2021/03/14 20:28:29 id in Load 107
+2021/03/14 20:28:29 error loading <nil>
+2021/03/14 20:28:29 &{ map[id:107] 0xc000305000 false 0xc000064200 session} <nil>
+2021/03/14 20:28:29 saved id  107
+2021/03/14 20:28:29 SavedId 107
+2021/03/14 20:28:29 &{ map[id:107] 0xc000305000 false 0xc000064200 session} <nil>
+2021/03/14 20:28:29 saved id  107
+2021/03/14 20:28:29 id in Load 107
+2021/03/14 20:28:29 error loading <nil>
+2021/03/14 20:28:29 args
+2021/03/14 20:28:29 107
+2021/03/14 20:28:34 &{ map[id:107] 0xc0001e7280 false 0xc000064200 session} <nil>
+2021/03/14 20:28:34 saved id  107
+2021/03/14 20:28:34 SavedId 107
+2021/03/14 20:28:34 &{ map[id:107] 0xc0001e7280 false 0xc000064200 session} <nil>
+2021/03/14 20:28:34 saved id  107
+2021/03/14 20:28:34 id in Load 107
+2021/03/14 20:28:34 error loading <nil>
+2021/03/14 20:28:34 &{ map[id:107] 0xc0001e7280 false 0xc000064200 session} <nil>
+2021/03/14 20:28:34 saved id  107
+2021/03/14 20:28:34 &{ map[id:107] 0xc0002a7340 false 0xc000064200 session} <nil>
+2021/03/14 20:28:34 saved id  107
+2021/03/14 20:28:34 SavedId 107
+2021/03/14 20:28:34 &{ map[id:107] 0xc0002a7340 false 0xc000064200 session} <nil>
+2021/03/14 20:28:34 saved id  107
+2021/03/14 20:28:34 id in Load 107
+2021/03/14 20:28:34 error loading <nil>
+2021/03/14 20:29:21 &{ map[id:107] 0xc0001e7640 false 0xc000064200 session} <nil>
+2021/03/14 20:29:21 saved id  107
+2021/03/14 20:29:21 SavedId 107
+2021/03/14 20:29:21 &{ map[id:107] 0xc0001e7640 false 0xc000064200 session} <nil>
+2021/03/14 20:29:21 saved id  107
+2021/03/14 20:29:21 id in Load 107
+2021/03/14 20:29:21 error loading <nil>
+2021/03/14 20:29:21 &{ map[id:107] 0xc0001e7640 false 0xc000064200 session} <nil>
+2021/03/14 20:29:21 saved id  107
+2021/03/14 20:29:21 &{ map[id:107] 0xc0003053c0 false 0xc000064200 session} <nil>
+2021/03/14 20:29:21 saved id  107
+2021/03/14 20:29:21 SavedId 107
+2021/03/14 20:29:21 &{ map[id:107] 0xc0003053c0 false 0xc000064200 session} <nil>
+2021/03/14 20:29:21 saved id  107
+2021/03/14 20:29:21 id in Load 107
+2021/03/14 20:29:21 error loading <nil>
+2021/03/14 20:29:22 &{ map[id:107] 0xc0001e7a40 false 0xc000064200 session} <nil>
+2021/03/14 20:29:22 saved id  107
+2021/03/14 20:29:22 SavedId 107
+2021/03/14 20:29:22 &{ map[id:107] 0xc0001e7a40 false 0xc000064200 session} <nil>
+2021/03/14 20:29:22 saved id  107
+2021/03/14 20:29:22 id in Load 107
+2021/03/14 20:29:22 error loading <nil>
+2021/03/14 20:29:22 &{ map[id:107] 0xc0001e7a40 false 0xc000064200 session} <nil>
+2021/03/14 20:29:22 saved id  107
+2021/03/14 20:29:22 &{ map[id:107] 0xc000305700 false 0xc000064200 session} <nil>
+2021/03/14 20:29:22 saved id  107
+2021/03/14 20:29:22 SavedId 107
+2021/03/14 20:29:22 &{ map[id:107] 0xc000305700 false 0xc000064200 session} <nil>
+2021/03/14 20:29:22 saved id  107
+2021/03/14 20:29:22 id in Load 107
+2021/03/14 20:29:22 error loading <nil>
+2021/03/14 20:35:09 &{ map[id:107] 0xc000305a00 false 0xc000064200 session} <nil>
+2021/03/14 20:35:09 saved id  107
+2021/03/14 20:35:09 SavedId 107
+2021/03/14 20:35:09 &{ map[id:107] 0xc000305a00 false 0xc000064200 session} <nil>
+2021/03/14 20:35:09 saved id  107
+2021/03/14 20:35:09 id in Load 107
+2021/03/14 20:35:09 error loading <nil>
+2021/03/14 20:35:09 &{ map[id:107] 0xc000305a00 false 0xc000064200 session} <nil>
+2021/03/14 20:35:09 saved id  107
+2021/03/14 20:35:10 &{ map[id:107] 0xc0001e7e80 false 0xc000064200 session} <nil>
+2021/03/14 20:35:10 saved id  107
+2021/03/14 20:35:10 SavedId 107
+2021/03/14 20:35:10 &{ map[id:107] 0xc0001e7e80 false 0xc000064200 session} <nil>
+2021/03/14 20:35:10 saved id  107
+2021/03/14 20:35:10 &{ map[id:107] 0xc000305d00 false 0xc000064200 session} <nil>
+2021/03/14 20:35:10 saved id  107
+2021/03/14 20:35:10 SavedId 107
+2021/03/14 20:35:10 &{ map[id:107] 0xc000305d00 false 0xc000064200 session} <nil>
+2021/03/14 20:35:10 saved id  107
+2021/03/14 20:35:10 id in Load 107
+2021/03/14 20:35:10 error loading <nil>
+2021/03/14 20:35:10 &{ map[id:107] 0xc0001e7e80 false 0xc000064200 session} <nil>
+2021/03/14 20:35:10 saved id  107
+2021/03/14 20:35:10 id in Load 107
+2021/03/14 20:35:10 error loading <nil>
+2021/03/14 20:35:10 &{ map[id:107] 0xc0002a77c0 false 0xc000064200 session} <nil>
+2021/03/14 20:35:10 saved id  107
+2021/03/14 20:35:10 SavedId 107
+2021/03/14 20:35:10 &{ map[id:107] 0xc0002a77c0 false 0xc000064200 session} <nil>
+2021/03/14 20:35:10 saved id  107
+2021/03/14 20:35:10 id in Load 107
+2021/03/14 20:35:10 error loading <nil>
+2021/03/14 20:35:37 &{ map[id:107] 0xc0003b6200 false 0xc000064200 session} <nil>
+2021/03/14 20:35:37 saved id  107
+2021/03/14 20:35:37 SavedId 107
+2021/03/14 20:35:37 &{ map[id:107] 0xc0003b6200 false 0xc000064200 session} <nil>
+2021/03/14 20:35:37 saved id  107
+2021/03/14 20:35:37 id in Load 107
+2021/03/14 20:35:37 error loading <nil>
+2021/03/14 20:35:37 &{ map[id:107] 0xc0003b6200 false 0xc000064200 session} <nil>
+2021/03/14 20:35:37 saved id  107
+2021/03/14 20:35:37 &{ map[id:107] 0xc0002a7b00 false 0xc000064200 session} <nil>
+2021/03/14 20:35:37 saved id  107
+2021/03/14 20:35:37 SavedId 107
+2021/03/14 20:35:37 &{ map[id:107] 0xc0002a7b00 false 0xc000064200 session} <nil>
+2021/03/14 20:35:37 saved id  107
+2021/03/14 20:35:37 id in Load 107
+2021/03/14 20:35:37 error loading <nil>
+2021/03/14 20:35:38 &{ map[id:107] 0xc0003b6540 false 0xc000064200 session} <nil>
+2021/03/14 20:35:38 saved id  107
+2021/03/14 20:35:38 SavedId 107
+2021/03/14 20:35:38 &{ map[id:107] 0xc0003b6540 false 0xc000064200 session} <nil>
+2021/03/14 20:35:38 saved id  107
+2021/03/14 20:35:38 id in Load 107
+2021/03/14 20:35:38 error loading <nil>
+2021/03/14 20:35:38 &{ map[id:107] 0xc0003b6540 false 0xc000064200 session} <nil>
+2021/03/14 20:35:38 saved id  107
+2021/03/14 20:35:38 &{ map[id:107] 0xc0002a7ec0 false 0xc000064200 session} <nil>
+2021/03/14 20:35:38 saved id  107
+2021/03/14 20:35:38 SavedId 107
+2021/03/14 20:35:38 &{ map[id:107] 0xc0002a7ec0 false 0xc000064200 session} <nil>
+2021/03/14 20:35:38 saved id  107
+2021/03/14 20:35:38 id in Load 107
+2021/03/14 20:35:38 error loading <nil>
+2021/03/14 20:35:50 &{ map[id:107] 0xc000356100 false 0xc000064200 session} <nil>
+2021/03/14 20:35:50 saved id  107
+2021/03/14 20:35:50 SavedId 107
+2021/03/14 20:35:50 &{ map[id:107] 0xc000356100 false 0xc000064200 session} <nil>
+2021/03/14 20:35:50 saved id  107
+2021/03/14 20:35:50 id in Load 107
+2021/03/14 20:35:50 error loading <nil>
+2021/03/14 20:35:50 &{ map[id:107] 0xc000356100 false 0xc000064200 session} <nil>
+2021/03/14 20:35:50 saved id  107
+2021/03/14 20:35:50 &{ map[id:107] 0xc0003b6940 false 0xc000064200 session} <nil>
+2021/03/14 20:35:50 saved id  107
+2021/03/14 20:35:50 SavedId 107
+2021/03/14 20:35:50 &{ map[id:107] 0xc0003b6940 false 0xc000064200 session} <nil>
+2021/03/14 20:35:50 saved id  107
+2021/03/14 20:35:50 id in Load 107
+2021/03/14 20:35:50 error loading <nil>
+2021/03/14 20:35:58 &{ map[id:107] 0xc0003b6c80 false 0xc000064200 session} <nil>
+2021/03/14 20:35:58 saved id  107
+2021/03/14 20:35:58 SavedId 107
+2021/03/14 20:35:58 &{ map[id:107] 0xc0003b6c80 false 0xc000064200 session} <nil>
+2021/03/14 20:35:58 saved id  107
+2021/03/14 20:35:58 id in Load 107
+2021/03/14 20:35:58 error loading <nil>
+2021/03/14 20:35:58 &{ map[id:107] 0xc0003b6c80 false 0xc000064200 session} <nil>
+2021/03/14 20:35:58 saved id  107
+2021/03/14 20:35:58 &{ map[id:107] 0xc0003b7000 false 0xc000064200 session} <nil>
+2021/03/14 20:35:58 saved id  107
+2021/03/14 20:35:58 SavedId 107
+2021/03/14 20:35:58 &{ map[id:107] 0xc0003b7000 false 0xc000064200 session} <nil>
+2021/03/14 20:35:58 saved id  107
+2021/03/14 20:35:58 id in Load 107
+2021/03/14 20:35:58 error loading <nil>
+2021/03/14 20:36:16 &{ map[id:107] 0xc000356480 false 0xc000064200 session} <nil>
+2021/03/14 20:36:16 saved id  107
+2021/03/14 20:36:16 SavedId 107
+2021/03/14 20:36:16 &{ map[id:107] 0xc000356480 false 0xc000064200 session} <nil>
+2021/03/14 20:36:16 saved id  107
+2021/03/14 20:36:16 id in Load 107
+2021/03/14 20:36:16 error loading <nil>
+2021/03/14 20:36:16 &{ map[id:107] 0xc000356480 false 0xc000064200 session} <nil>
+2021/03/14 20:36:16 saved id  107
+2021/03/14 20:36:16 &{ map[id:107] 0xc0003b7340 false 0xc000064200 session} <nil>
+2021/03/14 20:36:16 saved id  107
+2021/03/14 20:36:16 SavedId 107
+2021/03/14 20:36:16 &{ map[id:107] 0xc0003b7340 false 0xc000064200 session} <nil>
+2021/03/14 20:36:16 saved id  107
+2021/03/14 20:36:16 id in Load 107
+2021/03/14 20:36:16 error loading <nil>
+2021/03/14 20:36:17 &{ map[id:107] 0xc0003b7680 false 0xc000064200 session} <nil>
+2021/03/14 20:36:17 saved id  107
+2021/03/14 20:36:17 SavedId 107
+2021/03/14 20:36:17 &{ map[id:107] 0xc0003b7680 false 0xc000064200 session} <nil>
+2021/03/14 20:36:17 saved id  107
+2021/03/14 20:36:17 id in Load 107
+2021/03/14 20:36:17 error loading <nil>
+2021/03/14 20:36:17 &{ map[id:107] 0xc0003b7680 false 0xc000064200 session} <nil>
+2021/03/14 20:36:17 saved id  107
+2021/03/14 20:36:17 &{ map[id:107] 0xc0002e4240 false 0xc000064200 session} <nil>
+2021/03/14 20:36:17 saved id  107
+2021/03/14 20:36:17 SavedId 107
+2021/03/14 20:36:17 &{ map[id:107] 0xc0002e4240 false 0xc000064200 session} <nil>
+2021/03/14 20:36:17 saved id  107
+2021/03/14 20:36:17 id in Load 107
+2021/03/14 20:36:17 error loading <nil>
+2021/03/14 20:38:45 &{ map[id:107] 0xc0003568c0 false 0xc000064200 session} <nil>
+2021/03/14 20:38:45 saved id  107
+2021/03/14 20:38:45 SavedId 107
+2021/03/14 20:38:45 &{ map[id:107] 0xc0003568c0 false 0xc000064200 session} <nil>
+2021/03/14 20:38:45 saved id  107
+2021/03/14 20:38:45 id in Load 107
+2021/03/14 20:38:45 error loading <nil>
+2021/03/14 20:38:45 &{ map[id:107] 0xc0003568c0 false 0xc000064200 session} <nil>
+2021/03/14 20:38:45 saved id  107
+2021/03/14 20:38:45 &{ map[id:107] 0xc0003b7a80 false 0xc000064200 session} <nil>
+2021/03/14 20:38:45 saved id  107
+2021/03/14 20:38:45 SavedId 107
+2021/03/14 20:38:45 &{ map[id:107] 0xc0003b7a80 false 0xc000064200 session} <nil>
+2021/03/14 20:38:45 saved id  107
+2021/03/14 20:38:45 &{ map[id:107] 0xc00040c140 false 0xc000064200 session} <nil>
+2021/03/14 20:38:45 saved id  107
+2021/03/14 20:38:45 SavedId 107
+2021/03/14 20:38:45 &{ map[id:107] 0xc00040c140 false 0xc000064200 session} <nil>
+2021/03/14 20:38:45 saved id  107
+2021/03/14 20:38:45 id in Load 107
+2021/03/14 20:38:45 error loading <nil>
+2021/03/14 20:38:45 &{ map[id:107] 0xc0003b7a80 false 0xc000064200 session} <nil>
+2021/03/14 20:38:45 saved id  107
+2021/03/14 20:38:45 id in Load 107
+2021/03/14 20:38:45 error loading <nil>
+2021/03/14 20:38:45 &{ map[id:107] 0xc000356c40 false 0xc000064200 session} <nil>
+2021/03/14 20:38:45 saved id  107
+2021/03/14 20:38:45 SavedId 107
+2021/03/14 20:38:45 &{ map[id:107] 0xc000356c40 false 0xc000064200 session} <nil>
+2021/03/14 20:38:45 saved id  107
+2021/03/14 20:38:45 id in Load 107
+2021/03/14 20:38:45 error loading <nil>
+2021/03/14 20:38:49 &{ map[id:107] 0xc00040c4c0 false 0xc000064200 session} <nil>
+2021/03/14 20:38:49 saved id  107
+2021/03/14 20:38:49 SavedId 107
+2021/03/14 20:38:49 &{ map[id:107] 0xc00040c4c0 false 0xc000064200 session} <nil>
+2021/03/14 20:38:49 saved id  107
+2021/03/14 20:38:49 id in Load 107
+2021/03/14 20:38:49 error loading <nil>
+2021/03/14 20:38:49 &{ map[id:107] 0xc00040c4c0 false 0xc000064200 session} <nil>
+2021/03/14 20:38:49 saved id  107
+2021/03/14 20:38:49 &{ map[id:107] 0xc0003b7e00 false 0xc000064200 session} <nil>
+2021/03/14 20:38:49 saved id  107
+2021/03/14 20:38:49 SavedId 107
+2021/03/14 20:38:49 &{ map[id:107] 0xc0003b7e00 false 0xc000064200 session} <nil>
+2021/03/14 20:38:49 saved id  107
+2021/03/14 20:38:49 id in Load 107
+2021/03/14 20:38:49 error loading <nil>
+2021/03/14 20:39:25 &{ map[id:107] 0xc000502140 false 0xc000064200 session} <nil>
+2021/03/14 20:39:25 saved id  107
+2021/03/14 20:39:25 SavedId 107
+2021/03/14 20:39:25 &{ map[id:107] 0xc000502140 false 0xc000064200 session} <nil>
+2021/03/14 20:39:25 saved id  107
+2021/03/14 20:39:25 &{ map[id:107] 0xc000502440 false 0xc000064200 session} <nil>
+2021/03/14 20:39:25 saved id  107
+2021/03/14 20:39:25 SavedId 107
+2021/03/14 20:39:25 &{ map[id:107] 0xc000502440 false 0xc000064200 session} <nil>
+2021/03/14 20:39:25 saved id  107
+2021/03/14 20:39:25 id in Load 107
+2021/03/14 20:39:25 error loading <nil>
+2021/03/14 20:39:25 &{ map[id:107] 0xc000502140 false 0xc000064200 session} <nil>
+2021/03/14 20:39:25 saved id  107
+2021/03/14 20:39:25 id in Load 107
+2021/03/14 20:39:25 error loading <nil>
+2021/03/14 20:39:25 &{ map[id:107] 0xc000502440 false 0xc000064200 session} <nil>
+2021/03/14 20:39:25 saved id  107
+2021/03/14 20:39:25 &{ map[id:107] 0xc000357000 false 0xc000064200 session} <nil>
+2021/03/14 20:39:25 saved id  107
+2021/03/14 20:39:25 SavedId 107
+2021/03/14 20:39:25 &{ map[id:107] 0xc000357000 false 0xc000064200 session} <nil>
+2021/03/14 20:39:25 saved id  107
+2021/03/14 20:39:25 id in Load 107
+2021/03/14 20:39:25 error loading <nil>
+2021/03/14 20:39:25 &{ map[id:107] 0xc000357300 false 0xc000064200 session} <nil>
+2021/03/14 20:39:25 saved id  107
+2021/03/14 20:39:25 SavedId 107
+2021/03/14 20:39:25 &{ map[id:107] 0xc000357300 false 0xc000064200 session} <nil>
+2021/03/14 20:39:25 saved id  107
+2021/03/14 20:39:25 id in Load 107
+2021/03/14 20:39:25 error loading <nil>
+2021/03/14 20:39:34 &{ map[id:107] 0xc00058e200 false 0xc000064200 session} <nil>
+2021/03/14 20:39:34 saved id  107
+2021/03/14 20:39:34 SavedId 107
+2021/03/14 20:39:34 &{ map[id:107] 0xc00058e200 false 0xc000064200 session} <nil>
+2021/03/14 20:39:34 saved id  107
+2021/03/14 20:39:34 id in Load 107
+2021/03/14 20:39:34 error loading with  107
+2021/03/14 20:39:34 error loading Error 1040: Too many connections
+2021/03/14 20:39:34 &{ map[id:107] 0xc00058e200 false 0xc000064200 session} <nil>
+2021/03/14 20:39:34 saved id  107
+2021/03/14 20:39:34 http: panic serving 127.0.0.1:56922: runtime error: invalid memory address or nil pointer dereference
+goroutine 221 [running]:
+net/http.(*conn).serve.func1(0xc000249ea0)
+	/usr/local/go/src/net/http/server.go:1824 +0x153
+panic(0x7038c0, 0x954390)
+	/usr/local/go/src/runtime/panic.go:971 +0x499
+database/sql.(*Rows).Next(0x0, 0x7c1a10)
+	/usr/local/go/src/database/sql/sql.go:2842 +0x30
+api/task.CheckIfAssigned(0x7c1060, 0xc0005c4000, 0xc0005b8200)
+	/home/administrator/Documents/coursework/api/task/task.go:220 +0x3c8
+net/http.HandlerFunc.ServeHTTP(0x772638, 0x7c1060, 0xc0005c4000, 0xc0005b8200)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+github.com/gorilla/mux.(*Router).ServeHTTP(0xc000168000, 0x7c1060, 0xc0005c4000, 0xc0005b8000)
+	/home/administrator/go/pkg/mod/github.com/gorilla/mux@v1.8.0/mux.go:210 +0xd3
+github.com/rs/cors.(*Cors).Handler.func1(0x7c1060, 0xc0005c4000, 0xc0005b8000)
+	/home/administrator/go/pkg/mod/github.com/rs/cors@v1.7.0/cors.go:219 +0x1b9
+net/http.HandlerFunc.ServeHTTP(0xc000064220, 0x7c1060, 0xc0005c4000, 0xc0005b8000)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+net/http.serverHandler.ServeHTTP(0xc0001582a0, 0x7c1060, 0xc0005c4000, 0xc0005b8000)
+	/usr/local/go/src/net/http/server.go:2887 +0xa3
+net/http.(*conn).serve(0xc000249ea0, 0x7c1a80, 0xc00040c000)
+	/usr/local/go/src/net/http/server.go:1952 +0x8cd
+created by net/http.(*Server).Serve
+	/usr/local/go/src/net/http/server.go:3013 +0x39b
+2021/03/14 20:39:34 &{ map[id:107] 0xc00040c340 false 0xc000064200 session} <nil>
+2021/03/14 20:39:34 saved id  107
+2021/03/14 20:39:34 SavedId 107
+2021/03/14 20:39:34 &{ map[id:107] 0xc00040c340 false 0xc000064200 session} <nil>
+2021/03/14 20:39:34 saved id  107
+2021/03/14 20:39:34 id in Load 107
+2021/03/14 20:39:34 error loading with  107
+2021/03/14 20:39:34 error loading Error 1040: Too many connections
+2021/03/14 20:39:34 &{ map[id:107] 0xc00040c340 false 0xc000064200 session} <nil>
+2021/03/14 20:39:34 saved id  107
+2021/03/14 20:39:34 http: panic serving 127.0.0.1:56914: runtime error: invalid memory address or nil pointer dereference
+goroutine 204 [running]:
+net/http.(*conn).serve.func1(0xc00017ff40)
+	/usr/local/go/src/net/http/server.go:1824 +0x153
+panic(0x7038c0, 0x954390)
+	/usr/local/go/src/runtime/panic.go:971 +0x499
+database/sql.(*Rows).Next(0x0, 0x7c1a10)
+	/usr/local/go/src/database/sql/sql.go:2842 +0x30
+api/task.CheckIfAssigned(0x7c1060, 0xc000158000, 0xc0005b8400)
+	/home/administrator/Documents/coursework/api/task/task.go:220 +0x3c8
+net/http.HandlerFunc.ServeHTTP(0x772638, 0x7c1060, 0xc000158000, 0xc0005b8400)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+github.com/gorilla/mux.(*Router).ServeHTTP(0xc000168000, 0x7c1060, 0xc000158000, 0xc0005b8100)
+	/home/administrator/go/pkg/mod/github.com/gorilla/mux@v1.8.0/mux.go:210 +0xd3
+github.com/rs/cors.(*Cors).Handler.func1(0x7c1060, 0xc000158000, 0xc0005b8100)
+	/home/administrator/go/pkg/mod/github.com/rs/cors@v1.7.0/cors.go:219 +0x1b9
+net/http.HandlerFunc.ServeHTTP(0xc000064220, 0x7c1060, 0xc000158000, 0xc0005b8100)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+net/http.serverHandler.ServeHTTP(0xc0001582a0, 0x7c1060, 0xc000158000, 0xc0005b8100)
+	/usr/local/go/src/net/http/server.go:2887 +0xa3
+net/http.(*conn).serve(0xc00017ff40, 0x7c1a80, 0xc0003b78c0)
+	/usr/local/go/src/net/http/server.go:1952 +0x8cd
+created by net/http.(*Server).Serve
+	/usr/local/go/src/net/http/server.go:3013 +0x39b
+2021/03/14 20:39:34 &{ map[id:107] 0xc00002d7c0 false 0xc000064200 session} <nil>
+2021/03/14 20:39:34 saved id  107
+2021/03/14 20:39:34 SavedId 107
+2021/03/14 20:39:34 &{ map[id:107] 0xc00002d7c0 false 0xc000064200 session} <nil>
+2021/03/14 20:39:34 saved id  107
+2021/03/14 20:39:34 id in Load 107
+2021/03/14 20:39:34 error loading with  107
+2021/03/14 20:39:34 error loading Error 1040: Too many connections
+2021/03/14 20:39:34 &{ map[id:107] 0xc00002d7c0 false 0xc000064200 session} <nil>
+2021/03/14 20:39:34 saved id  107
+2021/03/14 20:39:34 http: panic serving 127.0.0.1:57014: runtime error: invalid memory address or nil pointer dereference
+goroutine 251 [running]:
+net/http.(*conn).serve.func1(0xc000480280)
+	/usr/local/go/src/net/http/server.go:1824 +0x153
+panic(0x7038c0, 0x954390)
+	/usr/local/go/src/runtime/panic.go:971 +0x499
+database/sql.(*Rows).Next(0x0, 0x7c1a10)
+	/usr/local/go/src/database/sql/sql.go:2842 +0x30
+api/task.CheckIfAssigned(0x7c1060, 0xc0005c40e0, 0xc000468100)
+	/home/administrator/Documents/coursework/api/task/task.go:220 +0x3c8
+net/http.HandlerFunc.ServeHTTP(0x772638, 0x7c1060, 0xc0005c40e0, 0xc000468100)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+github.com/gorilla/mux.(*Router).ServeHTTP(0xc000168000, 0x7c1060, 0xc0005c40e0, 0xc0002fc000)
+	/home/administrator/go/pkg/mod/github.com/gorilla/mux@v1.8.0/mux.go:210 +0xd3
+github.com/rs/cors.(*Cors).Handler.func1(0x7c1060, 0xc0005c40e0, 0xc0002fc000)
+	/home/administrator/go/pkg/mod/github.com/rs/cors@v1.7.0/cors.go:219 +0x1b9
+net/http.HandlerFunc.ServeHTTP(0xc000064220, 0x7c1060, 0xc0005c40e0, 0xc0002fc000)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+net/http.serverHandler.ServeHTTP(0xc0001582a0, 0x7c1060, 0xc0005c40e0, 0xc0002fc000)
+	/usr/local/go/src/net/http/server.go:2887 +0xa3
+net/http.(*conn).serve(0xc000480280, 0x7c1a80, 0xc00058e000)
+	/usr/local/go/src/net/http/server.go:1952 +0x8cd
+created by net/http.(*Server).Serve
+	/usr/local/go/src/net/http/server.go:3013 +0x39b
+2021/03/14 20:40:27 &{ map[id:107] 0xc00040c700 false 0xc000064200 session} <nil>
+2021/03/14 20:40:27 saved id  107
+2021/03/14 20:40:27 SavedId 107
+2021/03/14 20:40:27 &{ map[id:107] 0xc00040c700 false 0xc000064200 session} <nil>
+2021/03/14 20:40:27 saved id  107
+2021/03/14 20:40:27 &{ map[id:107] 0xc00002dc00 false 0xc000064200 session} <nil>
+2021/03/14 20:40:27 saved id  107
+2021/03/14 20:40:27 SavedId 107
+2021/03/14 20:40:27 &{ map[id:107] 0xc00002dc00 false 0xc000064200 session} <nil>
+2021/03/14 20:40:27 saved id  107
+2021/03/14 20:40:27 id in Load 107
+2021/03/14 20:40:27 error loading with  107
+2021/03/14 20:40:27 error loading Error 1040: Too many connections
+2021/03/14 20:40:27 &{ map[id:107] 0xc00040c700 false 0xc000064200 session} <nil>
+2021/03/14 20:40:27 saved id  107
+2021/03/14 20:40:27 id in Load 107
+2021/03/14 20:40:27 error loading with  107
+2021/03/14 20:40:27 error loading Error 1040: Too many connections
+2021/03/14 20:40:27 &{ map[id:107] 0xc00002dc00 false 0xc000064200 session} <nil>
+2021/03/14 20:40:27 saved id  107
+2021/03/14 20:40:27 http: panic serving 127.0.0.1:57028: runtime error: invalid memory address or nil pointer dereference
+goroutine 290 [running]:
+net/http.(*conn).serve.func1(0xc0003f43c0)
+	/usr/local/go/src/net/http/server.go:1824 +0x153
+panic(0x7038c0, 0x954390)
+	/usr/local/go/src/runtime/panic.go:971 +0x499
+database/sql.(*Rows).Next(0x0, 0x7c1a10)
+	/usr/local/go/src/database/sql/sql.go:2842 +0x30
+api/task.CheckIfAssigned(0x7c1060, 0xc0001580e0, 0xc0005b8700)
+	/home/administrator/Documents/coursework/api/task/task.go:220 +0x3c8
+net/http.HandlerFunc.ServeHTTP(0x772638, 0x7c1060, 0xc0001580e0, 0xc0005b8700)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+github.com/gorilla/mux.(*Router).ServeHTTP(0xc000168000, 0x7c1060, 0xc0001580e0, 0xc0005b8500)
+	/home/administrator/go/pkg/mod/github.com/gorilla/mux@v1.8.0/mux.go:210 +0xd3
+github.com/rs/cors.(*Cors).Handler.func1(0x7c1060, 0xc0001580e0, 0xc0005b8500)
+	/home/administrator/go/pkg/mod/github.com/rs/cors@v1.7.0/cors.go:219 +0x1b9
+net/http.HandlerFunc.ServeHTTP(0xc000064220, 0x7c1060, 0xc0001580e0, 0xc0005b8500)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+net/http.serverHandler.ServeHTTP(0xc0001582a0, 0x7c1060, 0xc0001580e0, 0xc0005b8500)
+	/usr/local/go/src/net/http/server.go:2887 +0xa3
+net/http.(*conn).serve(0xc0003f43c0, 0x7c1a80, 0xc00040c580)
+	/usr/local/go/src/net/http/server.go:1952 +0x8cd
+created by net/http.(*Server).Serve
+	/usr/local/go/src/net/http/server.go:3013 +0x39b
+2021/03/14 20:40:27 http: panic serving 127.0.0.1:57030: runtime error: invalid memory address or nil pointer dereference
+goroutine 235 [running]:
+net/http.(*conn).serve.func1(0xc0000e30e0)
+	/usr/local/go/src/net/http/server.go:1824 +0x153
+panic(0x7038c0, 0x954390)
+	/usr/local/go/src/runtime/panic.go:971 +0x499
+database/sql.(*Rows).Next(0x0, 0x7c1a10)
+	/usr/local/go/src/database/sql/sql.go:2842 +0x30
+api/task.CheckIfAssigned(0x7c1060, 0xc0005c41c0, 0xc000468400)
+	/home/administrator/Documents/coursework/api/task/task.go:220 +0x3c8
+net/http.HandlerFunc.ServeHTTP(0x772638, 0x7c1060, 0xc0005c41c0, 0xc000468400)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+github.com/gorilla/mux.(*Router).ServeHTTP(0xc000168000, 0x7c1060, 0xc0005c41c0, 0xc000468200)
+	/home/administrator/go/pkg/mod/github.com/gorilla/mux@v1.8.0/mux.go:210 +0xd3
+github.com/rs/cors.(*Cors).Handler.func1(0x7c1060, 0xc0005c41c0, 0xc000468200)
+	/home/administrator/go/pkg/mod/github.com/rs/cors@v1.7.0/cors.go:219 +0x1b9
+net/http.HandlerFunc.ServeHTTP(0xc000064220, 0x7c1060, 0xc0005c41c0, 0xc000468200)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+net/http.serverHandler.ServeHTTP(0xc0001582a0, 0x7c1060, 0xc0005c41c0, 0xc000468200)
+	/usr/local/go/src/net/http/server.go:2887 +0xa3
+net/http.(*conn).serve(0xc0000e30e0, 0x7c1a80, 0xc00002da80)
+	/usr/local/go/src/net/http/server.go:1952 +0x8cd
+created by net/http.(*Server).Serve
+	/usr/local/go/src/net/http/server.go:3013 +0x39b
+2021/03/14 20:40:30 &{ map[id:107] 0xc00040cac0 false 0xc000064200 session} <nil>
+2021/03/14 20:40:30 saved id  107
+2021/03/14 20:40:30 SavedId 107
+2021/03/14 20:40:30 &{ map[id:107] 0xc00040cac0 false 0xc000064200 session} <nil>
+2021/03/14 20:40:30 saved id  107
+2021/03/14 20:40:30 id in Load 107
+2021/03/14 20:40:30 error loading with  107
+2021/03/14 20:40:30 error loading Error 1040: Too many connections
+2021/03/14 20:40:30 &{ map[id:107] 0xc00040cac0 false 0xc000064200 session} <nil>
+2021/03/14 20:40:30 saved id  107
+2021/03/14 20:40:30 http: panic serving 127.0.0.1:57046: runtime error: invalid memory address or nil pointer dereference
+goroutine 256 [running]:
+net/http.(*conn).serve.func1(0xc000480320)
+	/usr/local/go/src/net/http/server.go:1824 +0x153
+panic(0x7038c0, 0x954390)
+	/usr/local/go/src/runtime/panic.go:971 +0x499
+database/sql.(*Rows).Next(0x0, 0x7c1a10)
+	/usr/local/go/src/database/sql/sql.go:2842 +0x30
+api/task.CheckIfAssigned(0x7c1060, 0xc0001581c0, 0xc0005b8a00)
+	/home/administrator/Documents/coursework/api/task/task.go:220 +0x3c8
+net/http.HandlerFunc.ServeHTTP(0x772638, 0x7c1060, 0xc0001581c0, 0xc0005b8a00)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+github.com/gorilla/mux.(*Router).ServeHTTP(0xc000168000, 0x7c1060, 0xc0001581c0, 0xc0005b8800)
+	/home/administrator/go/pkg/mod/github.com/gorilla/mux@v1.8.0/mux.go:210 +0xd3
+github.com/rs/cors.(*Cors).Handler.func1(0x7c1060, 0xc0001581c0, 0xc0005b8800)
+	/home/administrator/go/pkg/mod/github.com/rs/cors@v1.7.0/cors.go:219 +0x1b9
+net/http.HandlerFunc.ServeHTTP(0xc000064220, 0x7c1060, 0xc0001581c0, 0xc0005b8800)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+net/http.serverHandler.ServeHTTP(0xc0001582a0, 0x7c1060, 0xc0001581c0, 0xc0005b8800)
+	/usr/local/go/src/net/http/server.go:2887 +0xa3
+net/http.(*conn).serve(0xc000480320, 0x7c1a80, 0xc00040c940)
+	/usr/local/go/src/net/http/server.go:1952 +0x8cd
+created by net/http.(*Server).Serve
+	/usr/local/go/src/net/http/server.go:3013 +0x39b
+2021/03/14 20:41:23 &{ map[id:107] 0xc00040ce80 false 0xc000064200 session} <nil>
+2021/03/14 20:41:23 saved id  107
+2021/03/14 20:41:23 SavedId 107
+2021/03/14 20:41:23 &{ map[id:107] 0xc00040ce80 false 0xc000064200 session} <nil>
+2021/03/14 20:41:23 saved id  107
+2021/03/14 20:41:23 id in Load 107
+2021/03/14 20:41:23 error loading with  107
+2021/03/14 20:41:23 error loading Error 1040: Too many connections
+2021/03/14 20:41:23 &{ map[id:107] 0xc00040ce80 false 0xc000064200 session} <nil>
+2021/03/14 20:41:23 saved id  107
+2021/03/14 20:41:23 http: panic serving 127.0.0.1:57068: runtime error: invalid memory address or nil pointer dereference
+goroutine 308 [running]:
+net/http.(*conn).serve.func1(0xc0004803c0)
+	/usr/local/go/src/net/http/server.go:1824 +0x153
+panic(0x7038c0, 0x954390)
+	/usr/local/go/src/runtime/panic.go:971 +0x499
+database/sql.(*Rows).Next(0x0, 0x7c1a10)
+	/usr/local/go/src/database/sql/sql.go:2842 +0x30
+api/task.CheckIfAssigned(0x7c1060, 0xc000158380, 0xc0005b8d00)
+	/home/administrator/Documents/coursework/api/task/task.go:220 +0x3c8
+net/http.HandlerFunc.ServeHTTP(0x772638, 0x7c1060, 0xc000158380, 0xc0005b8d00)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+github.com/gorilla/mux.(*Router).ServeHTTP(0xc000168000, 0x7c1060, 0xc000158380, 0xc0005b8b00)
+	/home/administrator/go/pkg/mod/github.com/gorilla/mux@v1.8.0/mux.go:210 +0xd3
+github.com/rs/cors.(*Cors).Handler.func1(0x7c1060, 0xc000158380, 0xc0005b8b00)
+	/home/administrator/go/pkg/mod/github.com/rs/cors@v1.7.0/cors.go:219 +0x1b9
+net/http.HandlerFunc.ServeHTTP(0xc000064220, 0x7c1060, 0xc000158380, 0xc0005b8b00)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+net/http.serverHandler.ServeHTTP(0xc0001582a0, 0x7c1060, 0xc000158380, 0xc0005b8b00)
+	/usr/local/go/src/net/http/server.go:2887 +0xa3
+net/http.(*conn).serve(0xc0004803c0, 0x7c1a80, 0xc00040cd00)
+	/usr/local/go/src/net/http/server.go:1952 +0x8cd
+created by net/http.(*Server).Serve
+	/usr/local/go/src/net/http/server.go:3013 +0x39b
+2021/03/14 20:41:23 &{ map[id:107] 0xc00040d240 false 0xc000064200 session} <nil>
+2021/03/14 20:41:23 saved id  107
+2021/03/14 20:41:23 SavedId 107
+2021/03/14 20:41:23 &{ map[id:107] 0xc00040d240 false 0xc000064200 session} <nil>
+2021/03/14 20:41:23 saved id  107
+2021/03/14 20:41:23 id in Load 107
+2021/03/14 20:41:23 error loading with  107
+2021/03/14 20:41:23 error loading Error 1040: Too many connections
+2021/03/14 20:41:23 &{ map[id:107] 0xc00040d240 false 0xc000064200 session} <nil>
+2021/03/14 20:41:23 saved id  107
+2021/03/14 20:41:23 http: panic serving 127.0.0.1:57074: runtime error: invalid memory address or nil pointer dereference
+goroutine 268 [running]:
+net/http.(*conn).serve.func1(0xc0004500a0)
+	/usr/local/go/src/net/http/server.go:1824 +0x153
+panic(0x7038c0, 0x954390)
+	/usr/local/go/src/runtime/panic.go:971 +0x499
+database/sql.(*Rows).Next(0x0, 0x7c1a10)
+	/usr/local/go/src/database/sql/sql.go:2842 +0x30
+api/task.CheckIfAssigned(0x7c1060, 0xc000158460, 0xc0005b9000)
+	/home/administrator/Documents/coursework/api/task/task.go:220 +0x3c8
+net/http.HandlerFunc.ServeHTTP(0x772638, 0x7c1060, 0xc000158460, 0xc0005b9000)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+github.com/gorilla/mux.(*Router).ServeHTTP(0xc000168000, 0x7c1060, 0xc000158460, 0xc0005b8e00)
+	/home/administrator/go/pkg/mod/github.com/gorilla/mux@v1.8.0/mux.go:210 +0xd3
+github.com/rs/cors.(*Cors).Handler.func1(0x7c1060, 0xc000158460, 0xc0005b8e00)
+	/home/administrator/go/pkg/mod/github.com/rs/cors@v1.7.0/cors.go:219 +0x1b9
+net/http.HandlerFunc.ServeHTTP(0xc000064220, 0x7c1060, 0xc000158460, 0xc0005b8e00)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+net/http.serverHandler.ServeHTTP(0xc0001582a0, 0x7c1060, 0xc000158460, 0xc0005b8e00)
+	/usr/local/go/src/net/http/server.go:2887 +0xa3
+net/http.(*conn).serve(0xc0004500a0, 0x7c1a80, 0xc00040d0c0)
+	/usr/local/go/src/net/http/server.go:1952 +0x8cd
+created by net/http.(*Server).Serve
+	/usr/local/go/src/net/http/server.go:3013 +0x39b
+2021/03/14 20:41:28 &{ map[id:107] 0xc00040d600 false 0xc000064200 session} <nil>
+2021/03/14 20:41:28 saved id  107
+2021/03/14 20:41:28 SavedId 107
+2021/03/14 20:41:28 &{ map[id:107] 0xc00040d600 false 0xc000064200 session} <nil>
+2021/03/14 20:41:28 saved id  107
+2021/03/14 20:41:28 id in Load 107
+2021/03/14 20:41:28 error loading with  107
+2021/03/14 20:41:28 error loading Error 1040: Too many connections
+2021/03/14 20:41:28 &{ map[id:107] 0xc00040d600 false 0xc000064200 session} <nil>
+2021/03/14 20:41:28 saved id  107
+2021/03/14 20:41:28 http: panic serving 127.0.0.1:57084: runtime error: invalid memory address or nil pointer dereference
+goroutine 236 [running]:
+net/http.(*conn).serve.func1(0xc0000e3720)
+	/usr/local/go/src/net/http/server.go:1824 +0x153
+panic(0x7038c0, 0x954390)
+	/usr/local/go/src/runtime/panic.go:971 +0x499
+database/sql.(*Rows).Next(0x0, 0x7c1a10)
+	/usr/local/go/src/database/sql/sql.go:2842 +0x30
+api/task.CheckIfAssigned(0x7c1060, 0xc000158540, 0xc0005b9300)
+	/home/administrator/Documents/coursework/api/task/task.go:220 +0x3c8
+net/http.HandlerFunc.ServeHTTP(0x772638, 0x7c1060, 0xc000158540, 0xc0005b9300)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+github.com/gorilla/mux.(*Router).ServeHTTP(0xc000168000, 0x7c1060, 0xc000158540, 0xc0005b9100)
+	/home/administrator/go/pkg/mod/github.com/gorilla/mux@v1.8.0/mux.go:210 +0xd3
+github.com/rs/cors.(*Cors).Handler.func1(0x7c1060, 0xc000158540, 0xc0005b9100)
+	/home/administrator/go/pkg/mod/github.com/rs/cors@v1.7.0/cors.go:219 +0x1b9
+net/http.HandlerFunc.ServeHTTP(0xc000064220, 0x7c1060, 0xc000158540, 0xc0005b9100)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+net/http.serverHandler.ServeHTTP(0xc0001582a0, 0x7c1060, 0xc000158540, 0xc0005b9100)
+	/usr/local/go/src/net/http/server.go:2887 +0xa3
+net/http.(*conn).serve(0xc0000e3720, 0x7c1a80, 0xc00040d480)
+	/usr/local/go/src/net/http/server.go:1952 +0x8cd
+created by net/http.(*Server).Serve
+	/usr/local/go/src/net/http/server.go:3013 +0x39b
+2021/03/14 20:41:29 &{ map[id:107] 0xc00040d9c0 false 0xc000064200 session} <nil>
+2021/03/14 20:41:29 saved id  107
+2021/03/14 20:41:29 SavedId 107
+2021/03/14 20:41:29 &{ map[id:107] 0xc00040d9c0 false 0xc000064200 session} <nil>
+2021/03/14 20:41:29 saved id  107
+2021/03/14 20:41:29 id in Load 107
+2021/03/14 20:41:29 error loading with  107
+2021/03/14 20:41:29 error loading Error 1040: Too many connections
+2021/03/14 20:41:29 &{ map[id:107] 0xc00040d9c0 false 0xc000064200 session} <nil>
+2021/03/14 20:41:29 saved id  107
+2021/03/14 20:41:29 http: panic serving 127.0.0.1:57090: runtime error: invalid memory address or nil pointer dereference
+goroutine 237 [running]:
+net/http.(*conn).serve.func1(0xc0000e3860)
+	/usr/local/go/src/net/http/server.go:1824 +0x153
+panic(0x7038c0, 0x954390)
+	/usr/local/go/src/runtime/panic.go:971 +0x499
+database/sql.(*Rows).Next(0x0, 0x7c1a10)
+	/usr/local/go/src/database/sql/sql.go:2842 +0x30
+api/task.CheckIfAssigned(0x7c1060, 0xc000158620, 0xc0005b9600)
+	/home/administrator/Documents/coursework/api/task/task.go:220 +0x3c8
+net/http.HandlerFunc.ServeHTTP(0x772638, 0x7c1060, 0xc000158620, 0xc0005b9600)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+github.com/gorilla/mux.(*Router).ServeHTTP(0xc000168000, 0x7c1060, 0xc000158620, 0xc0005b9400)
+	/home/administrator/go/pkg/mod/github.com/gorilla/mux@v1.8.0/mux.go:210 +0xd3
+github.com/rs/cors.(*Cors).Handler.func1(0x7c1060, 0xc000158620, 0xc0005b9400)
+	/home/administrator/go/pkg/mod/github.com/rs/cors@v1.7.0/cors.go:219 +0x1b9
+net/http.HandlerFunc.ServeHTTP(0xc000064220, 0x7c1060, 0xc000158620, 0xc0005b9400)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+net/http.serverHandler.ServeHTTP(0xc0001582a0, 0x7c1060, 0xc000158620, 0xc0005b9400)
+	/usr/local/go/src/net/http/server.go:2887 +0xa3
+net/http.(*conn).serve(0xc0000e3860, 0x7c1a80, 0xc00040d840)
+	/usr/local/go/src/net/http/server.go:1952 +0x8cd
+created by net/http.(*Server).Serve
+	/usr/local/go/src/net/http/server.go:3013 +0x39b
+2021/03/14 20:41:46 &{ map[id:107] 0xc00040de00 false 0xc000064200 session} <nil>
+2021/03/14 20:41:46 saved id  107
+2021/03/14 20:41:46 SavedId 107
+2021/03/14 20:41:46 &{ map[id:107] 0xc00040de00 false 0xc000064200 session} <nil>
+2021/03/14 20:41:46 saved id  107
+2021/03/14 20:41:46 id in Load 107
+2021/03/14 20:41:46 error loading with  107
+2021/03/14 20:41:46 error loading Error 1040: Too many connections
+2021/03/14 20:41:46 &{ map[id:107] 0xc00040de00 false 0xc000064200 session} <nil>
+2021/03/14 20:41:46 saved id  107
+2021/03/14 20:41:46 http: panic serving 127.0.0.1:57104: runtime error: invalid memory address or nil pointer dereference
+goroutine 269 [running]:
+net/http.(*conn).serve.func1(0xc000450140)
+	/usr/local/go/src/net/http/server.go:1824 +0x153
+panic(0x7038c0, 0x954390)
+	/usr/local/go/src/runtime/panic.go:971 +0x499
+database/sql.(*Rows).Next(0x0, 0x7c1a10)
+	/usr/local/go/src/database/sql/sql.go:2842 +0x30
+api/task.CheckIfAssigned(0x7c1060, 0xc000158700, 0xc0005b9900)
+	/home/administrator/Documents/coursework/api/task/task.go:220 +0x3c8
+net/http.HandlerFunc.ServeHTTP(0x772638, 0x7c1060, 0xc000158700, 0xc0005b9900)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+github.com/gorilla/mux.(*Router).ServeHTTP(0xc000168000, 0x7c1060, 0xc000158700, 0xc0005b9700)
+	/home/administrator/go/pkg/mod/github.com/gorilla/mux@v1.8.0/mux.go:210 +0xd3
+github.com/rs/cors.(*Cors).Handler.func1(0x7c1060, 0xc000158700, 0xc0005b9700)
+	/home/administrator/go/pkg/mod/github.com/rs/cors@v1.7.0/cors.go:219 +0x1b9
+net/http.HandlerFunc.ServeHTTP(0xc000064220, 0x7c1060, 0xc000158700, 0xc0005b9700)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+net/http.serverHandler.ServeHTTP(0xc0001582a0, 0x7c1060, 0xc000158700, 0xc0005b9700)
+	/usr/local/go/src/net/http/server.go:2887 +0xa3
+net/http.(*conn).serve(0xc000450140, 0x7c1a80, 0xc00040dc00)
+	/usr/local/go/src/net/http/server.go:1952 +0x8cd
+created by net/http.(*Server).Serve
+	/usr/local/go/src/net/http/server.go:3013 +0x39b
+2021/03/14 20:41:47 &{ map[id:107] 0xc00058e200 false 0xc000064200 session} <nil>
+2021/03/14 20:41:47 saved id  107
+2021/03/14 20:41:47 SavedId 107
+2021/03/14 20:41:47 &{ map[id:107] 0xc00058e200 false 0xc000064200 session} <nil>
+2021/03/14 20:41:47 saved id  107
+2021/03/14 20:41:47 id in Load 107
+2021/03/14 20:41:47 error loading with  107
+2021/03/14 20:41:47 error loading Error 1040: Too many connections
+2021/03/14 20:41:47 &{ map[id:107] 0xc00058e200 false 0xc000064200 session} <nil>
+2021/03/14 20:41:47 saved id  107
+2021/03/14 20:41:47 http: panic serving 127.0.0.1:57110: runtime error: invalid memory address or nil pointer dereference
+goroutine 293 [running]:
+net/http.(*conn).serve.func1(0xc0003f43c0)
+	/usr/local/go/src/net/http/server.go:1824 +0x153
+panic(0x7038c0, 0x954390)
+	/usr/local/go/src/runtime/panic.go:971 +0x499
+database/sql.(*Rows).Next(0x0, 0x7c1a10)
+	/usr/local/go/src/database/sql/sql.go:2842 +0x30
+api/task.CheckIfAssigned(0x7c1060, 0xc000158000, 0xc0005b8200)
+	/home/administrator/Documents/coursework/api/task/task.go:220 +0x3c8
+net/http.HandlerFunc.ServeHTTP(0x772638, 0x7c1060, 0xc000158000, 0xc0005b8200)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+github.com/gorilla/mux.(*Router).ServeHTTP(0xc000168000, 0x7c1060, 0xc000158000, 0xc0005b8000)
+	/home/administrator/go/pkg/mod/github.com/gorilla/mux@v1.8.0/mux.go:210 +0xd3
+github.com/rs/cors.(*Cors).Handler.func1(0x7c1060, 0xc000158000, 0xc0005b8000)
+	/home/administrator/go/pkg/mod/github.com/rs/cors@v1.7.0/cors.go:219 +0x1b9
+net/http.HandlerFunc.ServeHTTP(0xc000064220, 0x7c1060, 0xc000158000, 0xc0005b8000)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+net/http.serverHandler.ServeHTTP(0xc0001582a0, 0x7c1060, 0xc000158000, 0xc0005b8000)
+	/usr/local/go/src/net/http/server.go:2887 +0xa3
+net/http.(*conn).serve(0xc0003f43c0, 0x7c1a80, 0xc00058e000)
+	/usr/local/go/src/net/http/server.go:1952 +0x8cd
+created by net/http.(*Server).Serve
+	/usr/local/go/src/net/http/server.go:3013 +0x39b
+2021/03/14 20:42:04 &{ map[id:107] 0xc00021a300 false 0xc000064200 session} <nil>
+2021/03/14 20:42:04 saved id  107
+2021/03/14 20:42:04 SavedId 107
+2021/03/14 20:42:04 &{ map[id:107] 0xc00021a300 false 0xc000064200 session} <nil>
+2021/03/14 20:42:04 saved id  107
+2021/03/14 20:42:04 id in Load 107
+2021/03/14 20:42:04 error loading with  107
+2021/03/14 20:42:04 error loading Error 1040: Too many connections
+2021/03/14 20:42:04 &{ map[id:107] 0xc00021a300 false 0xc000064200 session} <nil>
+2021/03/14 20:42:04 saved id  107
+2021/03/14 20:42:04 http: panic serving 127.0.0.1:57124: runtime error: invalid memory address or nil pointer dereference
+goroutine 338 [running]:
+net/http.(*conn).serve.func1(0xc0004500a0)
+	/usr/local/go/src/net/http/server.go:1824 +0x153
+panic(0x7038c0, 0x954390)
+	/usr/local/go/src/runtime/panic.go:971 +0x499
+database/sql.(*Rows).Next(0x0, 0x7c1a10)
+	/usr/local/go/src/database/sql/sql.go:2842 +0x30
+api/task.CheckIfAssigned(0x7c1060, 0xc000196000, 0xc000108200)
+	/home/administrator/Documents/coursework/api/task/task.go:220 +0x3c8
+net/http.HandlerFunc.ServeHTTP(0x772638, 0x7c1060, 0xc000196000, 0xc000108200)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+github.com/gorilla/mux.(*Router).ServeHTTP(0xc000168000, 0x7c1060, 0xc000196000, 0xc000108000)
+	/home/administrator/go/pkg/mod/github.com/gorilla/mux@v1.8.0/mux.go:210 +0xd3
+github.com/rs/cors.(*Cors).Handler.func1(0x7c1060, 0xc000196000, 0xc000108000)
+	/home/administrator/go/pkg/mod/github.com/rs/cors@v1.7.0/cors.go:219 +0x1b9
+net/http.HandlerFunc.ServeHTTP(0xc000064220, 0x7c1060, 0xc000196000, 0xc000108000)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+net/http.serverHandler.ServeHTTP(0xc0001582a0, 0x7c1060, 0xc000196000, 0xc000108000)
+	/usr/local/go/src/net/http/server.go:2887 +0xa3
+net/http.(*conn).serve(0xc0004500a0, 0x7c1a80, 0xc00021a080)
+	/usr/local/go/src/net/http/server.go:1952 +0x8cd
+created by net/http.(*Server).Serve
+	/usr/local/go/src/net/http/server.go:3013 +0x39b
+2021/03/14 20:42:05 &{ map[id:107] 0xc00021a6c0 false 0xc000064200 session} <nil>
+2021/03/14 20:42:05 saved id  107
+2021/03/14 20:42:05 SavedId 107
+2021/03/14 20:42:05 &{ map[id:107] 0xc00021a6c0 false 0xc000064200 session} <nil>
+2021/03/14 20:42:05 saved id  107
+2021/03/14 20:42:05 id in Load 107
+2021/03/14 20:42:05 error loading with  107
+2021/03/14 20:42:05 error loading Error 1040: Too many connections
+2021/03/14 20:42:05 &{ map[id:107] 0xc00021a6c0 false 0xc000064200 session} <nil>
+2021/03/14 20:42:05 saved id  107
+2021/03/14 20:42:05 http: panic serving 127.0.0.1:57130: runtime error: invalid memory address or nil pointer dereference
+goroutine 294 [running]:
+net/http.(*conn).serve.func1(0xc0003f4460)
+	/usr/local/go/src/net/http/server.go:1824 +0x153
+panic(0x7038c0, 0x954390)
+	/usr/local/go/src/runtime/panic.go:971 +0x499
+database/sql.(*Rows).Next(0x0, 0x7c1a10)
+	/usr/local/go/src/database/sql/sql.go:2842 +0x30
+api/task.CheckIfAssigned(0x7c1060, 0xc0001960e0, 0xc000108500)
+	/home/administrator/Documents/coursework/api/task/task.go:220 +0x3c8
+net/http.HandlerFunc.ServeHTTP(0x772638, 0x7c1060, 0xc0001960e0, 0xc000108500)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+github.com/gorilla/mux.(*Router).ServeHTTP(0xc000168000, 0x7c1060, 0xc0001960e0, 0xc000108300)
+	/home/administrator/go/pkg/mod/github.com/gorilla/mux@v1.8.0/mux.go:210 +0xd3
+github.com/rs/cors.(*Cors).Handler.func1(0x7c1060, 0xc0001960e0, 0xc000108300)
+	/home/administrator/go/pkg/mod/github.com/rs/cors@v1.7.0/cors.go:219 +0x1b9
+net/http.HandlerFunc.ServeHTTP(0xc000064220, 0x7c1060, 0xc0001960e0, 0xc000108300)
+	/usr/local/go/src/net/http/server.go:2069 +0x44
+net/http.serverHandler.ServeHTTP(0xc0001582a0, 0x7c1060, 0xc0001960e0, 0xc000108300)
+	/usr/local/go/src/net/http/server.go:2887 +0xa3
+net/http.(*conn).serve(0xc0003f4460, 0x7c1a80, 0xc00021a540)
+	/usr/local/go/src/net/http/server.go:1952 +0x8cd
+created by net/http.(*Server).Serve
+	/usr/local/go/src/net/http/server.go:3013 +0x39b
+2021/03/14 20:42:24 Server launched
+2021/03/14 20:42:26 &{ map[id:107] 0xc00018c200 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:26 saved id  107
+2021/03/14 20:42:26 SavedId 107
+2021/03/14 20:42:26 &{ map[id:107] 0xc00018c200 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:26 saved id  107
+2021/03/14 20:42:26 id in Load 107
+2021/03/14 20:42:26 error loading <nil>
+2021/03/14 20:42:26 &{ map[id:107] 0xc00018c200 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:26 saved id  107
+2021/03/14 20:42:26 &{ map[id:107] 0xc0000e18c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:26 saved id  107
+2021/03/14 20:42:26 SavedId 107
+2021/03/14 20:42:26 &{ map[id:107] 0xc0000e18c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:26 saved id  107
+2021/03/14 20:42:26 id in Load 107
+2021/03/14 20:42:26 error loading <nil>
+2021/03/14 20:42:55 &{ map[id:107] 0xc0000e1c40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:55 saved id  107
+2021/03/14 20:42:55 SavedId 107
+2021/03/14 20:42:55 &{ map[id:107] 0xc0000e1c40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:55 saved id  107
+2021/03/14 20:42:55 id in Load 107
+2021/03/14 20:42:55 error loading <nil>
+2021/03/14 20:42:55 &{ map[id:107] 0xc0000e1c40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:55 saved id  107
+2021/03/14 20:42:55 &{ map[id:107] 0xc0000e1f80 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:55 saved id  107
+2021/03/14 20:42:55 SavedId 107
+2021/03/14 20:42:55 &{ map[id:107] 0xc0000e1f80 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:55 saved id  107
+2021/03/14 20:42:55 id in Load 107
+2021/03/14 20:42:55 error loading <nil>
+2021/03/14 20:42:56 &{ map[id:107] 0xc00002c200 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:56 saved id  107
+2021/03/14 20:42:56 SavedId 107
+2021/03/14 20:42:56 &{ map[id:107] 0xc00002c200 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:56 saved id  107
+2021/03/14 20:42:56 id in Load 107
+2021/03/14 20:42:56 error loading <nil>
+2021/03/14 20:42:56 &{ map[id:107] 0xc00002c200 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:56 saved id  107
+2021/03/14 20:42:56 &{ map[id:107] 0xc00018c700 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:56 saved id  107
+2021/03/14 20:42:56 SavedId 107
+2021/03/14 20:42:56 &{ map[id:107] 0xc00018c700 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:56 saved id  107
+2021/03/14 20:42:56 id in Load 107
+2021/03/14 20:42:56 error loading <nil>
+2021/03/14 20:42:58 &{ map[id:107] 0xc0001542c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:58 saved id  107
+2021/03/14 20:42:58 SavedId 107
+2021/03/14 20:42:58 &{ map[id:107] 0xc0001542c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:58 saved id  107
+2021/03/14 20:42:58 id in Load 107
+2021/03/14 20:42:58 error loading <nil>
+2021/03/14 20:42:58 &{ map[id:107] 0xc0001542c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:58 saved id  107
+2021/03/14 20:42:58 &{ map[id:107] 0xc00018ca40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:58 saved id  107
+2021/03/14 20:42:58 SavedId 107
+2021/03/14 20:42:58 &{ map[id:107] 0xc00018ca40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:42:58 saved id  107
+2021/03/14 20:42:58 id in Load 107
+2021/03/14 20:42:58 error loading <nil>
+2021/03/14 20:43:21 &{ map[id:107] 0xc00002c580 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:43:21 saved id  107
+2021/03/14 20:43:21 SavedId 107
+2021/03/14 20:43:21 &{ map[id:107] 0xc00002c580 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:43:21 saved id  107
+2021/03/14 20:43:21 id in Load 107
+2021/03/14 20:43:21 error loading <nil>
+2021/03/14 20:43:21 &{ map[id:107] 0xc00002c580 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:43:21 saved id  107
+2021/03/14 20:43:21 &{ map[id:107] 0xc000154680 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:43:21 saved id  107
+2021/03/14 20:43:21 SavedId 107
+2021/03/14 20:43:21 &{ map[id:107] 0xc000154680 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:43:21 saved id  107
+2021/03/14 20:43:21 id in Load 107
+2021/03/14 20:43:21 error loading <nil>
+2021/03/14 20:52:11 &{ map[id:107] 0xc00018ce40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:11 saved id  107
+2021/03/14 20:52:11 SavedId 107
+2021/03/14 20:52:11 &{ map[id:107] 0xc00018ce40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:11 saved id  107
+2021/03/14 20:52:11 id in Load 107
+2021/03/14 20:52:11 error loading <nil>
+2021/03/14 20:52:11 &{ map[id:107] 0xc00018ce40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:11 saved id  107
+2021/03/14 20:52:12 &{ map[id:107] 0xc00002c900 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:12 saved id  107
+2021/03/14 20:52:12 SavedId 107
+2021/03/14 20:52:12 &{ map[id:107] 0xc00002c900 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:12 saved id  107
+2021/03/14 20:52:12 id in Load 107
+2021/03/14 20:52:12 error loading <nil>
+2021/03/14 20:52:43 &{ map[id:107] 0xc000154a00 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:43 saved id  107
+2021/03/14 20:52:43 SavedId 107
+2021/03/14 20:52:43 &{ map[id:107] 0xc000154a00 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:43 saved id  107
+2021/03/14 20:52:43 id in Load 107
+2021/03/14 20:52:43 error loading <nil>
+2021/03/14 20:52:43 &{ map[id:107] 0xc000154a00 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:43 saved id  107
+2021/03/14 20:52:43 &{ map[id:107] 0xc000154d40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:43 saved id  107
+2021/03/14 20:52:43 SavedId 107
+2021/03/14 20:52:43 &{ map[id:107] 0xc000154d40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:43 saved id  107
+2021/03/14 20:52:43 id in Load 107
+2021/03/14 20:52:43 error loading <nil>
+2021/03/14 20:52:44 &{ map[id:107] 0xc000155040 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:44 saved id  107
+2021/03/14 20:52:44 SavedId 107
+2021/03/14 20:52:44 &{ map[id:107] 0xc000155040 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:44 saved id  107
+2021/03/14 20:52:44 id in Load 107
+2021/03/14 20:52:44 error loading <nil>
+2021/03/14 20:52:44 &{ map[id:107] 0xc000155040 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:44 saved id  107
+2021/03/14 20:52:44 &{ map[id:107] 0xc00018d1c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:44 saved id  107
+2021/03/14 20:52:44 SavedId 107
+2021/03/14 20:52:44 &{ map[id:107] 0xc00018d1c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:44 saved id  107
+2021/03/14 20:52:44 id in Load 107
+2021/03/14 20:52:44 error loading <nil>
+2021/03/14 20:52:54 &{ map[id:107] 0xc00002cd00 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:54 saved id  107
+2021/03/14 20:52:54 SavedId 107
+2021/03/14 20:52:54 &{ map[id:107] 0xc00002cd00 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:54 saved id  107
+2021/03/14 20:52:54 id in Load 107
+2021/03/14 20:52:54 error loading <nil>
+2021/03/14 20:52:54 &{ map[id:107] 0xc00002cd00 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:54 saved id  107
+2021/03/14 20:52:54 &{ map[id:107] 0xc00018d4c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:54 saved id  107
+2021/03/14 20:52:54 SavedId 107
+2021/03/14 20:52:54 &{ map[id:107] 0xc00018d4c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:54 saved id  107
+2021/03/14 20:52:54 id in Load 107
+2021/03/14 20:52:54 error loading <nil>
+2021/03/14 20:52:55 &{ map[id:107] 0xc00018d800 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:55 saved id  107
+2021/03/14 20:52:55 SavedId 107
+2021/03/14 20:52:55 &{ map[id:107] 0xc00018d800 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:55 saved id  107
+2021/03/14 20:52:55 id in Load 107
+2021/03/14 20:52:55 error loading <nil>
+2021/03/14 20:52:55 &{ map[id:107] 0xc00018d800 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:55 saved id  107
+2021/03/14 20:52:55 &{ map[id:107] 0xc000155480 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:55 saved id  107
+2021/03/14 20:52:55 SavedId 107
+2021/03/14 20:52:55 &{ map[id:107] 0xc000155480 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:52:55 saved id  107
+2021/03/14 20:52:55 id in Load 107
+2021/03/14 20:52:55 error loading <nil>
+2021/03/14 20:53:22 &{ map[id:107] 0xc00018db40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:22 saved id  107
+2021/03/14 20:53:22 SavedId 107
+2021/03/14 20:53:22 &{ map[id:107] 0xc00018db40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:22 saved id  107
+2021/03/14 20:53:22 id in Load 107
+2021/03/14 20:53:22 error loading <nil>
+2021/03/14 20:53:22 &{ map[id:107] 0xc00018db40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:22 saved id  107
+2021/03/14 20:53:22 &{ map[id:107] 0xc00018de80 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:22 saved id  107
+2021/03/14 20:53:22 SavedId 107
+2021/03/14 20:53:22 &{ map[id:107] 0xc00018de80 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:22 saved id  107
+2021/03/14 20:53:22 id in Load 107
+2021/03/14 20:53:22 error loading <nil>
+2021/03/14 20:53:23 &{ map[id:107] 0xc000292180 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:23 saved id  107
+2021/03/14 20:53:23 SavedId 107
+2021/03/14 20:53:23 &{ map[id:107] 0xc000292180 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:23 saved id  107
+2021/03/14 20:53:23 id in Load 107
+2021/03/14 20:53:23 error loading <nil>
+2021/03/14 20:53:23 &{ map[id:107] 0xc000292180 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:23 saved id  107
+2021/03/14 20:53:23 &{ map[id:107] 0xc00002d0c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:23 saved id  107
+2021/03/14 20:53:23 SavedId 107
+2021/03/14 20:53:23 &{ map[id:107] 0xc00002d0c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:23 saved id  107
+2021/03/14 20:53:23 id in Load 107
+2021/03/14 20:53:23 error loading <nil>
+2021/03/14 20:53:43 &{ map[id:107] 0xc000292540 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:43 saved id  107
+2021/03/14 20:53:43 SavedId 107
+2021/03/14 20:53:43 &{ map[id:107] 0xc000292540 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:43 saved id  107
+2021/03/14 20:53:43 id in Load 107
+2021/03/14 20:53:43 error loading <nil>
+2021/03/14 20:53:43 &{ map[id:107] 0xc000292540 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:43 saved id  107
+2021/03/14 20:53:43 &{ map[id:107] 0xc000292880 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:43 saved id  107
+2021/03/14 20:53:43 SavedId 107
+2021/03/14 20:53:43 &{ map[id:107] 0xc000292880 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:43 saved id  107
+2021/03/14 20:53:43 id in Load 107
+2021/03/14 20:53:43 error loading <nil>
+2021/03/14 20:53:57 &{ map[id:107] 0xc000155900 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:57 saved id  107
+2021/03/14 20:53:57 SavedId 107
+2021/03/14 20:53:57 &{ map[id:107] 0xc000155900 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:57 saved id  107
+2021/03/14 20:53:57 id in Load 107
+2021/03/14 20:53:57 error loading <nil>
+2021/03/14 20:53:57 &{ map[id:107] 0xc000155900 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:57 saved id  107
+2021/03/14 20:53:58 &{ map[id:107] 0xc000292bc0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:58 saved id  107
+2021/03/14 20:53:58 SavedId 107
+2021/03/14 20:53:58 &{ map[id:107] 0xc000292bc0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:53:58 saved id  107
+2021/03/14 20:53:58 id in Load 107
+2021/03/14 20:53:58 error loading <nil>
+2021/03/14 20:56:19 &{ map[id:107] 0xc000155d40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:56:19 saved id  107
+2021/03/14 20:56:19 SavedId 107
+2021/03/14 20:56:19 &{ map[id:107] 0xc000155d40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:56:19 saved id  107
+2021/03/14 20:56:19 id in Load 107
+2021/03/14 20:56:19 error loading <nil>
+2021/03/14 20:56:19 &{ map[id:107] 0xc000155d40 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:56:19 saved id  107
+2021/03/14 20:56:19 &{ map[id:107] 0xc00031c080 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:56:19 saved id  107
+2021/03/14 20:56:19 SavedId 107
+2021/03/14 20:56:19 &{ map[id:107] 0xc00031c080 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:56:19 saved id  107
+2021/03/14 20:56:19 id in Load 107
+2021/03/14 20:56:19 error loading <nil>
+2021/03/14 20:56:20 &{ map[id:107] 0xc000292f80 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:56:20 saved id  107
+2021/03/14 20:56:20 SavedId 107
+2021/03/14 20:56:20 &{ map[id:107] 0xc000292f80 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:56:20 saved id  107
+2021/03/14 20:56:20 id in Load 107
+2021/03/14 20:56:20 error loading <nil>
+2021/03/14 20:56:20 &{ map[id:107] 0xc000292f80 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:56:20 saved id  107
+2021/03/14 20:56:20 &{ map[id:107] 0xc00031c380 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:56:20 saved id  107
+2021/03/14 20:56:20 SavedId 107
+2021/03/14 20:56:20 &{ map[id:107] 0xc00031c380 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:56:20 saved id  107
+2021/03/14 20:56:20 id in Load 107
+2021/03/14 20:56:20 error loading <nil>
+2021/03/14 20:56:24 &{ map[id:107] 0xc00002d500 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:56:24 saved id  107
+2021/03/14 20:56:24 SavedId 107
+2021/03/14 20:56:24 &{ map[id:107] 0xc00002d500 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:56:24 saved id  107
+2021/03/14 20:56:24 id in Load 107
+2021/03/14 20:56:24 error loading <nil>
+2021/03/14 20:56:24 &{ map[id:107] 0xc00002d500 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:56:24 saved id  107
+2021/03/14 20:56:24 &{ map[id:107] 0xc00002d800 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:56:24 saved id  107
+2021/03/14 20:56:24 SavedId 107
+2021/03/14 20:56:24 &{ map[id:107] 0xc00002d800 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:56:24 saved id  107
+2021/03/14 20:56:24 id in Load 107
+2021/03/14 20:56:24 error loading <nil>
+2021/03/14 20:59:00 &{ map[id:107] 0xc00031c7c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:59:00 saved id  107
+2021/03/14 20:59:00 SavedId 107
+2021/03/14 20:59:00 &{ map[id:107] 0xc00031c7c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:59:00 saved id  107
+2021/03/14 20:59:00 id in Load 107
+2021/03/14 20:59:00 error loading <nil>
+2021/03/14 20:59:00 &{ map[id:107] 0xc00031c7c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:59:00 saved id  107
+2021/03/14 20:59:01 &{ map[id:107] 0xc00031cb00 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:59:01 saved id  107
+2021/03/14 20:59:01 SavedId 107
+2021/03/14 20:59:01 &{ map[id:107] 0xc00031cb00 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:59:01 saved id  107
+2021/03/14 20:59:01 id in Load 107
+2021/03/14 20:59:01 error loading <nil>
+2021/03/14 20:59:01 &{ map[id:107] 0xc00002db80 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:59:01 saved id  107
+2021/03/14 20:59:01 SavedId 107
+2021/03/14 20:59:01 &{ map[id:107] 0xc00002db80 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:59:01 saved id  107
+2021/03/14 20:59:01 id in Load 107
+2021/03/14 20:59:01 error loading <nil>
+2021/03/14 20:59:01 &{ map[id:107] 0xc00002db80 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:59:01 saved id  107
+2021/03/14 20:59:02 &{ map[id:107] 0xc00002dec0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:59:02 saved id  107
+2021/03/14 20:59:02 SavedId 107
+2021/03/14 20:59:02 &{ map[id:107] 0xc00002dec0 false 0xc0000c41e0 session} <nil>
+2021/03/14 20:59:02 saved id  107
+2021/03/14 20:59:02 id in Load 107
+2021/03/14 20:59:02 error loading <nil>
+2021/03/14 21:01:49 &{ map[id:107] 0xc00031cf00 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:01:49 saved id  107
+2021/03/14 21:01:49 SavedId 107
+2021/03/14 21:01:49 &{ map[id:107] 0xc00031cf00 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:01:49 saved id  107
+2021/03/14 21:01:49 id in Load 107
+2021/03/14 21:01:49 error loading <nil>
+2021/03/14 21:01:49 &{ map[id:107] 0xc00031cf00 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:01:49 saved id  107
+2021/03/14 21:01:49 &{ map[id:107] 0xc00025a200 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:01:49 saved id  107
+2021/03/14 21:01:49 SavedId 107
+2021/03/14 21:01:49 &{ map[id:107] 0xc00025a200 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:01:49 saved id  107
+2021/03/14 21:01:49 id in Load 107
+2021/03/14 21:01:49 error loading <nil>
+2021/03/14 21:09:05 &{ map[id:107] 0xc000293480 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:09:05 saved id  107
+2021/03/14 21:09:05 SavedId 107
+2021/03/14 21:09:05 &{ map[id:107] 0xc000293480 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:09:05 saved id  107
+2021/03/14 21:09:05 id in Load 107
+2021/03/14 21:09:05 error loading <nil>
+2021/03/14 21:09:05 &{ map[id:107] 0xc000293480 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:09:05 saved id  107
+2021/03/14 21:09:05 &{ map[id:107] 0xc0002937c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:09:05 saved id  107
+2021/03/14 21:09:05 SavedId 107
+2021/03/14 21:09:05 &{ map[id:107] 0xc0002937c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:09:05 saved id  107
+2021/03/14 21:09:05 id in Load 107
+2021/03/14 21:09:05 error loading <nil>
+2021/03/14 21:31:58 Server launched
+2021/03/14 21:32:36 &{ map[id:107] 0xc00002da40 false 0xc000064200 session} <nil>
+2021/03/14 21:32:36 saved id  107
+2021/03/14 21:32:36 SavedId 107
+2021/03/14 21:32:36 &{ map[id:107] 0xc00002da40 false 0xc000064200 session} <nil>
+2021/03/14 21:32:36 saved id  107
+2021/03/14 21:32:36 id in Load 107
+2021/03/14 21:32:36 error loading <nil>
+2021/03/14 21:32:36 &{ map[id:107] 0xc00002da40 false 0xc000064200 session} <nil>
+2021/03/14 21:32:36 saved id  107
+2021/03/14 21:32:36 &{ map[id:107] 0xc00002de40 false 0xc000064200 session} <nil>
+2021/03/14 21:32:36 saved id  107
+2021/03/14 21:32:36 SavedId 107
+2021/03/14 21:32:36 &{ map[id:107] 0xc00002de40 false 0xc000064200 session} <nil>
+2021/03/14 21:32:36 saved id  107
+2021/03/14 21:32:36 id in Load 107
+2021/03/14 21:32:36 error loading <nil>
+2021/03/14 21:33:38 &{ map[id:107] 0xc0001ae140 false 0xc000064200 session} <nil>
+2021/03/14 21:33:38 saved id  107
+2021/03/14 21:33:38 SavedId 107
+2021/03/14 21:33:38 &{ map[id:107] 0xc0001ae140 false 0xc000064200 session} <nil>
+2021/03/14 21:33:38 saved id  107
+2021/03/14 21:33:38 id in Load 107
+2021/03/14 21:33:38 error loading <nil>
+2021/03/14 21:33:38 &{ map[id:107] 0xc0001ae140 false 0xc000064200 session} <nil>
+2021/03/14 21:33:38 saved id  107
+2021/03/14 21:33:38 &{ map[id:107] 0xc0001ae440 false 0xc000064200 session} <nil>
+2021/03/14 21:33:38 saved id  107
+2021/03/14 21:33:38 SavedId 107
+2021/03/14 21:33:38 &{ map[id:107] 0xc0001ae440 false 0xc000064200 session} <nil>
+2021/03/14 21:33:38 saved id  107
+2021/03/14 21:33:38 id in Load 107
+2021/03/14 21:33:38 error loading <nil>
+2021/03/14 21:34:16 &{ map[id:107] 0xc0002182c0 false 0xc000064200 session} <nil>
+2021/03/14 21:34:16 saved id  107
+2021/03/14 21:34:16 SavedId 107
+2021/03/14 21:34:16 &{ map[id:107] 0xc0002182c0 false 0xc000064200 session} <nil>
+2021/03/14 21:34:16 saved id  107
+2021/03/14 21:34:16 id in Load 107
+2021/03/14 21:34:16 error loading <nil>
+2021/03/14 21:34:16 &{ map[id:107] 0xc0002182c0 false 0xc000064200 session} <nil>
+2021/03/14 21:34:16 saved id  107
+2021/03/14 21:34:16 &{ map[id:107] 0xc0000a4100 false 0xc000064200 session} <nil>
+2021/03/14 21:34:16 saved id  107
+2021/03/14 21:34:16 SavedId 107
+2021/03/14 21:34:16 &{ map[id:107] 0xc0000a4100 false 0xc000064200 session} <nil>
+2021/03/14 21:34:16 saved id  107
+2021/03/14 21:34:16 id in Load 107
+2021/03/14 21:34:16 error loading <nil>
+2021/03/14 21:34:31 &{ map[id:107] 0xc0001ae740 false 0xc000064200 session} <nil>
+2021/03/14 21:34:31 saved id  107
+2021/03/14 21:34:31 SavedId 107
+2021/03/14 21:34:31 &{ map[id:107] 0xc0001ae740 false 0xc000064200 session} <nil>
+2021/03/14 21:34:31 saved id  107
+2021/03/14 21:34:31 id in Load 107
+2021/03/14 21:34:31 error loading <nil>
+2021/03/14 21:34:31 &{ map[id:107] 0xc0001ae740 false 0xc000064200 session} <nil>
+2021/03/14 21:34:31 saved id  107
+2021/03/14 21:34:31 SavedId 107
+2021/03/14 21:34:31 &{ map[id:107] 0xc0001ae740 false 0xc000064200 session} <nil>
+2021/03/14 21:34:31 saved id  107
+2021/03/14 21:34:31 id in Load 107
+2021/03/14 21:34:31 error loading <nil>
+2021/03/14 21:34:31 args
+2021/03/14 21:34:31 107
+2021/03/14 21:34:33 &{ map[id:107] 0xc000218680 false 0xc000064200 session} <nil>
+2021/03/14 21:34:33 saved id  107
+2021/03/14 21:34:33 SavedId 107
+2021/03/14 21:34:33 &{ map[id:107] 0xc000218680 false 0xc000064200 session} <nil>
+2021/03/14 21:34:33 saved id  107
+2021/03/14 21:34:33 id in Load 107
+2021/03/14 21:34:33 error loading <nil>
+2021/03/14 21:34:33 &{ map[id:107] 0xc000218680 false 0xc000064200 session} <nil>
+2021/03/14 21:34:33 saved id  107
+2021/03/14 21:34:33 &{ map[id:107] 0xc0000a4440 false 0xc000064200 session} <nil>
+2021/03/14 21:34:33 saved id  107
+2021/03/14 21:34:33 SavedId 107
+2021/03/14 21:34:33 &{ map[id:107] 0xc0000a4440 false 0xc000064200 session} <nil>
+2021/03/14 21:34:33 saved id  107
+2021/03/14 21:34:33 id in Load 107
+2021/03/14 21:34:33 error loading <nil>
+2021/03/14 21:34:39 &{ map[id:107] 0xc0001aeb00 false 0xc000064200 session} <nil>
+2021/03/14 21:34:39 saved id  107
+2021/03/14 21:34:39 SavedId 107
+2021/03/14 21:34:39 &{ map[id:107] 0xc0001aeb00 false 0xc000064200 session} <nil>
+2021/03/14 21:34:39 saved id  107
+2021/03/14 21:34:39 id in Load 107
+2021/03/14 21:34:39 error loading <nil>
+2021/03/14 21:34:39 &{ map[id:107] 0xc0001aeb00 false 0xc000064200 session} <nil>
+2021/03/14 21:34:39 saved id  107
+2021/03/14 21:34:39 &{ map[id:107] 0xc0001aee40 false 0xc000064200 session} <nil>
+2021/03/14 21:34:39 saved id  107
+2021/03/14 21:34:39 SavedId 107
+2021/03/14 21:34:39 &{ map[id:107] 0xc0001aee40 false 0xc000064200 session} <nil>
+2021/03/14 21:34:39 saved id  107
+2021/03/14 21:34:39 id in Load 107
+2021/03/14 21:34:39 error loading <nil>
+2021/03/14 21:35:11 &{ map[id:107] 0xc0001af180 false 0xc000064200 session} <nil>
+2021/03/14 21:35:11 saved id  107
+2021/03/14 21:35:11 SavedId 107
+2021/03/14 21:35:11 &{ map[id:107] 0xc0001af180 false 0xc000064200 session} <nil>
+2021/03/14 21:35:11 saved id  107
+2021/03/14 21:35:11 id in Load 107
+2021/03/14 21:35:11 error loading <nil>
+2021/03/14 21:35:11 &{ map[id:107] 0xc0001af180 false 0xc000064200 session} <nil>
+2021/03/14 21:35:11 saved id  107
+2021/03/14 21:35:11 &{ map[id:107] 0xc000218ac0 false 0xc000064200 session} <nil>
+2021/03/14 21:35:11 saved id  107
+2021/03/14 21:35:11 SavedId 107
+2021/03/14 21:35:11 &{ map[id:107] 0xc000218ac0 false 0xc000064200 session} <nil>
+2021/03/14 21:35:11 saved id  107
+2021/03/14 21:35:11 id in Load 107
+2021/03/14 21:35:11 error loading <nil>
+2021/03/14 21:35:12 &{ map[id:107] 0xc0000a47c0 false 0xc000064200 session} <nil>
+2021/03/14 21:35:12 saved id  107
+2021/03/14 21:35:12 SavedId 107
+2021/03/14 21:35:12 &{ map[id:107] 0xc0000a47c0 false 0xc000064200 session} <nil>
+2021/03/14 21:35:12 saved id  107
+2021/03/14 21:35:12 id in Load 107
+2021/03/14 21:35:12 error loading <nil>
+2021/03/14 21:35:12 &{ map[id:107] 0xc0000a47c0 false 0xc000064200 session} <nil>
+2021/03/14 21:35:12 saved id  107
+2021/03/14 21:35:12 &{ map[id:107] 0xc0000a4b00 false 0xc000064200 session} <nil>
+2021/03/14 21:35:12 saved id  107
+2021/03/14 21:35:12 SavedId 107
+2021/03/14 21:35:12 &{ map[id:107] 0xc0000a4b00 false 0xc000064200 session} <nil>
+2021/03/14 21:35:12 saved id  107
+2021/03/14 21:35:12 id in Load 107
+2021/03/14 21:35:12 error loading <nil>
+2021/03/14 21:35:40 &{ map[id:107] 0xc0000a4e40 false 0xc000064200 session} <nil>
+2021/03/14 21:35:40 saved id  107
+2021/03/14 21:35:40 SavedId 107
+2021/03/14 21:35:40 &{ map[id:107] 0xc0000a4e40 false 0xc000064200 session} <nil>
+2021/03/14 21:35:40 saved id  107
+2021/03/14 21:35:40 id in Load 107
+2021/03/14 21:35:40 error loading <nil>
+2021/03/14 21:35:40 &{ map[id:107] 0xc0000a4e40 false 0xc000064200 session} <nil>
+2021/03/14 21:35:40 saved id  107
+2021/03/14 21:35:40 &{ map[id:107] 0xc000218dc0 false 0xc000064200 session} <nil>
+2021/03/14 21:35:40 saved id  107
+2021/03/14 21:35:40 SavedId 107
+2021/03/14 21:35:40 &{ map[id:107] 0xc000218dc0 false 0xc000064200 session} <nil>
+2021/03/14 21:35:40 saved id  107
+2021/03/14 21:35:40 id in Load 107
+2021/03/14 21:35:40 error loading <nil>
+2021/03/14 21:36:11 &{ map[id:107] 0xc000219140 false 0xc000064200 session} <nil>
+2021/03/14 21:36:11 saved id  107
+2021/03/14 21:36:11 SavedId 107
+2021/03/14 21:36:11 &{ map[id:107] 0xc000219140 false 0xc000064200 session} <nil>
+2021/03/14 21:36:11 saved id  107
+2021/03/14 21:36:11 id in Load 107
+2021/03/14 21:36:11 error loading <nil>
+2021/03/14 21:36:11 &{ map[id:107] 0xc000219140 false 0xc000064200 session} <nil>
+2021/03/14 21:36:11 saved id  107
+2021/03/14 21:36:12 &{ map[id:107] 0xc000219440 false 0xc000064200 session} <nil>
+2021/03/14 21:36:12 saved id  107
+2021/03/14 21:36:12 SavedId 107
+2021/03/14 21:36:12 &{ map[id:107] 0xc000219440 false 0xc000064200 session} <nil>
+2021/03/14 21:36:12 saved id  107
+2021/03/14 21:36:12 id in Load 107
+2021/03/14 21:36:12 error loading <nil>
+2021/03/14 21:36:12 &{ map[id:107] 0xc000219440 false 0xc000064200 session} <nil>
+2021/03/14 21:36:12 saved id  107
+2021/03/14 21:36:12 SavedId 107
+2021/03/14 21:36:12 &{ map[id:107] 0xc000219440 false 0xc000064200 session} <nil>
+2021/03/14 21:36:12 saved id  107
+2021/03/14 21:36:12 id in Load 107
+2021/03/14 21:36:12 error loading <nil>
+2021/03/14 21:36:12 args
+2021/03/14 21:36:12 107
+2021/03/14 21:36:13 &{ map[id:107] 0xc0001af680 false 0xc000064200 session} <nil>
+2021/03/14 21:36:13 saved id  107
+2021/03/14 21:36:13 SavedId 107
+2021/03/14 21:36:13 &{ map[id:107] 0xc0001af680 false 0xc000064200 session} <nil>
+2021/03/14 21:36:13 saved id  107
+2021/03/14 21:36:13 id in Load 107
+2021/03/14 21:36:13 error loading <nil>
+2021/03/14 21:36:13 &{ map[id:107] 0xc0001af680 false 0xc000064200 session} <nil>
+2021/03/14 21:36:13 saved id  107
+2021/03/14 21:36:13 &{ map[id:107] 0xc0001af9c0 false 0xc000064200 session} <nil>
+2021/03/14 21:36:13 saved id  107
+2021/03/14 21:36:13 SavedId 107
+2021/03/14 21:36:13 &{ map[id:107] 0xc0001af9c0 false 0xc000064200 session} <nil>
+2021/03/14 21:36:13 saved id  107
+2021/03/14 21:36:13 id in Load 107
+2021/03/14 21:36:13 error loading <nil>
+2021/03/14 21:37:21 &{ map[id:107] 0xc0000a51c0 false 0xc000064200 session} <nil>
+2021/03/14 21:37:21 saved id  107
+2021/03/14 21:37:21 SavedId 107
+2021/03/14 21:37:21 &{ map[id:107] 0xc0000a51c0 false 0xc000064200 session} <nil>
+2021/03/14 21:37:21 saved id  107
+2021/03/14 21:37:21 &{ map[id:107] 0xc0001afd40 false 0xc000064200 session} <nil>
+2021/03/14 21:37:21 saved id  107
+2021/03/14 21:37:21 SavedId 107
+2021/03/14 21:37:21 &{ map[id:107] 0xc0001afd40 false 0xc000064200 session} <nil>
+2021/03/14 21:37:21 saved id  107
+2021/03/14 21:37:21 id in Load 107
+2021/03/14 21:37:21 error loading <nil>
+2021/03/14 21:37:21 id in Load 107
+2021/03/14 21:37:21 error loading <nil>
+2021/03/14 21:37:22 &{ map[] 0xc0000a5480 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:22 not ok
+2021/03/14 21:37:22 SavedId 0
+2021/03/14 21:37:22 &{ map[] 0xc0000a5480 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:22 not ok
+2021/03/14 21:37:22 &{ map[] 0xc0001fe040 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:22 not ok
+2021/03/14 21:37:22 SavedId 0
+2021/03/14 21:37:22 &{ map[] 0xc0001fe040 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:22 not ok
+2021/03/14 21:37:22 id in Load 0
+2021/03/14 21:37:22 empty set with  0
+2021/03/14 21:37:22 error loading <nil>
+2021/03/14 21:37:22 &{ map[] 0xc0000a5480 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:22 not ok
+2021/03/14 21:37:22 &{ map[] 0xc0000a5480 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:22 not ok
+2021/03/14 21:37:22 SavedId 0
+2021/03/14 21:37:22 &{ map[] 0xc0000a5480 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:22 not ok
+2021/03/14 21:37:22 id in Load 0
+2021/03/14 21:37:22 empty set with  0
+2021/03/14 21:37:22 error loading <nil>
+2021/03/14 21:37:22 &{ map[] 0xc0001fe040 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:22 not ok
+2021/03/14 21:37:22 &{ map[] 0xc0001fe040 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:22 not ok
+2021/03/14 21:37:22 SavedId 0
+2021/03/14 21:37:22 &{ map[] 0xc0001fe040 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:22 not ok
+2021/03/14 21:37:22 id in Load 0
+2021/03/14 21:37:22 empty set with  0
+2021/03/14 21:37:22 error loading <nil>
+2021/03/14 21:37:22 id in Load 0
+2021/03/14 21:37:22 empty set with  0
+2021/03/14 21:37:22 error loading <nil>
+2021/03/14 21:37:24 &{ map[] 0xc0000a5540 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 SavedId 0
+2021/03/14 21:37:24 &{ map[] 0xc0000a5540 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 id in Load 0
+2021/03/14 21:37:24 empty set with  0
+2021/03/14 21:37:24 error loading <nil>
+2021/03/14 21:37:24 &{ map[] 0xc0000a5540 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 &{ map[] 0xc0000a5540 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 SavedId 0
+2021/03/14 21:37:24 &{ map[] 0xc0000a5540 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 id in Load 0
+2021/03/14 21:37:24 empty set with  0
+2021/03/14 21:37:24 error loading <nil>
+2021/03/14 21:37:24 &{ map[] 0xc0000a5680 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 SavedId 0
+2021/03/14 21:37:24 &{ map[] 0xc0000a5680 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 id in Load 0
+2021/03/14 21:37:24 empty set with  0
+2021/03/14 21:37:24 error loading <nil>
+2021/03/14 21:37:24 &{ map[] 0xc0000a5680 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 &{ map[] 0xc0000a5680 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 SavedId 0
+2021/03/14 21:37:24 &{ map[] 0xc0000a5680 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 id in Load 0
+2021/03/14 21:37:24 empty set with  0
+2021/03/14 21:37:24 error loading <nil>
+2021/03/14 21:37:24 &{ map[] 0xc0001fe140 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 SavedId 0
+2021/03/14 21:37:24 &{ map[] 0xc0001fe140 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 &{ map[] 0xc000219880 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 SavedId 0
+2021/03/14 21:37:24 &{ map[] 0xc000219880 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 id in Load 0
+2021/03/14 21:37:24 empty set with  0
+2021/03/14 21:37:24 error loading <nil>
+2021/03/14 21:37:24 &{ map[] 0xc000219880 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 &{ map[] 0xc000219880 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 SavedId 0
+2021/03/14 21:37:24 &{ map[] 0xc000219880 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 id in Load 0
+2021/03/14 21:37:24 empty set with  0
+2021/03/14 21:37:24 error loading <nil>
+2021/03/14 21:37:24 &{ map[] 0xc0001fe140 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 &{ map[] 0xc0001fe140 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 SavedId 0
+2021/03/14 21:37:24 &{ map[] 0xc0001fe140 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:24 not ok
+2021/03/14 21:37:24 id in Load 0
+2021/03/14 21:37:24 empty set with  0
+2021/03/14 21:37:24 error loading <nil>
+2021/03/14 21:37:24 id in Load 0
+2021/03/14 21:37:24 empty set with  0
+2021/03/14 21:37:24 error loading <nil>
+2021/03/14 21:37:25 &{ map[] 0xc0001fe280 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:25 not ok
+2021/03/14 21:37:25 SavedId 0
+2021/03/14 21:37:25 &{ map[] 0xc0001fe280 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:25 not ok
+2021/03/14 21:37:25 id in Load 0
+2021/03/14 21:37:25 empty set with  0
+2021/03/14 21:37:25 error loading <nil>
+2021/03/14 21:37:25 &{ map[] 0xc0001fe280 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:25 not ok
+2021/03/14 21:37:25 &{ map[] 0xc0001fe280 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:25 not ok
+2021/03/14 21:37:25 SavedId 0
+2021/03/14 21:37:25 &{ map[] 0xc0001fe280 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:25 not ok
+2021/03/14 21:37:25 id in Load 0
+2021/03/14 21:37:25 empty set with  0
+2021/03/14 21:37:25 error loading <nil>
+2021/03/14 21:37:25 &{ map[] 0xc0001fe3c0 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:25 not ok
+2021/03/14 21:37:25 SavedId 0
+2021/03/14 21:37:25 &{ map[] 0xc0001fe3c0 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:25 not ok
+2021/03/14 21:37:25 id in Load 0
+2021/03/14 21:37:25 empty set with  0
+2021/03/14 21:37:25 error loading <nil>
+2021/03/14 21:37:25 &{ map[] 0xc0001fe3c0 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:25 not ok
+2021/03/14 21:37:25 &{ map[] 0xc0001fe3c0 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:25 not ok
+2021/03/14 21:37:25 SavedId 0
+2021/03/14 21:37:25 &{ map[] 0xc0001fe3c0 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:25 not ok
+2021/03/14 21:37:25 id in Load 0
+2021/03/14 21:37:25 empty set with  0
+2021/03/14 21:37:25 error loading <nil>
+2021/03/14 21:37:25 bb   c
+2021/03/14 21:37:25 u.id u.name u.email 0  bb
+2021/03/14 21:37:25 47  bb
+2021/03/14 21:37:25 &{ map[] 0xc0001fe580 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:25 &{ map[id:47] 0xc0001fe580 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:25 saved id  47
+2021/03/14 21:37:25 SavedId 47
+2021/03/14 21:37:25 &{ map[id:47] 0xc0001fe580 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:25 saved id  47
+2021/03/14 21:37:25 id in Load 47
+2021/03/14 21:37:25 error loading <nil>
+2021/03/14 21:37:25 &{ map[id:47] 0xc0001fe580 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:25 saved id  47
+2021/03/14 21:37:25 SavedId 47
+2021/03/14 21:37:25 &{ map[id:47] 0xc0001fe580 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:37:25 saved id  47
+2021/03/14 21:37:25 id in Load 47
+2021/03/14 21:37:25 error loading <nil>
+2021/03/14 21:37:29 &{ map[id:47] 0xc0001fe900 false 0xc000064200 session} <nil>
+2021/03/14 21:37:29 saved id  47
+2021/03/14 21:37:29 SavedId 47
+2021/03/14 21:37:29 &{ map[id:47] 0xc0001fe900 false 0xc000064200 session} <nil>
+2021/03/14 21:37:29 saved id  47
+2021/03/14 21:37:29 id in Load 47
+2021/03/14 21:37:29 error loading <nil>
+2021/03/14 21:37:29 &{ map[id:47] 0xc0001fe900 false 0xc000064200 session} <nil>
+2021/03/14 21:37:29 saved id  47
+2021/03/14 21:37:29 SavedId 47
+2021/03/14 21:37:29 &{ map[id:47] 0xc0001fe900 false 0xc000064200 session} <nil>
+2021/03/14 21:37:29 saved id  47
+2021/03/14 21:37:29 id in Load 47
+2021/03/14 21:37:29 error loading <nil>
+2021/03/14 21:37:29 args
+2021/03/14 21:37:29 47
+2021/03/14 21:37:31 &{ map[id:47] 0xc000219a80 false 0xc000064200 session} <nil>
+2021/03/14 21:37:31 saved id  47
+2021/03/14 21:37:31 SavedId 47
+2021/03/14 21:37:31 &{ map[id:47] 0xc000219a80 false 0xc000064200 session} <nil>
+2021/03/14 21:37:31 saved id  47
+2021/03/14 21:37:31 id in Load 47
+2021/03/14 21:37:31 error loading <nil>
+2021/03/14 21:37:31 &{ map[id:47] 0xc000219a80 false 0xc000064200 session} <nil>
+2021/03/14 21:37:31 saved id  47
+2021/03/14 21:37:31 &{ map[id:47] 0xc0001fec00 false 0xc000064200 session} <nil>
+2021/03/14 21:37:31 saved id  47
+2021/03/14 21:37:31 SavedId 47
+2021/03/14 21:37:31 &{ map[id:47] 0xc0001fec00 false 0xc000064200 session} <nil>
+2021/03/14 21:37:31 saved id  47
+2021/03/14 21:37:31 id in Load 47
+2021/03/14 21:37:31 error loading <nil>
+2021/03/14 21:37:56 &{ map[id:47] 0xc0001feec0 false 0xc000064200 session} <nil>
+2021/03/14 21:37:56 saved id  47
+2021/03/14 21:37:56 SavedId 47
+2021/03/14 21:37:56 &{ map[id:47] 0xc0001feec0 false 0xc000064200 session} <nil>
+2021/03/14 21:37:56 saved id  47
+2021/03/14 21:37:56 id in Load 47
+2021/03/14 21:37:56 error loading <nil>
+2021/03/14 21:37:56 &{ map[id:47] 0xc0001feec0 false 0xc000064200 session} <nil>
+2021/03/14 21:37:56 saved id  47
+2021/03/14 21:37:56 &{ map[id:47] 0xc0001feec0 false 0xc000064200 session} <nil>
+2021/03/14 21:37:56 saved id  47
+2021/03/14 21:37:56 SavedId 47
+2021/03/14 21:37:56 &{ map[id:47] 0xc0001feec0 false 0xc000064200 session} <nil>
+2021/03/14 21:37:56 saved id  47
+2021/03/14 21:37:56 id in Load 47
+2021/03/14 21:37:56 error loading <nil>
+2021/03/14 21:37:56 &{ map[id:47] 0xc0001ff180 false 0xc000064200 session} <nil>
+2021/03/14 21:37:56 saved id  47
+2021/03/14 21:37:56 SavedId 47
+2021/03/14 21:37:56 &{ map[id:47] 0xc0001ff180 false 0xc000064200 session} <nil>
+2021/03/14 21:37:56 saved id  47
+2021/03/14 21:37:56 id in Load 47
+2021/03/14 21:37:56 error loading <nil>
+2021/03/14 21:37:56 &{ map[id:47] 0xc0001ff180 false 0xc000064200 session} <nil>
+2021/03/14 21:37:56 saved id  47
+2021/03/14 21:37:56 &{ map[id:47] 0xc0001ff180 false 0xc000064200 session} <nil>
+2021/03/14 21:37:56 saved id  47
+2021/03/14 21:37:56 SavedId 47
+2021/03/14 21:37:56 &{ map[id:47] 0xc0001ff180 false 0xc000064200 session} <nil>
+2021/03/14 21:37:56 saved id  47
+2021/03/14 21:37:56 id in Load 47
+2021/03/14 21:37:56 error loading <nil>
+2021/03/14 21:38:01 &{ map[id:47] 0xc0001ff480 false 0xc000064200 session} <nil>
+2021/03/14 21:38:01 saved id  47
+2021/03/14 21:38:01 SavedId 47
+2021/03/14 21:38:01 &{ map[id:47] 0xc0001ff480 false 0xc000064200 session} <nil>
+2021/03/14 21:38:01 saved id  47
+2021/03/14 21:38:01 id in Load 47
+2021/03/14 21:38:01 error loading <nil>
+2021/03/14 21:38:01 &{ map[id:47] 0xc000219e80 false 0xc000064200 session} <nil>
+2021/03/14 21:38:01 saved id  47
+2021/03/14 21:38:01 SavedId 47
+2021/03/14 21:38:01 &{ map[id:47] 0xc000219e80 false 0xc000064200 session} <nil>
+2021/03/14 21:38:01 saved id  47
+2021/03/14 21:38:01 id in Load 47
+2021/03/14 21:38:01 error loading <nil>
+2021/03/14 21:38:01 &{ map[] 0xc000318140 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:01 not ok
+2021/03/14 21:38:01 SavedId 0
+2021/03/14 21:38:01 &{ map[] 0xc000318140 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:01 not ok
+2021/03/14 21:38:01 id in Load 0
+2021/03/14 21:38:01 empty set with  0
+2021/03/14 21:38:01 error loading <nil>
+2021/03/14 21:38:01 &{ map[] 0xc000318140 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:01 not ok
+2021/03/14 21:38:01 &{ map[] 0xc000318140 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:01 not ok
+2021/03/14 21:38:01 SavedId 0
+2021/03/14 21:38:01 &{ map[] 0xc000318140 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:01 not ok
+2021/03/14 21:38:01 id in Load 0
+2021/03/14 21:38:01 empty set with  0
+2021/03/14 21:38:01 error loading <nil>
+2021/03/14 21:38:01 &{ map[] 0xc0001ff740 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:01 not ok
+2021/03/14 21:38:01 SavedId 0
+2021/03/14 21:38:01 &{ map[] 0xc0001ff740 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:01 not ok
+2021/03/14 21:38:01 id in Load 0
+2021/03/14 21:38:01 empty set with  0
+2021/03/14 21:38:01 error loading <nil>
+2021/03/14 21:38:01 &{ map[] 0xc0001ff740 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:01 not ok
+2021/03/14 21:38:01 &{ map[] 0xc0001ff740 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:01 not ok
+2021/03/14 21:38:01 SavedId 0
+2021/03/14 21:38:01 &{ map[] 0xc0001ff740 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:01 not ok
+2021/03/14 21:38:01 id in Load 0
+2021/03/14 21:38:01 empty set with  0
+2021/03/14 21:38:01 error loading <nil>
+2021/03/14 21:38:04 &{ map[] 0xc0000a59c0 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:04 not ok
+2021/03/14 21:38:04 SavedId 0
+2021/03/14 21:38:04 &{ map[] 0xc0000a59c0 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:04 not ok
+2021/03/14 21:38:04 id in Load 0
+2021/03/14 21:38:04 empty set with  0
+2021/03/14 21:38:04 error loading <nil>
+2021/03/14 21:38:04 &{ map[] 0xc0000a59c0 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:04 not ok
+2021/03/14 21:38:04 &{ map[] 0xc0000a59c0 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:04 not ok
+2021/03/14 21:38:04 SavedId 0
+2021/03/14 21:38:04 &{ map[] 0xc0000a59c0 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:04 not ok
+2021/03/14 21:38:04 id in Load 0
+2021/03/14 21:38:04 empty set with  0
+2021/03/14 21:38:04 error loading <nil>
+2021/03/14 21:38:04 &{ map[] 0xc0000a5b00 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:04 not ok
+2021/03/14 21:38:04 SavedId 0
+2021/03/14 21:38:04 &{ map[] 0xc0000a5b00 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:04 not ok
+2021/03/14 21:38:04 id in Load 0
+2021/03/14 21:38:04 empty set with  0
+2021/03/14 21:38:04 error loading <nil>
+2021/03/14 21:38:04 &{ map[] 0xc0000a5b00 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:04 not ok
+2021/03/14 21:38:04 &{ map[] 0xc0000a5b00 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:04 not ok
+2021/03/14 21:38:04 SavedId 0
+2021/03/14 21:38:04 &{ map[] 0xc0000a5b00 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:04 not ok
+2021/03/14 21:38:04 id in Load 0
+2021/03/14 21:38:04 empty set with  0
+2021/03/14 21:38:04 error loading <nil>
+2021/03/14 21:38:07 &{ map[] 0xc0001ff880 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:07 not ok
+2021/03/14 21:38:07 SavedId 0
+2021/03/14 21:38:07 &{ map[] 0xc0001ff880 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:07 not ok
+2021/03/14 21:38:07 id in Load 0
+2021/03/14 21:38:07 empty set with  0
+2021/03/14 21:38:07 error loading <nil>
+2021/03/14 21:38:07 &{ map[] 0xc0001ff880 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:07 not ok
+2021/03/14 21:38:07 &{ map[] 0xc0001ff880 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:07 not ok
+2021/03/14 21:38:07 SavedId 0
+2021/03/14 21:38:07 &{ map[] 0xc0001ff880 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:07 not ok
+2021/03/14 21:38:07 id in Load 0
+2021/03/14 21:38:07 empty set with  0
+2021/03/14 21:38:07 error loading <nil>
+2021/03/14 21:38:07 &{ map[] 0xc000318300 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:07 not ok
+2021/03/14 21:38:07 SavedId 0
+2021/03/14 21:38:07 &{ map[] 0xc000318300 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:07 not ok
+2021/03/14 21:38:07 id in Load 0
+2021/03/14 21:38:07 empty set with  0
+2021/03/14 21:38:07 error loading <nil>
+2021/03/14 21:38:07 &{ map[] 0xc000318300 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:07 not ok
+2021/03/14 21:38:07 &{ map[] 0xc000318300 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:07 not ok
+2021/03/14 21:38:07 SavedId 0
+2021/03/14 21:38:07 &{ map[] 0xc000318300 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:07 not ok
+2021/03/14 21:38:07 id in Load 0
+2021/03/14 21:38:07 empty set with  0
+2021/03/14 21:38:07 error loading <nil>
+2021/03/14 21:38:08 &{ map[] 0xc0000a5c40 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 SavedId 0
+2021/03/14 21:38:08 &{ map[] 0xc0000a5c40 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 id in Load 0
+2021/03/14 21:38:08 empty set with  0
+2021/03/14 21:38:08 error loading <nil>
+2021/03/14 21:38:08 &{ map[] 0xc0000a5c40 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 &{ map[] 0xc0000a5c40 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 SavedId 0
+2021/03/14 21:38:08 &{ map[] 0xc0000a5c40 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 id in Load 0
+2021/03/14 21:38:08 empty set with  0
+2021/03/14 21:38:08 error loading <nil>
+2021/03/14 21:38:08 &{ map[] 0xc0000a5d80 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 SavedId 0
+2021/03/14 21:38:08 &{ map[] 0xc0000a5d80 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 id in Load 0
+2021/03/14 21:38:08 empty set with  0
+2021/03/14 21:38:08 error loading <nil>
+2021/03/14 21:38:08 &{ map[] 0xc0000a5d80 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 &{ map[] 0xc0000a5d80 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 SavedId 0
+2021/03/14 21:38:08 &{ map[] 0xc0000a5d80 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 id in Load 0
+2021/03/14 21:38:08 empty set with  0
+2021/03/14 21:38:08 error loading <nil>
+2021/03/14 21:38:08 &{ map[] 0xc0000a5ec0 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 SavedId 0
+2021/03/14 21:38:08 &{ map[] 0xc0000a5ec0 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 id in Load 0
+2021/03/14 21:38:08 empty set with  0
+2021/03/14 21:38:08 error loading <nil>
+2021/03/14 21:38:08 &{ map[] 0xc0000a5ec0 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 &{ map[] 0xc0000a5ec0 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 SavedId 0
+2021/03/14 21:38:08 &{ map[] 0xc0000a5ec0 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 id in Load 0
+2021/03/14 21:38:08 empty set with  0
+2021/03/14 21:38:08 error loading <nil>
+2021/03/14 21:38:08 &{ map[] 0xc0000f8000 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 SavedId 0
+2021/03/14 21:38:08 &{ map[] 0xc0000f8000 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 id in Load 0
+2021/03/14 21:38:08 empty set with  0
+2021/03/14 21:38:08 error loading <nil>
+2021/03/14 21:38:08 &{ map[] 0xc0000f8000 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 &{ map[] 0xc0000f8000 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 SavedId 0
+2021/03/14 21:38:08 &{ map[] 0xc0000f8000 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:08 not ok
+2021/03/14 21:38:08 id in Load 0
+2021/03/14 21:38:08 empty set with  0
+2021/03/14 21:38:08 error loading <nil>
+2021/03/14 21:38:09 0   0
+2021/03/14 21:38:09 &{ map[] 0xc000318580 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:09 &{ map[id:111] 0xc000318580 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:09 saved id  111
+2021/03/14 21:38:09 SavedId 111
+2021/03/14 21:38:09 &{ map[id:111] 0xc000318580 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:09 saved id  111
+2021/03/14 21:38:09 id in Load 111
+2021/03/14 21:38:09 error loading <nil>
+2021/03/14 21:38:09 &{ map[id:111] 0xc000318580 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:09 saved id  111
+2021/03/14 21:38:09 SavedId 111
+2021/03/14 21:38:09 &{ map[id:111] 0xc000318580 true 0xc000064200 session} securecookie: the value is not valid
+2021/03/14 21:38:09 saved id  111
+2021/03/14 21:38:09 id in Load 111
+2021/03/14 21:38:09 error loading <nil>
+2021/03/14 21:38:30 &{ map[id:111] 0xc0000f8180 false 0xc000064200 session} <nil>
+2021/03/14 21:38:30 saved id  111
+2021/03/14 21:38:30 SavedId 111
+2021/03/14 21:38:30 &{ map[id:111] 0xc0000f8180 false 0xc000064200 session} <nil>
+2021/03/14 21:38:30 saved id  111
+2021/03/14 21:38:30 id in Load 111
+2021/03/14 21:38:30 error loading <nil>
+2021/03/14 21:38:30 &{ map[id:111] 0xc0000f8180 false 0xc000064200 session} <nil>
+2021/03/14 21:38:30 saved id  111
+2021/03/14 21:38:30 SavedId 111
+2021/03/14 21:38:30 &{ map[id:111] 0xc0000f8180 false 0xc000064200 session} <nil>
+2021/03/14 21:38:30 saved id  111
+2021/03/14 21:38:30 id in Load 111
+2021/03/14 21:38:30 error loading <nil>
+2021/03/14 21:38:30 args
+2021/03/14 21:38:30 111
+2021/03/14 21:38:36 &{ map[id:111] 0xc0001ff9c0 false 0xc000064200 session} <nil>
+2021/03/14 21:38:36 saved id  111
+2021/03/14 21:38:36 SavedId 111
+2021/03/14 21:38:36 &{ map[id:111] 0xc0001ff9c0 false 0xc000064200 session} <nil>
+2021/03/14 21:38:36 saved id  111
+2021/03/14 21:38:36 id in Load 111
+2021/03/14 21:38:36 error loading <nil>
+2021/03/14 21:38:45 &{ map[id:111] 0xc0001ffd00 false 0xc000064200 session} <nil>
+2021/03/14 21:38:45 saved id  111
+2021/03/14 21:38:45 SavedId 111
+2021/03/14 21:38:45 &{ map[id:111] 0xc0001ffd00 false 0xc000064200 session} <nil>
+2021/03/14 21:38:45 saved id  111
+2021/03/14 21:38:45 id in Load 111
+2021/03/14 21:38:45 error loading <nil>
+2021/03/14 21:38:50 &{ map[id:111] 0xc0003188c0 false 0xc000064200 session} <nil>
+2021/03/14 21:38:50 saved id  111
+2021/03/14 21:38:50 SavedId 111
+2021/03/14 21:38:50 &{ map[id:111] 0xc0003188c0 false 0xc000064200 session} <nil>
+2021/03/14 21:38:50 saved id  111
+2021/03/14 21:38:50 id in Load 111
+2021/03/14 21:38:50 error loading <nil>
+2021/03/14 21:38:50 &{ map[id:111] 0xc0003188c0 false 0xc000064200 session} <nil>
+2021/03/14 21:38:50 saved id  111
+2021/03/14 21:38:50 SavedId 111
+2021/03/14 21:38:50 &{ map[id:111] 0xc0003188c0 false 0xc000064200 session} <nil>
+2021/03/14 21:38:50 saved id  111
+2021/03/14 21:38:51 id in Load 111
+2021/03/14 21:38:51 error loading <nil>
+2021/03/14 21:38:51 args
+2021/03/14 21:38:51 111
+2021/03/14 21:38:52 &{ map[id:111] 0xc0002c2080 false 0xc000064200 session} <nil>
+2021/03/14 21:38:52 saved id  111
+2021/03/14 21:38:52 SavedId 111
+2021/03/14 21:38:52 &{ map[id:111] 0xc0002c2080 false 0xc000064200 session} <nil>
+2021/03/14 21:38:52 saved id  111
+2021/03/14 21:38:52 id in Load 111
+2021/03/14 21:38:52 error loading <nil>
+2021/03/14 21:38:52 &{ map[id:111] 0xc0002c2080 false 0xc000064200 session} <nil>
+2021/03/14 21:38:52 saved id  111
+2021/03/14 21:38:52 &{ map[id:111] 0xc0002c23c0 false 0xc000064200 session} <nil>
+2021/03/14 21:38:52 saved id  111
+2021/03/14 21:38:52 SavedId 111
+2021/03/14 21:38:52 &{ map[id:111] 0xc0002c23c0 false 0xc000064200 session} <nil>
+2021/03/14 21:38:52 saved id  111
+2021/03/14 21:38:52 id in Load 111
+2021/03/14 21:38:52 error loading <nil>
+2021/03/14 21:41:02 &{ map[id:111] 0xc000318d00 false 0xc000064200 session} <nil>
+2021/03/14 21:41:02 saved id  111
+2021/03/14 21:41:02 SavedId 111
+2021/03/14 21:41:02 &{ map[id:111] 0xc000318d00 false 0xc000064200 session} <nil>
+2021/03/14 21:41:02 saved id  111
+2021/03/14 21:41:02 id in Load 111
+2021/03/14 21:41:02 error loading <nil>
+2021/03/14 21:41:02 &{ map[id:111] 0xc000318d00 false 0xc000064200 session} <nil>
+2021/03/14 21:41:02 saved id  111
+2021/03/14 21:41:02 &{ map[id:111] 0xc0002c2700 false 0xc000064200 session} <nil>
+2021/03/14 21:41:02 saved id  111
+2021/03/14 21:41:02 SavedId 111
+2021/03/14 21:41:02 &{ map[id:111] 0xc0002c2700 false 0xc000064200 session} <nil>
+2021/03/14 21:41:02 saved id  111
+2021/03/14 21:41:02 id in Load 111
+2021/03/14 21:41:02 error loading <nil>
+2021/03/14 21:41:03 &{ map[id:111] 0xc0002c2a40 false 0xc000064200 session} <nil>
+2021/03/14 21:41:03 saved id  111
+2021/03/14 21:41:03 SavedId 111
+2021/03/14 21:41:03 &{ map[id:111] 0xc0002c2a40 false 0xc000064200 session} <nil>
+2021/03/14 21:41:03 saved id  111
+2021/03/14 21:41:03 id in Load 111
+2021/03/14 21:41:03 error loading <nil>
+2021/03/14 21:41:03 &{ map[id:111] 0xc0002c2a40 false 0xc000064200 session} <nil>
+2021/03/14 21:41:03 saved id  111
+2021/03/14 21:41:04 &{ map[id:111] 0xc000319080 false 0xc000064200 session} <nil>
+2021/03/14 21:41:04 saved id  111
+2021/03/14 21:41:04 SavedId 111
+2021/03/14 21:41:04 &{ map[id:111] 0xc000319080 false 0xc000064200 session} <nil>
+2021/03/14 21:41:04 saved id  111
+2021/03/14 21:41:04 id in Load 111
+2021/03/14 21:41:04 error loading <nil>
+2021/03/14 21:41:04 &{ map[id:111] 0xc000319080 false 0xc000064200 session} <nil>
+2021/03/14 21:41:04 saved id  111
+2021/03/14 21:41:04 SavedId 111
+2021/03/14 21:41:04 &{ map[id:111] 0xc000319080 false 0xc000064200 session} <nil>
+2021/03/14 21:41:04 saved id  111
+2021/03/14 21:41:04 id in Load 111
+2021/03/14 21:41:04 error loading <nil>
+2021/03/14 21:41:04 args
+2021/03/14 21:41:04 111
+2021/03/14 21:41:11 &{ map[id:111] 0xc0003193c0 false 0xc000064200 session} <nil>
+2021/03/14 21:41:11 saved id  111
+2021/03/14 21:41:11 SavedId 111
+2021/03/14 21:41:11 &{ map[id:111] 0xc0003193c0 false 0xc000064200 session} <nil>
+2021/03/14 21:41:11 saved id  111
+2021/03/14 21:41:11 id in Load 111
+2021/03/14 21:41:11 error loading <nil>
+2021/03/14 21:41:11 Id is empty
+2021/03/14 21:42:17 &{ map[id:111] 0xc000319700 false 0xc000064200 session} <nil>
+2021/03/14 21:42:17 saved id  111
+2021/03/14 21:42:17 SavedId 111
+2021/03/14 21:42:17 &{ map[id:111] 0xc000319700 false 0xc000064200 session} <nil>
+2021/03/14 21:42:17 saved id  111
+2021/03/14 21:42:17 id in Load 111
+2021/03/14 21:42:17 error loading <nil>
+2021/03/14 21:42:17 &{ map[id:111] 0xc000319700 false 0xc000064200 session} <nil>
+2021/03/14 21:42:17 saved id  111
+2021/03/14 21:42:17 &{ map[id:111] 0xc0002c2d80 false 0xc000064200 session} <nil>
+2021/03/14 21:42:17 saved id  111
+2021/03/14 21:42:17 SavedId 111
+2021/03/14 21:42:17 &{ map[id:111] 0xc0002c2d80 false 0xc000064200 session} <nil>
+2021/03/14 21:42:17 saved id  111
+2021/03/14 21:42:17 id in Load 111
+2021/03/14 21:42:17 error loading <nil>
+2021/03/14 21:42:23 &{ map[id:111] 0xc000319a00 false 0xc000064200 session} <nil>
+2021/03/14 21:42:23 saved id  111
+2021/03/14 21:42:23 SavedId 111
+2021/03/14 21:42:23 &{ map[id:111] 0xc000319a00 false 0xc000064200 session} <nil>
+2021/03/14 21:42:23 saved id  111
+2021/03/14 21:42:23 id in Load 111
+2021/03/14 21:42:23 error loading <nil>
+2021/03/14 21:42:23 Id is empty
+2021/03/14 21:43:06 &{ map[id:111] 0xc000319d40 false 0xc000064200 session} <nil>
+2021/03/14 21:43:06 saved id  111
+2021/03/14 21:43:06 SavedId 111
+2021/03/14 21:43:06 &{ map[id:111] 0xc000319d40 false 0xc000064200 session} <nil>
+2021/03/14 21:43:06 saved id  111
+2021/03/14 21:43:06 id in Load 111
+2021/03/14 21:43:06 error loading <nil>
+2021/03/14 21:43:06 &{ map[id:111] 0xc000319d40 false 0xc000064200 session} <nil>
+2021/03/14 21:43:06 saved id  111
+2021/03/14 21:43:06 &{ map[id:111] 0xc0002c3100 false 0xc000064200 session} <nil>
+2021/03/14 21:43:06 saved id  111
+2021/03/14 21:43:06 SavedId 111
+2021/03/14 21:43:06 &{ map[id:111] 0xc0002c3100 false 0xc000064200 session} <nil>
+2021/03/14 21:43:06 saved id  111
+2021/03/14 21:43:06 id in Load 111
+2021/03/14 21:43:06 error loading <nil>
+2021/03/14 21:43:07 &{ map[id:111] 0xc000364040 false 0xc000064200 session} <nil>
+2021/03/14 21:43:07 saved id  111
+2021/03/14 21:43:07 SavedId 111
+2021/03/14 21:43:07 &{ map[id:111] 0xc000364040 false 0xc000064200 session} <nil>
+2021/03/14 21:43:07 saved id  111
+2021/03/14 21:43:07 id in Load 111
+2021/03/14 21:43:07 error loading <nil>
+2021/03/14 21:43:07 &{ map[id:111] 0xc000364040 false 0xc000064200 session} <nil>
+2021/03/14 21:43:07 saved id  111
+2021/03/14 21:43:07 &{ map[id:111] 0xc000364340 false 0xc000064200 session} <nil>
+2021/03/14 21:43:07 saved id  111
+2021/03/14 21:43:07 SavedId 111
+2021/03/14 21:43:07 &{ map[id:111] 0xc000364340 false 0xc000064200 session} <nil>
+2021/03/14 21:43:07 saved id  111
+2021/03/14 21:43:07 id in Load 111
+2021/03/14 21:43:07 error loading <nil>
+2021/03/14 21:43:13 &{ map[id:111] 0xc0002c3440 false 0xc000064200 session} <nil>
+2021/03/14 21:43:13 saved id  111
+2021/03/14 21:43:13 SavedId 111
+2021/03/14 21:43:13 &{ map[id:111] 0xc0002c3440 false 0xc000064200 session} <nil>
+2021/03/14 21:43:13 saved id  111
+2021/03/14 21:43:13 id in Load 111
+2021/03/14 21:43:13 error loading <nil>
+2021/03/14 21:43:13 &{ map[id:111] 0xc0002c3440 false 0xc000064200 session} <nil>
+2021/03/14 21:43:13 saved id  111
+2021/03/14 21:43:13 SavedId 111
+2021/03/14 21:43:13 &{ map[id:111] 0xc0002c3440 false 0xc000064200 session} <nil>
+2021/03/14 21:43:13 saved id  111
+2021/03/14 21:43:13 id in Load 111
+2021/03/14 21:43:13 error loading <nil>
+2021/03/14 21:43:13 args
+2021/03/14 21:43:13 111
+2021/03/14 21:43:15 &{ map[id:111] 0xc0002c37c0 false 0xc000064200 session} <nil>
+2021/03/14 21:43:15 saved id  111
+2021/03/14 21:43:15 SavedId 111
+2021/03/14 21:43:15 &{ map[id:111] 0xc0002c37c0 false 0xc000064200 session} <nil>
+2021/03/14 21:43:15 saved id  111
+2021/03/14 21:43:15 id in Load 111
+2021/03/14 21:43:15 error loading <nil>
+2021/03/14 21:43:15 &{ map[id:111] 0xc0002c37c0 false 0xc000064200 session} <nil>
+2021/03/14 21:43:15 saved id  111
+2021/03/14 21:43:15 &{ map[id:111] 0xc0002c3b00 false 0xc000064200 session} <nil>
+2021/03/14 21:43:15 saved id  111
+2021/03/14 21:43:15 SavedId 111
+2021/03/14 21:43:15 &{ map[id:111] 0xc0002c3b00 false 0xc000064200 session} <nil>
+2021/03/14 21:43:15 saved id  111
+2021/03/14 21:43:15 id in Load 111
+2021/03/14 21:43:15 error loading <nil>
+2021/03/14 21:43:31 &{ map[id:111] 0xc0003646c0 false 0xc000064200 session} <nil>
+2021/03/14 21:43:31 saved id  111
+2021/03/14 21:43:31 SavedId 111
+2021/03/14 21:43:31 &{ map[id:111] 0xc0003646c0 false 0xc000064200 session} <nil>
+2021/03/14 21:43:31 saved id  111
+2021/03/14 21:43:31 id in Load 111
+2021/03/14 21:43:31 error loading <nil>
+2021/03/14 21:43:31 Id is empty
+2021/03/14 21:43:59 Server launched
+2021/03/14 21:44:02 &{ map[id:111] 0xc0000e19c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:44:02 saved id  111
+2021/03/14 21:44:02 SavedId 111
+2021/03/14 21:44:02 &{ map[id:111] 0xc0000e19c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:44:02 saved id  111
+2021/03/14 21:44:02 id in Load 111
+2021/03/14 21:44:02 error loading <nil>
+2021/03/14 21:44:02 &{ map[id:111] 0xc0000e19c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:44:02 saved id  111
+2021/03/14 21:44:02 &{ map[id:111] 0xc00002c180 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:44:02 saved id  111
+2021/03/14 21:44:02 SavedId 111
+2021/03/14 21:44:02 &{ map[id:111] 0xc00002c180 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:44:02 saved id  111
+2021/03/14 21:44:02 id in Load 111
+2021/03/14 21:44:02 error loading <nil>
+2021/03/14 21:44:08 &{ map[id:111] 0xc00002c500 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:44:08 saved id  111
+2021/03/14 21:44:08 SavedId 111
+2021/03/14 21:44:08 &{ map[id:111] 0xc00002c500 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:44:08 saved id  111
+2021/03/14 21:44:08 id in Load 111
+2021/03/14 21:44:08 error loading <nil>
+2021/03/14 21:44:08 Id is empty
+2021/03/14 21:46:59 &{ map[id:111] 0xc000196240 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:46:59 saved id  111
+2021/03/14 21:46:59 SavedId 111
+2021/03/14 21:46:59 &{ map[id:111] 0xc000196240 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:46:59 saved id  111
+2021/03/14 21:46:59 &{ map[id:111] 0xc0000e1e80 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:46:59 saved id  111
+2021/03/14 21:46:59 SavedId 111
+2021/03/14 21:46:59 &{ map[id:111] 0xc0000e1e80 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:46:59 saved id  111
+2021/03/14 21:46:59 id in Load 111
+2021/03/14 21:46:59 error loading <nil>
+2021/03/14 21:46:59 id in Load 111
+2021/03/14 21:46:59 error loading <nil>
+2021/03/14 21:46:59 &{ map[id:111] 0xc000196240 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:46:59 &{ map[id:111] 0xc0000e1e80 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:46:59 saved id  111
+2021/03/14 21:46:59 saved id  111
+2021/03/14 21:46:59 &{ map[id:111] 0xc000196540 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:46:59 saved id  111
+2021/03/14 21:46:59 SavedId 111
+2021/03/14 21:46:59 &{ map[id:111] 0xc000196540 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:46:59 saved id  111
+2021/03/14 21:46:59 &{ map[id:111] 0xc00016c1c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:46:59 saved id  111
+2021/03/14 21:46:59 SavedId 111
+2021/03/14 21:46:59 &{ map[id:111] 0xc00016c1c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:46:59 saved id  111
+2021/03/14 21:46:59 id in Load 111
+2021/03/14 21:46:59 error loading <nil>
+2021/03/14 21:46:59 id in Load 111
+2021/03/14 21:46:59 error loading <nil>
+2021/03/14 21:47:14 &{ map[id:111] 0xc00016c4c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:14 saved id  111
+2021/03/14 21:47:14 SavedId 111
+2021/03/14 21:47:14 &{ map[id:111] 0xc00016c4c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:14 saved id  111
+2021/03/14 21:47:14 id in Load 111
+2021/03/14 21:47:14 error loading <nil>
+2021/03/14 21:47:14 &{ map[id:111] 0xc00016c4c0 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:14 saved id  111
+2021/03/14 21:47:14 &{ map[id:111] 0xc000196900 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:14 saved id  111
+2021/03/14 21:47:14 SavedId 111
+2021/03/14 21:47:14 &{ map[id:111] 0xc000196900 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:14 saved id  111
+2021/03/14 21:47:14 &{ map[id:111] 0xc000196c00 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:14 saved id  111
+2021/03/14 21:47:14 SavedId 111
+2021/03/14 21:47:14 &{ map[id:111] 0xc000196c00 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:14 saved id  111
+2021/03/14 21:47:14 id in Load 111
+2021/03/14 21:47:14 error loading <nil>
+2021/03/14 21:47:14 id in Load 111
+2021/03/14 21:47:14 error loading <nil>
+2021/03/14 21:47:14 &{ map[id:111] 0xc000196900 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:14 saved id  111
+2021/03/14 21:47:15 &{ map[id:111] 0xc000196f40 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:15 saved id  111
+2021/03/14 21:47:15 SavedId 111
+2021/03/14 21:47:15 &{ map[id:111] 0xc000196f40 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:15 saved id  111
+2021/03/14 21:47:15 id in Load 111
+2021/03/14 21:47:15 error loading <nil>
+2021/03/14 21:47:27 &{ map[id:111] 0xc000197280 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:27 saved id  111
+2021/03/14 21:47:27 SavedId 111
+2021/03/14 21:47:27 &{ map[id:111] 0xc000197280 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:27 saved id  111
+2021/03/14 21:47:27 id in Load 111
+2021/03/14 21:47:27 error loading <nil>
+2021/03/14 21:47:27 &{ map[id:111] 0xc000197280 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:27 saved id  111
+2021/03/14 21:47:27 &{ map[id:111] 0xc00002c940 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:27 saved id  111
+2021/03/14 21:47:27 SavedId 111
+2021/03/14 21:47:27 &{ map[id:111] 0xc00002c940 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:27 saved id  111
+2021/03/14 21:47:27 id in Load 111
+2021/03/14 21:47:27 error loading <nil>
+2021/03/14 21:47:32 &{ map[id:111] 0xc00016c840 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:32 saved id  111
+2021/03/14 21:47:32 SavedId 111
+2021/03/14 21:47:32 &{ map[id:111] 0xc00016c840 false 0xc0000c41e0 session} <nil>
+2021/03/14 21:47:32 saved id  111
+2021/03/14 21:47:32 id in Load 111
+2021/03/14 21:47:32 error loading <nil>
+2021/03/14 21:47:32 Couldn't save audio
+2021/03/14 21:48:13 Server launched
+2021/03/14 21:48:16 &{ map[id:111] 0xc00002da40 false 0xc000064200 session} <nil>
+2021/03/14 21:48:16 saved id  111
+2021/03/14 21:48:16 SavedId 111
+2021/03/14 21:48:16 &{ map[id:111] 0xc00002da40 false 0xc000064200 session} <nil>
+2021/03/14 21:48:16 saved id  111
+2021/03/14 21:48:16 id in Load 111
+2021/03/14 21:48:16 error loading <nil>
+2021/03/14 21:48:16 &{ map[id:111] 0xc00002da40 false 0xc000064200 session} <nil>
+2021/03/14 21:48:16 saved id  111
+2021/03/14 21:48:16 &{ map[id:111] 0xc0000a2140 false 0xc000064200 session} <nil>
+2021/03/14 21:48:16 saved id  111
+2021/03/14 21:48:16 SavedId 111
+2021/03/14 21:48:16 &{ map[id:111] 0xc0000a2140 false 0xc000064200 session} <nil>
+2021/03/14 21:48:16 saved id  111
+2021/03/14 21:48:16 id in Load 111
+2021/03/14 21:48:16 error loading <nil>
+2021/03/14 21:48:21 &{ map[id:111] 0xc00002de00 false 0xc000064200 session} <nil>
+2021/03/14 21:48:21 saved id  111
+2021/03/14 21:48:21 SavedId 111
+2021/03/14 21:48:21 &{ map[id:111] 0xc00002de00 false 0xc000064200 session} <nil>
+2021/03/14 21:48:21 saved id  111
+2021/03/14 21:48:21 id in Load 111
+2021/03/14 21:48:21 error loading <nil>
+2021/03/14 21:48:21 Couldn't form audio
+2021/03/14 21:52:21 &{ map[id:111] 0xc00020e200 false 0xc000064200 session} <nil>
+2021/03/14 21:52:21 saved id  111
+2021/03/14 21:52:21 SavedId 111
+2021/03/14 21:52:21 &{ map[id:111] 0xc00020e200 false 0xc000064200 session} <nil>
+2021/03/14 21:52:21 saved id  111
+2021/03/14 21:52:21 id in Load 111
+2021/03/14 21:52:21 error loading <nil>
+2021/03/14 21:52:21 Couldn't form audio
+2021/03/14 22:00:12 &{ map[id:111] 0xc0000a2500 false 0xc000064200 session} <nil>
+2021/03/14 22:00:12 saved id  111
+2021/03/14 22:00:12 SavedId 111
+2021/03/14 22:00:12 &{ map[id:111] 0xc0000a2500 false 0xc000064200 session} <nil>
+2021/03/14 22:00:12 saved id  111
+2021/03/14 22:00:12 id in Load 111
+2021/03/14 22:00:12 error loading <nil>
+2021/03/14 22:00:12 &{ map[id:111] 0xc0000a2500 false 0xc000064200 session} <nil>
+2021/03/14 22:00:12 saved id  111
+2021/03/14 22:00:12 &{ map[id:111] 0xc0001ae1c0 false 0xc000064200 session} <nil>
+2021/03/14 22:00:12 saved id  111
+2021/03/14 22:00:12 SavedId 111
+2021/03/14 22:00:12 &{ map[id:111] 0xc0001ae1c0 false 0xc000064200 session} <nil>
+2021/03/14 22:00:12 saved id  111
+2021/03/14 22:00:12 id in Load 111
+2021/03/14 22:00:12 error loading <nil>
+2021/03/14 22:00:12 &{ map[id:111] 0xc0000a2840 false 0xc000064200 session} <nil>
+2021/03/14 22:00:12 saved id  111
+2021/03/14 22:00:12 SavedId 111
+2021/03/14 22:00:12 &{ map[id:111] 0xc0000a2840 false 0xc000064200 session} <nil>
+2021/03/14 22:00:12 saved id  111
+2021/03/14 22:00:12 id in Load 111
+2021/03/14 22:00:12 error loading <nil>
+2021/03/14 22:00:12 &{ map[id:111] 0xc0000a2840 false 0xc000064200 session} <nil>
+2021/03/14 22:00:12 saved id  111
+2021/03/14 22:00:12 &{ map[id:111] 0xc0000a2b80 false 0xc000064200 session} <nil>
+2021/03/14 22:00:12 saved id  111
+2021/03/14 22:00:12 SavedId 111
+2021/03/14 22:00:12 &{ map[id:111] 0xc0000a2b80 false 0xc000064200 session} <nil>
+2021/03/14 22:00:12 saved id  111
+2021/03/14 22:00:12 id in Load 111
+2021/03/14 22:00:12 error loading <nil>
+2021/03/14 22:03:46 &{ map[id:111] 0xc00020e6c0 false 0xc000064200 session} <nil>
+2021/03/14 22:03:46 saved id  111
+2021/03/14 22:03:46 SavedId 111
+2021/03/14 22:03:46 &{ map[id:111] 0xc00020e6c0 false 0xc000064200 session} <nil>
+2021/03/14 22:03:46 saved id  111
+2021/03/14 22:03:46 id in Load 111
+2021/03/14 22:03:46 error loading <nil>
+2021/03/14 22:03:46 Couldn't form audio
+2021/03/14 22:04:35 &{ map[id:111] 0xc0001ae500 false 0xc000064200 session} <nil>
+2021/03/14 22:04:35 saved id  111
+2021/03/14 22:04:35 SavedId 111
+2021/03/14 22:04:35 &{ map[id:111] 0xc0001ae500 false 0xc000064200 session} <nil>
+2021/03/14 22:04:35 saved id  111
+2021/03/14 22:04:35 id in Load 111
+2021/03/14 22:04:35 error loading <nil>
+2021/03/14 22:04:35 &{ map[id:111] 0xc0001ae500 false 0xc000064200 session} <nil>
+2021/03/14 22:04:35 saved id  111
+2021/03/14 22:04:35 &{ map[id:111] 0xc00020ea00 false 0xc000064200 session} <nil>
+2021/03/14 22:04:35 saved id  111
+2021/03/14 22:04:35 SavedId 111
+2021/03/14 22:04:35 &{ map[id:111] 0xc00020ea00 false 0xc000064200 session} <nil>
+2021/03/14 22:04:35 saved id  111
+2021/03/14 22:04:35 id in Load 111
+2021/03/14 22:04:35 error loading <nil>
+2021/03/14 22:04:36 &{ map[id:111] 0xc0001ae840 false 0xc000064200 session} <nil>
+2021/03/14 22:04:36 saved id  111
+2021/03/14 22:04:36 SavedId 111
+2021/03/14 22:04:36 &{ map[id:111] 0xc0001ae840 false 0xc000064200 session} <nil>
+2021/03/14 22:04:36 saved id  111
+2021/03/14 22:04:36 id in Load 111
+2021/03/14 22:04:36 error loading <nil>
+2021/03/14 22:04:36 &{ map[id:111] 0xc0001ae840 false 0xc000064200 session} <nil>
+2021/03/14 22:04:36 saved id  111
+2021/03/14 22:04:36 &{ map[id:111] 0xc00020ed40 false 0xc000064200 session} <nil>
+2021/03/14 22:04:36 saved id  111
+2021/03/14 22:04:36 SavedId 111
+2021/03/14 22:04:36 &{ map[id:111] 0xc00020ed40 false 0xc000064200 session} <nil>
+2021/03/14 22:04:36 saved id  111
+2021/03/14 22:04:36 id in Load 111
+2021/03/14 22:04:36 error loading <nil>
+2021/03/14 22:04:39 &{ map[id:111] 0xc0001aeb40 false 0xc000064200 session} <nil>
+2021/03/14 22:04:39 saved id  111
+2021/03/14 22:04:39 SavedId 111
+2021/03/14 22:04:39 &{ map[id:111] 0xc0001aeb40 false 0xc000064200 session} <nil>
+2021/03/14 22:04:39 saved id  111
+2021/03/14 22:04:39 id in Load 111
+2021/03/14 22:04:39 error loading <nil>
+2021/03/14 22:04:39 &{ map[id:111] 0xc0001aeb40 false 0xc000064200 session} <nil>
+2021/03/14 22:04:39 saved id  111
+2021/03/14 22:04:39 &{ map[id:111] 0xc00020f0c0 false 0xc000064200 session} <nil>
+2021/03/14 22:04:39 saved id  111
+2021/03/14 22:04:39 SavedId 111
+2021/03/14 22:04:39 &{ map[id:111] 0xc00020f0c0 false 0xc000064200 session} <nil>
+2021/03/14 22:04:39 saved id  111
+2021/03/14 22:04:39 id in Load 111
+2021/03/14 22:04:39 error loading <nil>
+2021/03/14 22:04:40 &{ map[id:111] 0xc0000a3000 false 0xc000064200 session} <nil>
+2021/03/14 22:04:40 saved id  111
+2021/03/14 22:04:40 SavedId 111
+2021/03/14 22:04:40 &{ map[id:111] 0xc0000a3000 false 0xc000064200 session} <nil>
+2021/03/14 22:04:40 saved id  111
+2021/03/14 22:04:40 id in Load 111
+2021/03/14 22:04:40 error loading <nil>
+2021/03/14 22:04:40 &{ map[id:111] 0xc0000a3000 false 0xc000064200 session} <nil>
+2021/03/14 22:04:40 saved id  111
+2021/03/14 22:04:40 &{ map[id:111] 0xc00020f480 false 0xc000064200 session} <nil>
+2021/03/14 22:04:40 saved id  111
+2021/03/14 22:04:40 SavedId 111
+2021/03/14 22:04:40 &{ map[id:111] 0xc00020f480 false 0xc000064200 session} <nil>
+2021/03/14 22:04:40 saved id  111
+2021/03/14 22:04:40 id in Load 111
+2021/03/14 22:04:40 error loading <nil>
+2021/03/14 22:05:06 &{ map[id:111] 0xc0001aee80 false 0xc000064200 session} <nil>
+2021/03/14 22:05:06 saved id  111
+2021/03/14 22:05:06 SavedId 111
+2021/03/14 22:05:06 &{ map[id:111] 0xc0001aee80 false 0xc000064200 session} <nil>
+2021/03/14 22:05:06 saved id  111
+2021/03/14 22:05:06 id in Load 111
+2021/03/14 22:05:06 error loading <nil>
+2021/03/14 22:05:06 &{ map[id:111] 0xc0001aee80 false 0xc000064200 session} <nil>
+2021/03/14 22:05:06 saved id  111
+2021/03/14 22:05:06 &{ map[id:111] 0xc0001af180 false 0xc000064200 session} <nil>
+2021/03/14 22:05:06 saved id  111
+2021/03/14 22:05:06 SavedId 111
+2021/03/14 22:05:06 &{ map[id:111] 0xc0001af180 false 0xc000064200 session} <nil>
+2021/03/14 22:05:06 saved id  111
+2021/03/14 22:05:06 id in Load 111
+2021/03/14 22:05:06 error loading <nil>
+2021/03/14 22:05:07 &{ map[id:111] 0xc0001af4c0 false 0xc000064200 session} <nil>
+2021/03/14 22:05:07 saved id  111
+2021/03/14 22:05:07 SavedId 111
+2021/03/14 22:05:07 &{ map[id:111] 0xc0001af4c0 false 0xc000064200 session} <nil>
+2021/03/14 22:05:07 saved id  111
+2021/03/14 22:05:07 id in Load 111
+2021/03/14 22:05:07 error loading <nil>
+2021/03/14 22:05:07 &{ map[id:111] 0xc0001af4c0 false 0xc000064200 session} <nil>
+2021/03/14 22:05:07 saved id  111
+2021/03/14 22:05:07 &{ map[id:111] 0xc0000a3380 false 0xc000064200 session} <nil>
+2021/03/14 22:05:07 saved id  111
+2021/03/14 22:05:07 SavedId 111
+2021/03/14 22:05:07 &{ map[id:111] 0xc0000a3380 false 0xc000064200 session} <nil>
+2021/03/14 22:05:07 saved id  111
+2021/03/14 22:05:07 id in Load 111
+2021/03/14 22:05:07 error loading <nil>
+2021/03/14 22:05:12 Server launched
+2021/03/14 22:05:15 &{ map[id:111] 0xc0001599c0 false 0xc00013e1e0 session} <nil>
+2021/03/14 22:05:15 saved id  111
+2021/03/14 22:05:15 SavedId 111
+2021/03/14 22:05:15 &{ map[id:111] 0xc0001599c0 false 0xc00013e1e0 session} <nil>
+2021/03/14 22:05:15 saved id  111
+2021/03/14 22:05:15 id in Load 111
+2021/03/14 22:05:15 error loading <nil>
+2021/03/14 22:05:15 Couldn't form audio
+2021/03/14 22:07:31 &{ map[id:111] 0xc000159e40 false 0xc00013e1e0 session} <nil>
+2021/03/14 22:07:31 saved id  111
+2021/03/14 22:07:31 SavedId 111
+2021/03/14 22:07:31 &{ map[id:111] 0xc000159e40 false 0xc00013e1e0 session} <nil>
+2021/03/14 22:07:31 saved id  111
+2021/03/14 22:07:31 id in Load 111
+2021/03/14 22:07:31 error loading <nil>
+2021/03/14 22:07:31 &{ map[id:111] 0xc000159e40 false 0xc00013e1e0 session} <nil>
+2021/03/14 22:07:31 saved id  111
+2021/03/14 22:07:31 &{ map[id:111] 0xc0001da180 false 0xc00013e1e0 session} <nil>
+2021/03/14 22:07:31 saved id  111
+2021/03/14 22:07:31 SavedId 111
+2021/03/14 22:07:31 &{ map[id:111] 0xc0001da180 false 0xc00013e1e0 session} <nil>
+2021/03/14 22:07:31 saved id  111
+2021/03/14 22:07:31 id in Load 111
+2021/03/14 22:07:31 error loading <nil>
+2021/03/14 22:07:31 &{ map[id:111] 0xc0001da180 false 0xc00013e1e0 session} <nil>
+2021/03/14 22:07:31 saved id  111
+2021/03/14 22:07:31 &{ map[id:111] 0xc0000b8100 false 0xc00013e1e0 session} <nil>
+2021/03/14 22:07:31 saved id  111
+2021/03/14 22:07:31 SavedId 111
+2021/03/14 22:07:31 &{ map[id:111] 0xc0000b8100 false 0xc00013e1e0 session} <nil>
+2021/03/14 22:07:31 saved id  111
+2021/03/14 22:07:31 id in Load 111
+2021/03/14 22:07:31 error loading <nil>
+2021/03/14 22:07:31 &{ map[id:111] 0xc0000b8440 false 0xc00013e1e0 session} <nil>
+2021/03/14 22:07:31 saved id  111
+2021/03/14 22:07:31 SavedId 111
+2021/03/14 22:07:31 &{ map[id:111] 0xc0000b8440 false 0xc00013e1e0 session} <nil>
+2021/03/14 22:07:31 saved id  111
+2021/03/14 22:07:31 id in Load 111
+2021/03/14 22:07:31 error loading <nil>
+2021/03/14 22:07:46 Server launched
+2021/03/14 22:07:50 &{ map[id:111] 0xc00018c200 false 0xc0000c41e0 session} <nil>
+2021/03/14 22:07:50 saved id  111
+2021/03/14 22:07:50 SavedId 111
+2021/03/14 22:07:50 &{ map[id:111] 0xc00018c200 false 0xc0000c41e0 session} <nil>
+2021/03/14 22:07:50 saved id  111
+2021/03/14 22:07:50 id in Load 111
+2021/03/14 22:07:50 error loading <nil>
+2021/03/14 22:07:50 &{ map[id:111] 0xc00018c200 false 0xc0000c41e0 session} <nil>
+2021/03/14 22:07:50 saved id  111
+2021/03/14 22:07:50 &{ map[id:111] 0xc0000e1900 false 0xc0000c41e0 session} <nil>
+2021/03/14 22:07:50 saved id  111
+2021/03/14 22:07:50 SavedId 111
+2021/03/14 22:07:50 &{ map[id:111] 0xc0000e1900 false 0xc0000c41e0 session} <nil>
+2021/03/14 22:07:50 saved id  111
+2021/03/14 22:07:50 id in Load 111
+2021/03/14 22:07:50 error loading <nil>
+2021/03/14 22:07:58 &{ map[id:111] 0xc00018c600 false 0xc0000c41e0 session} <nil>
+2021/03/14 22:07:58 saved id  111
+2021/03/14 22:07:58 SavedId 111
+2021/03/14 22:07:58 &{ map[id:111] 0xc00018c600 false 0xc0000c41e0 session} <nil>
+2021/03/14 22:07:58 saved id  111
+2021/03/14 22:07:58 id in Load 111
+2021/03/14 22:07:58 error loading <nil>
+2021/03/14 22:12:12 Server launched
+2021/03/14 22:12:18 &{ map[id:111] 0xc00002da40 false 0xc000064200 session} <nil>
+2021/03/14 22:12:18 saved id  111
+2021/03/14 22:12:18 SavedId 111
+2021/03/14 22:12:18 &{ map[id:111] 0xc00002da40 false 0xc000064200 session} <nil>
+2021/03/14 22:12:18 saved id  111
+2021/03/14 22:12:18 id in Load 111
+2021/03/14 22:12:18 error loading <nil>
+2021/03/14 22:12:18 &{ map[id:111] 0xc00002da40 false 0xc000064200 session} <nil>
+2021/03/14 22:12:18 saved id  111
+2021/03/14 22:12:18 &{ map[id:111] 0xc000218100 false 0xc000064200 session} <nil>
+2021/03/14 22:12:18 saved id  111
+2021/03/14 22:12:18 SavedId 111
+2021/03/14 22:12:18 &{ map[id:111] 0xc000218100 false 0xc000064200 session} <nil>
+2021/03/14 22:12:18 saved id  111
+2021/03/14 22:12:18 id in Load 111
+2021/03/14 22:12:18 error loading <nil>
+2021/03/14 22:12:23 &{ map[id:111] 0xc0000a21c0 false 0xc000064200 session} <nil>
+2021/03/14 22:12:23 saved id  111
+2021/03/14 22:12:23 SavedId 111
+2021/03/14 22:12:23 &{ map[id:111] 0xc0000a21c0 false 0xc000064200 session} <nil>
+2021/03/14 22:12:23 saved id  111
+2021/03/14 22:12:23 id in Load 111
+2021/03/14 22:12:23 error loading <nil>
