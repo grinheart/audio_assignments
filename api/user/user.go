@@ -4,7 +4,8 @@ import ("database/sql"
 _ "github.com/go-sql-driver/mysql"
 "errors"
 "strconv"
-"os")
+"os"
+"log")
 
 type User struct {
 	id int
@@ -35,21 +36,37 @@ func (u *User) retrieveIdWithQuery(query string, args ...interface{}) (sql.Resul
 	stmt, err := u.db.Prepare(query)
 	res, err := stmt.Exec(args...)
 	if (err != nil) {
-		panic(err)
+		log.Println(err)
+		return res, err
 	}
 	id64, err := res.LastInsertId()
 	u.id = int(id64)
 	return res, err
 }
 
-func (u *User) Reg() error {
+func (u *User) Reg() (int) {
 	u.save()
-	_, err := u.retrieveIdWithQuery("INSERT INTO users(name, email, pwd) VALUES(?, ?, ?);", u.name, u.email, u.pwd)
+	res, err := u.db.Query("SELECT * from users WHERE email = ?", u.email)
+	if (err != nil) {
+		log.Println(err)
+	}
+	if (res.Next()) {
+		return 1
+	}
+	_, err = u.retrieveIdWithQuery("INSERT INTO users(name, email, pwd) VALUES(?, ?, ?);", u.name, u.email, u.pwd)
+	if (err != nil) {
+		log.Fatal(err)
+		return -1
+	}
 	path := "./audio/" + strconv.Itoa(u.id)
 	if _, err := os.Stat(path); os.IsNotExist(err) {
 		os.Mkdir(path, 0755)
 	}
-	return err
+	if (err != nil) {
+		log.Fatal(err)
+		return -1
+	}
+	return 0
 }
 
 func (u *User) save() {
@@ -59,19 +76,21 @@ func (u *User) save() {
 	u.pwd = u.Pwd
 }
 
-func (u *User) Auth() (bool, error) {
+func (u *User) Auth() (int) {
 	u.save()
 	u.checkDBSet()
-	var success bool
+	log.Print("u.id u.name u.email ", u.id, " ", u.name, " ", u.email)
+
 	res, err := u.db.Query("SELECT id, name, email FROM users WHERE email=? AND pwd=?", u.email, u.pwd)
 	if (err != nil) {
-		return false, err
-	} else {
-		success = res.Next()
+		return -1
+	} else if res.Next() {
 		res.Scan(&u.id, &u.Name, &u.Email)
 		u.save()
+		log.Print(u.id, " ", u.name, " ", u.email)
+		return 0
 	}
-	return success, err
+	return 1
 }
 
 func (u *User) Load(id int, db *sql.DB) (bool, error) {

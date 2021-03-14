@@ -1,0 +1,45 @@
+import {React} from 'react';
+import { observer } from 'mobx-react';
+import {API} from "../const";
+import { store } from './store';
+import { Form, postReq } from './form';
+
+const Auth = observer((props) => {
+    store.redirectIfLogged()
+    
+    const onChange = (e, field) => {
+        store.update(field, e.target.value);
+    }
+    const inputMap = [
+        {
+            type: "text",
+            label: "Почта",
+            name: "email",
+            value: store.email,
+            onChange: (e) => onChange(e, "email")
+        },
+        {
+            type: "password",
+            label: "Пароль",
+            name: "pwd",
+            value: store.pwd,
+            onChange: (e) => onChange(e, "pwd")
+        },
+    ]
+
+    const submit = () => {
+        postReq(`${API}auth`);
+    }
+
+    const submitLabel = "Войти"
+
+    const form = {
+        inputMap,
+        submit,
+        submitLabel
+    }
+
+    return <Form {...form} />
+});
+
+export default Auth;

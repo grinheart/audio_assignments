@@ -1,0 +1,3 @@
+cd ./api
+echo "GO SERVER"
+go run main.go

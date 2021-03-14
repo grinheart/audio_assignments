@@ -1,0 +1,3 @@
+cd ./client
+echo "REACT SERVER"
+npm start

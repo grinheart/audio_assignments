@@ -1,0 +1,924 @@
+2021/03/13 12:24:03 Server launched
+2021/03/13 12:24:07 0
+2021/03/13 12:24:12 u.id u.name u.email 0  
+2021/03/13 12:24:12 8  
+2021/03/13 12:24:12 1   2
+2021/03/13 12:24:12 start session
+2021/03/13 12:24:12 id  8
+2021/03/13 12:24:12 0
+2021/03/13 12:26:02 Server launched
+2021/03/13 12:26:06 0
+2021/03/13 12:26:08 1   2
+2021/03/13 12:26:08 u.id u.name u.email 0  1
+2021/03/13 12:26:12 b   c
+2021/03/13 12:26:12 u.id u.name u.email 0  b
+2021/03/13 12:26:12 1 a b
+2021/03/13 12:26:12 start session
+2021/03/13 12:26:12 id  1
+2021/03/13 12:26:13 0
+2021/03/13 12:26:20 0
+2021/03/13 12:31:07 Server launched
+2021/03/13 12:31:14 b   c
+2021/03/13 12:31:14 u.id u.name u.email 0  b
+2021/03/13 12:31:14 1 a b
+2021/03/13 12:31:14 start session
+2021/03/13 12:31:14 id  1 1
+2021/03/13 12:31:15 0
+2021/03/13 12:35:19 Server launched
+2021/03/13 12:35:23 <nil>
+2021/03/13 12:35:23 0
+2021/03/13 12:35:26 b   c
+2021/03/13 12:35:26 u.id u.name u.email 0  b
+2021/03/13 12:35:26 1 a b
+2021/03/13 12:35:26 start session
+2021/03/13 12:35:26 id  1 1
+2021/03/13 12:35:27 <nil>
+2021/03/13 12:35:27 0
+2021/03/13 12:37:04 Server launched
+2021/03/13 12:37:12 0
+2021/03/13 12:37:14 b   c
+2021/03/13 12:37:14 u.id u.name u.email 0  b
+2021/03/13 12:37:14 1 a b
+2021/03/13 12:37:14 start session
+2021/03/13 12:37:14 id  1 1
+2021/03/13 12:37:14 saving session  <nil>
+2021/03/13 12:37:15 0
+2021/03/13 12:37:29 0
+2021/03/13 12:37:31 0
+2021/03/13 12:37:37 3   3
+2021/03/13 12:37:37 start session
+2021/03/13 12:37:37 id  107 107
+2021/03/13 12:37:37 saving session  <nil>
+2021/03/13 12:37:38 0
+2021/03/13 12:42:40 Server launched
+2021/03/13 12:42:47 0
+2021/03/13 12:42:50 b   c
+2021/03/13 12:42:50 u.id u.name u.email 0  b
+2021/03/13 12:42:50 1 a b
+2021/03/13 12:42:50 start session
+2021/03/13 12:42:50 id  1 1
+2021/03/13 12:42:50 saving session  <nil>
+2021/03/13 12:43:54 Server launched
+2021/03/13 12:43:57 b   c
+2021/03/13 12:43:57 u.id u.name u.email 0  b
+2021/03/13 12:43:57 1 a b
+2021/03/13 12:43:57 start session
+2021/03/13 12:43:57 id  1 1
+2021/03/13 12:43:57 saving session  <nil>
+2021/03/13 12:44:38 Server launched
+2021/03/13 12:44:42 b   c
+2021/03/13 12:44:42 u.id u.name u.email 0  b
+2021/03/13 12:44:42 1 a b
+2021/03/13 12:44:42 start session
+2021/03/13 12:44:42 id  1 1
+2021/03/13 12:44:42 saving session  <nil>
+2021/03/13 12:45:25 Server launched
+2021/03/13 12:45:27 b   c
+2021/03/13 12:45:27 u.id u.name u.email 0  b
+2021/03/13 12:45:27 1 a b
+2021/03/13 12:45:27 start session
+2021/03/13 12:45:27 id  1 1
+2021/03/13 12:45:27 saving session  <nil>
+2021/03/13 12:45:38 b   d
+2021/03/13 12:45:38 u.id u.name u.email 1  b
+2021/03/13 12:45:38 start session
+2021/03/13 12:45:38 id  1 1
+2021/03/13 12:45:38 saving session  <nil>
+2021/03/13 12:45:42    
+2021/03/13 12:45:42 u.id u.name u.email 1  
+2021/03/13 12:45:42 8  
+2021/03/13 12:45:42 start session
+2021/03/13 12:45:42 id  8 8
+2021/03/13 12:45:42 saving session  <nil>
+2021/03/13 12:45:57 3   3
+2021/03/13 12:45:57 u.id u.name u.email 8  3
+2021/03/13 12:45:57 107 3 3
+2021/03/13 12:45:57 start session
+2021/03/13 12:45:57 id  107 107
+2021/03/13 12:45:57 saving session  <nil>
+2021/03/13 12:45:57 3   3
+2021/03/13 12:45:57 u.id u.name u.email 107  3
+2021/03/13 12:45:57 107 3 3
+2021/03/13 12:45:57 start session
+2021/03/13 12:45:57 id  107 107
+2021/03/13 12:45:57 saving session  <nil>
+2021/03/13 12:47:50 Server launched
+2021/03/13 12:47:54 3   3
+2021/03/13 12:47:54 u.id u.name u.email 0  3
+2021/03/13 12:47:54 107 3 3
+2021/03/13 12:47:54 start session
+2021/03/13 12:47:54 id  107 107
+2021/03/13 12:47:54 saving session  <nil>
+2021/03/13 12:50:23 Server launched
+2021/03/13 12:50:29 3   3
+2021/03/13 12:50:29 u.id u.name u.email 0  3
+2021/03/13 12:50:29 107 3 3
+2021/03/13 12:50:29 start session
+2021/03/13 12:50:29 id  107 107
+2021/03/13 12:50:29 saving session  <nil>
+2021/03/13 12:50:58 Server launched
+2021/03/13 12:50:59 start session
+2021/03/13 12:50:59 saving session  <nil>
+2021/03/13 12:51:36 Server launched
+2021/03/13 12:51:38 start session
+2021/03/13 12:51:38 saving session  <nil>
+2021/03/13 12:51:52 0
+2021/03/13 12:51:54 start session
+2021/03/13 12:51:54 saving session  <nil>
+2021/03/13 12:53:27 start session
+2021/03/13 12:53:27 saving session  <nil>
+2021/03/13 12:55:19 Server launched
+2021/03/13 12:55:21 start session
+2021/03/13 12:55:21 saving session  <nil>
+2021/03/13 12:55:37 start session
+2021/03/13 12:55:37 saving session  <nil>
+2021/03/13 12:56:17 Server launched
+2021/03/13 12:56:19 0
+2021/03/13 12:56:23 b   c
+2021/03/13 12:56:23 u.id u.name u.email 0  b
+2021/03/13 12:56:23 1 a b
+2021/03/13 12:56:23 start session
+2021/03/13 12:56:23 id  1 1
+2021/03/13 12:56:23 saving session  <nil>
+2021/03/13 12:56:27 b   c
+2021/03/13 12:56:27 u.id u.name u.email 1  b
+2021/03/13 12:56:27 1 a b
+2021/03/13 12:56:27 start session
+2021/03/13 12:56:27 id  1 1
+2021/03/13 12:56:27 saving session  <nil>
+2021/03/13 12:57:03 0
+2021/03/13 12:57:07 b   c
+2021/03/13 12:57:07 u.id u.name u.email 1  b
+2021/03/13 12:57:07 1 a b
+2021/03/13 12:57:07 start session
+2021/03/13 12:57:07 id  1 1
+2021/03/13 12:57:07 saving session  <nil>
+2021/03/13 12:57:26 b   c
+2021/03/13 12:57:26 u.id u.name u.email 1  b
+2021/03/13 12:57:26 1 a b
+2021/03/13 12:57:26 start session
+2021/03/13 12:57:26 id  1 1
+2021/03/13 12:57:26 saving session  <nil>
+2021/03/13 12:57:27 b   c
+2021/03/13 12:57:27 u.id u.name u.email 1  b
+2021/03/13 12:57:27 1 a b
+2021/03/13 12:57:27 start session
+2021/03/13 12:57:27 id  1 1
+2021/03/13 12:57:27 saving session  <nil>
+2021/03/13 12:57:49 0
+2021/03/13 12:57:52 b   c
+2021/03/13 12:57:52 u.id u.name u.email 1  b
+2021/03/13 12:57:52 1 a b
+2021/03/13 12:57:52 start session
+2021/03/13 12:57:52 id  1 1
+2021/03/13 12:57:52 saving session  <nil>
+2021/03/13 12:58:55 Server launched
+2021/03/13 12:58:56 b   c
+2021/03/13 12:58:56 u.id u.name u.email 0  b
+2021/03/13 12:58:56 1 a b
+2021/03/13 12:58:56 start session
+2021/03/13 12:58:56 id  1 1
+2021/03/13 12:58:56 saving session  <nil>
+2021/03/13 12:59:19 Server launched
+2021/03/13 12:59:20 start session
+2021/03/13 12:59:20 id  0 0
+2021/03/13 12:59:20 saving session  <nil>
+2021/03/13 12:59:21 start session
+2021/03/13 12:59:21 id  0 0
+2021/03/13 12:59:21 saving session  <nil>
+2021/03/13 12:59:22 start session
+2021/03/13 12:59:22 id  0 0
+2021/03/13 12:59:22 saving session  <nil>
+2021/03/13 12:59:22 start session
+2021/03/13 12:59:22 id  0 0
+2021/03/13 12:59:22 saving session  <nil>
+2021/03/13 12:59:33 Server launched
+2021/03/13 12:59:35 start session
+2021/03/13 12:59:35 saving session  <nil>
+2021/03/13 12:59:49 0
+2021/03/13 12:59:52 start session
+2021/03/13 12:59:52 saving session  <nil>
+2021/03/13 13:00:14 Server launched
+2021/03/13 13:00:16 start session
+2021/03/13 13:00:16 saving session  <nil>
+2021/03/13 13:00:35 0
+2021/03/13 13:00:42 start session
+2021/03/13 13:00:42 saving session  <nil>
+2021/03/13 13:03:48 start session
+2021/03/13 13:03:48 saving session  <nil>
+2021/03/13 13:03:50 0
+2021/03/13 13:03:52 Server launched
+2021/03/13 13:03:55 start session
+2021/03/13 13:03:55 saving session  <nil>
+2021/03/13 13:04:02 start session
+2021/03/13 13:04:02 saving session  <nil>
+2021/03/13 13:04:21 start session
+2021/03/13 13:04:21 saving session  <nil>
+2021/03/13 13:04:29 start session
+2021/03/13 13:04:29 saving session  <nil>
+2021/03/13 13:04:36 start session
+2021/03/13 13:04:36 saving session  <nil>
+2021/03/13 13:04:41 start session
+2021/03/13 13:04:41 saving session  <nil>
+2021/03/13 13:04:46 start session
+2021/03/13 13:04:46 saving session  <nil>
+2021/03/13 13:05:29 start session
+2021/03/13 13:05:29 saving session  <nil>
+2021/03/13 13:05:29 start session
+2021/03/13 13:05:29 saving session  <nil>
+2021/03/13 13:08:19 Server launched
+2021/03/13 13:08:24 0
+2021/03/13 13:08:26 start session
+2021/03/13 13:08:26 saving session  <nil>
+2021/03/13 13:10:01 start session
+2021/03/13 13:10:01 saving session  <nil>
+2021/03/13 13:10:16 0
+2021/03/13 13:10:37 start session
+2021/03/13 13:10:37 saving session  <nil>
+2021/03/13 13:10:44 Server launched
+2021/03/13 13:10:46 b   c
+2021/03/13 13:10:46 u.id u.name u.email 0  b
+2021/03/13 13:10:47 1 a b
+2021/03/13 13:10:47 start session
+2021/03/13 13:10:47 id  1 1
+2021/03/13 13:10:47 saving session  <nil>
+2021/03/13 13:10:51 b   c
+2021/03/13 13:10:51 u.id u.name u.email 1  b
+2021/03/13 13:10:51 1 a b
+2021/03/13 13:10:51 start session
+2021/03/13 13:10:51 id  1 1
+2021/03/13 13:10:51 saving session  <nil>
+2021/03/13 13:11:10 Server launched
+2021/03/13 13:11:12 saving session  <nil>
+2021/03/13 13:11:15 0
+2021/03/13 13:11:19 saving session  <nil>
+2021/03/13 13:11:36 saving session  <nil>
+2021/03/13 13:11:36 saving session  <nil>
+2021/03/13 13:11:36 saving session  <nil>
+2021/03/13 13:11:55 Server launched
+2021/03/13 13:11:57 start session
+2021/03/13 13:11:57 saving session  <nil>
+2021/03/13 13:11:59 0
+2021/03/13 13:12:03 start session
+2021/03/13 13:12:03 saving session  <nil>
+2021/03/13 13:12:20 start session
+2021/03/13 13:12:20 saving session  <nil>
+2021/03/13 13:14:22 start session
+2021/03/13 13:14:22 saving session  <nil>
+2021/03/13 13:14:22 start session
+2021/03/13 13:14:22 saving session  <nil>
+2021/03/13 13:14:23 start session
+2021/03/13 13:14:23 saving session  <nil>
+2021/03/13 13:14:23 start session
+2021/03/13 13:14:23 saving session  <nil>
+2021/03/13 13:15:15 Server launched
+2021/03/13 13:15:17 start session
+2021/03/13 13:15:17 saving session  <nil>
+2021/03/13 13:15:26 start session
+2021/03/13 13:15:26 saving session  <nil>
+2021/03/13 13:15:28 0
+2021/03/13 13:15:31 start session
+2021/03/13 13:15:31 saving session  <nil>
+2021/03/13 13:20:41 0
+2021/03/13 13:20:46 start session
+2021/03/13 13:20:46 saving session  <nil>
+2021/03/13 13:22:52 0
+2021/03/13 13:22:54 start session
+2021/03/13 13:22:54 saving session  <nil>
+2021/03/13 13:22:54 start session
+2021/03/13 13:22:54 saving session  <nil>
+2021/03/13 13:23:15 0
+2021/03/13 13:23:17 start session
+2021/03/13 13:23:17 saving session  <nil>
+2021/03/13 13:23:17 start session
+2021/03/13 13:23:17 saving session  <nil>
+2021/03/13 13:23:32 start session
+2021/03/13 13:23:32 saving session  <nil>
+2021/03/13 13:23:32 start session
+2021/03/13 13:23:32 saving session  <nil>
+2021/03/13 13:23:37 0
+2021/03/13 13:23:39 start session
+2021/03/13 13:23:39 saving session  <nil>
+2021/03/13 13:23:39 start session
+2021/03/13 13:23:39 saving session  <nil>
+2021/03/13 13:23:48 start session
+2021/03/13 13:23:48 saving session  <nil>
+2021/03/13 13:23:52 0
+2021/03/13 13:23:57 start session
+2021/03/13 13:23:57 saving session  <nil>
+2021/03/13 13:24:12 0
+2021/03/13 13:24:14 start session
+2021/03/13 13:24:14 saving session  <nil>
+2021/03/13 13:24:25 start session
+2021/03/13 13:24:25 saving session  <nil>
+2021/03/13 13:24:31 0
+2021/03/13 13:24:34 start session
+2021/03/13 13:24:34 saving session  <nil>
+2021/03/13 13:24:39 0
+2021/03/13 13:25:12 start session
+2021/03/13 13:25:12 saving session  <nil>
+2021/03/13 13:25:33 Server launched
+2021/03/13 13:25:35 start session
+2021/03/13 13:25:35 saving session  <nil>
+2021/03/13 13:25:52 start session
+2021/03/13 13:25:52 saving session  <nil>
+2021/03/13 13:25:56 start session
+2021/03/13 13:25:56 saving session  <nil>
+2021/03/13 13:26:19 start session
+2021/03/13 13:26:19 saving session  <nil>
+2021/03/13 13:27:01 start session
+2021/03/13 13:27:01 saving session  <nil>
+2021/03/13 13:31:52 Server launched
+2021/03/13 13:32:01 start session
+2021/03/13 13:32:01 saving session  <nil>
+2021/03/13 13:32:22 Server launched
+2021/03/13 13:32:28 start session
+2021/03/13 13:32:28 saving session  <nil>
+2021/03/13 13:34:43 Server launched
+2021/03/13 13:34:48 start session
+2021/03/13 13:34:48 saving session  <nil>
+2021/03/13 13:47:46 start session
+2021/03/13 13:47:46 saving session  <nil>
+2021/03/13 13:47:54 start session
+2021/03/13 13:47:54 saving session  <nil>
+2021/03/13 13:48:14 Server launched
+2021/03/13 13:48:20 start session
+2021/03/13 13:48:20 saving session  <nil>
+2021/03/13 14:06:21 Server launched
+2021/03/13 14:06:30 start session
+2021/03/13 14:06:30 saving session  <nil>
+2021/03/13 14:08:00 Server launched
+2021/03/13 14:08:06 start session
+2021/03/13 14:08:06 saving session  <nil>
+2021/03/13 14:12:50 Server launched
+2021/03/13 14:13:00 start session
+2021/03/13 14:13:00 saving session  <nil>
+2021/03/13 14:24:31 Server launched
+2021/03/13 14:27:08 Server launched
+2021/03/13 16:46:24 saving session  <nil>
+2021/03/13 16:47:20 saving session  <nil>
+2021/03/13 16:49:30 saving session  <nil>
+2021/03/13 16:50:56 saving session  <nil>
+2021/03/13 16:51:41 saving session  <nil>
+2021/03/13 16:52:43 saving session  <nil>
+2021/03/13 16:57:11 Server launched
+2021/03/13 16:57:25 saving session  <nil>
+2021/03/13 17:00:38 Server launched
+2021/03/13 17:00:47 saving session  <nil>
+2021/03/13 17:06:08 Server launched
+2021/03/13 17:06:19 saving session  <nil>
+2021/03/13 17:06:45 Server launched
+2021/03/13 17:06:50 saving session  <nil>
+2021/03/13 17:07:20 Server launched
+2021/03/13 17:07:26 saving session  <nil>
+2021/03/13 17:08:06 Server launched
+2021/03/13 17:08:13 saving session  <nil>
+2021/03/13 17:08:24 saving session  <nil>
+2021/03/13 17:08:42 Server launched
+2021/03/13 17:09:55 saving session  <nil>
+2021/03/13 17:12:04 saving session  <nil>
+2021/03/13 17:14:27 Server launched
+2021/03/13 17:14:30 saving session  <nil>
+2021/03/13 17:15:46 Server launched
+2021/03/13 17:15:50 saving session  <nil>
+2021/03/13 17:16:08 Server launched
+2021/03/13 17:16:10 saving session  <nil>
+2021/03/13 17:16:26 saving session  <nil>
+2021/03/13 17:18:15 Server launched
+2021/03/13 17:18:17 saving session  <nil>
+2021/03/13 17:18:21 saving session  <nil>
+2021/03/13 17:18:24 Server launched
+2021/03/13 17:18:28 saving session  <nil>
+2021/03/13 17:18:40 Server launched
+2021/03/13 17:18:42 saving session  <nil>
+2021/03/13 17:18:46 saving session  <nil>
+2021/03/13 17:18:56 Server launched
+2021/03/13 17:18:58 saving session  <nil>
+2021/03/13 17:19:01 saving session  <nil>
+2021/03/13 17:19:27 Server launched
+2021/03/13 17:19:35 saving session  <nil>
+2021/03/13 17:23:49 saving session  <nil>
+2021/03/13 17:23:58 saving session  <nil>
+2021/03/13 17:24:21 Server launched
+2021/03/13 17:24:55 saving session  <nil>
+2021/03/13 17:26:35 Server launched
+2021/03/13 17:26:39    
+2021/03/13 17:26:39 u.id u.name u.email 0  
+2021/03/13 17:26:39 8  
+2021/03/13 17:26:39 saving session  <nil>
+2021/03/13 17:26:57 Server launched
+2021/03/13 17:27:01    
+2021/03/13 17:27:01 u.id u.name u.email 0  
+2021/03/13 17:27:01 8  
+2021/03/13 17:27:01 saving session  <nil>
+2021/03/13 17:27:55 Server launched
+2021/03/13 17:28:34 Server launched
+2021/03/13 17:28:37    
+2021/03/13 17:28:37 u.id u.name u.email 0  
+2021/03/13 17:28:37 8  
+2021/03/13 17:28:37 saving session  <nil>
+2021/03/13 17:29:55 Server launched
+2021/03/13 17:30:14    
+2021/03/13 17:30:14 u.id u.name u.email 0  
+2021/03/13 17:30:14 8  
+2021/03/13 17:33:28    
+2021/03/13 17:33:28 u.id u.name u.email 8  
+2021/03/13 17:33:28 8  
+2021/03/13 17:35:32    
+2021/03/13 17:35:32 u.id u.name u.email 8  
+2021/03/13 17:35:32 8  
+2021/03/13 17:36:16    
+2021/03/13 17:36:16 u.id u.name u.email 8  
+2021/03/13 17:36:46    
+2021/03/13 17:36:46 u.id u.name u.email 8  
+2021/03/13 17:36:48 Server launched
+2021/03/13 17:36:50    
+2021/03/13 17:36:50 u.id u.name u.email 0  
+2021/03/13 17:37:15    
+2021/03/13 17:37:15 u.id u.name u.email 0  
+2021/03/13 17:37:21    
+2021/03/13 17:37:21 u.id u.name u.email 0  
+2021/03/13 17:38:23 Server launched
+2021/03/13 17:38:25    
+2021/03/13 17:38:25 u.id u.name u.email 0  
+2021/03/13 17:38:29    
+2021/03/13 17:38:29 u.id u.name u.email 0  
+2021/03/13 17:39:26    
+2021/03/13 17:39:26 u.id u.name u.email 0  
+2021/03/13 17:39:26 108  
+2021/03/13 17:44:02    
+2021/03/13 17:44:02 u.id u.name u.email 108  
+2021/03/13 17:44:02 108  
+2021/03/13 17:44:03    
+2021/03/13 17:44:03 u.id u.name u.email 108  
+2021/03/13 17:44:03 108  
+2021/03/13 17:46:24 Server launched
+2021/03/13 17:46:28 dump req
+ []
+2021/03/13 17:46:28    
+2021/03/13 17:46:28 u.id u.name u.email 0  
+2021/03/13 17:46:28 108  
+2021/03/13 17:48:17 dump req
+ []
+2021/03/13 17:48:17    
+2021/03/13 17:48:17 u.id u.name u.email 108  
+2021/03/13 17:48:17 108  
+2021/03/13 17:49:25 dump req
+ []
+2021/03/13 17:49:25    
+2021/03/13 17:49:25 u.id u.name u.email 108  
+2021/03/13 17:49:25 108  
+2021/03/13 17:50:07 dump req
+ []
+2021/03/13 17:50:07    
+2021/03/13 17:50:07 u.id u.name u.email 108  
+2021/03/13 17:50:07 108  
+2021/03/13 17:50:50 Server launched
+2021/03/13 17:50:58 dump req
+ []
+2021/03/13 17:50:58    
+2021/03/13 17:50:58 u.id u.name u.email 0  
+2021/03/13 17:50:58 108  
+2021/03/13 17:53:55 dump req
+ []
+2021/03/13 17:53:55    
+2021/03/13 17:53:55 u.id u.name u.email 108  
+2021/03/13 17:53:55 108  
+2021/03/13 17:54:18 dump req
+ []
+2021/03/13 17:54:18    
+2021/03/13 17:54:18 u.id u.name u.email 108  
+2021/03/13 17:54:18 108  
+2021/03/13 17:54:58 Server launched
+2021/03/13 17:55:00 dump req
+ []
+2021/03/13 17:55:00 b   c
+2021/03/13 17:55:00 u.id u.name u.email 0  b
+2021/03/13 17:55:00 1 a b
+2021/03/13 17:59:16 dump req
+ []
+2021/03/13 17:59:16 b   c
+2021/03/13 17:59:16 u.id u.name u.email 1  b
+2021/03/13 17:59:16 1 a b
+2021/03/13 18:00:21 Server launched
+2021/03/13 18:00:24 dump req
+ []
+2021/03/13 18:00:24 b   c
+2021/03/13 18:00:24 u.id u.name u.email 0  b
+2021/03/13 18:00:24 1 a b
+2021/03/13 18:06:29 Server launched
+2021/03/13 18:06:36 dump req
+ []
+2021/03/13 18:06:36 b   c
+2021/03/13 18:06:36 u.id u.name u.email 0  b
+2021/03/13 18:06:36 1 a b
+2021/03/13 18:06:36 saved id  1
+2021/03/13 18:12:17 Server launched
+2021/03/13 18:12:38 saved id  1
+2021/03/13 18:17:59 Server launched
+2021/03/13 18:18:03 dump req
+ []
+2021/03/13 18:18:03 b   c
+2021/03/13 18:18:03 u.id u.name u.email 0  b
+2021/03/13 18:18:03 1 a b
+2021/03/13 18:18:04 saved id  1
+2021/03/13 18:20:46 saved id  1
+2021/03/13 18:21:19 saved id  1
+2021/03/13 18:21:40 saved id  1
+2021/03/13 18:22:09 Server launched
+2021/03/13 18:22:12 saved id  1
+2021/03/13 18:25:02 Server launched
+2021/03/13 18:25:06 saved id  1
+2021/03/13 18:25:33 Server launched
+2021/03/13 18:25:35 saved id  1
+2021/03/13 18:32:28 saved id  1
+2021/03/13 18:32:46 Server launched
+2021/03/13 18:32:50 dump req
+ []
+2021/03/13 18:32:50 b   c
+2021/03/13 18:32:50 u.id u.name u.email 0  b
+2021/03/13 18:32:50 1 a b
+2021/03/13 18:32:50 dump req
+ []
+2021/03/13 18:32:50 b   c
+2021/03/13 18:32:50 u.id u.name u.email 1  b
+2021/03/13 18:32:50 1 a b
+2021/03/13 18:32:50 dump req
+ []
+2021/03/13 18:32:50 b   c
+2021/03/13 18:32:50 u.id u.name u.email 1  b
+2021/03/13 18:32:50 1 a b
+2021/03/13 18:32:51 saved id  1
+2021/03/13 18:32:56 saved id  1
+2021/03/13 18:33:22 saved id  1
+2021/03/13 18:33:26 Server launched
+2021/03/13 18:33:29 saved id  1
+2021/03/13 18:35:10 Server launched
+2021/03/13 18:35:14 dump req
+ []
+2021/03/13 18:35:14 b   c
+2021/03/13 18:35:14 u.id u.name u.email 0  b
+2021/03/13 18:35:14 1 a b
+2021/03/13 18:35:15 saved id  1
+2021/03/13 18:35:17 saved id  1
+2021/03/13 18:35:21 saved id  1
+2021/03/13 18:35:40 Server launched
+2021/03/13 18:35:42 saved id  1
+2021/03/13 18:35:43 saved id  1
+2021/03/13 18:35:44 saved id  1
+2021/03/13 18:35:44 saved id  1
+2021/03/13 18:35:45 saved id  1
+2021/03/13 18:35:45 saved id  1
+2021/03/13 18:35:46 saved id  1
+2021/03/13 18:35:46 saved id  1
+2021/03/13 18:35:47 saved id  1
+2021/03/13 18:35:48 saved id  1
+2021/03/13 18:35:48 saved id  1
+2021/03/13 18:35:49 saved id  1
+2021/03/13 18:35:49 saved id  1
+2021/03/13 18:35:50 saved id  1
+2021/03/13 18:35:50 saved id  1
+2021/03/13 18:35:51 saved id  1
+2021/03/13 18:35:52 saved id  1
+2021/03/13 18:35:53 saved id  1
+2021/03/13 18:35:53 saved id  1
+2021/03/13 18:35:54 saved id  1
+2021/03/13 18:35:55 saved id  1
+2021/03/13 18:35:55 saved id  1
+2021/03/13 18:35:56 saved id  1
+2021/03/13 18:35:57 saved id  1
+2021/03/13 18:35:57 saved id  1
+2021/03/13 18:35:58 saved id  1
+2021/03/13 18:35:59 saved id  1
+2021/03/13 18:36:00 saved id  1
+2021/03/13 18:36:01 saved id  1
+2021/03/13 18:36:01 saved id  1
+2021/03/13 18:38:01 Server launched
+2021/03/13 18:39:42 saved id  1
+2021/03/13 18:39:43 saved id  1
+2021/03/13 18:39:43 saved id  1
+2021/03/13 18:39:43 saved id  1
+2021/03/13 18:39:43 saved id  1
+2021/03/13 18:39:44 saved id  1
+2021/03/13 18:39:44 saved id  1
+2021/03/13 18:39:44 saved id  1
+2021/03/13 18:39:44 saved id  1
+2021/03/13 18:39:44 saved id  1
+2021/03/13 18:39:45 saved id  1
+2021/03/13 18:39:45 saved id  1
+2021/03/13 18:39:45 saved id  1
+2021/03/13 18:40:35 saved id  1
+2021/03/13 18:40:35 saved id  1
+2021/03/13 18:40:36 saved id  1
+2021/03/13 18:40:36 saved id  1
+2021/03/13 18:40:36 saved id  1
+2021/03/13 18:40:36 saved id  1
+2021/03/13 18:40:36 saved id  1
+2021/03/13 18:40:36 saved id  1
+2021/03/13 18:40:37 saved id  1
+2021/03/13 18:40:37 saved id  1
+2021/03/13 18:40:37 saved id  1
+2021/03/13 18:40:37 saved id  1
+2021/03/13 18:40:37 saved id  1
+2021/03/13 18:40:38 saved id  1
+2021/03/13 18:40:38 saved id  1
+2021/03/13 18:40:38 saved id  1
+2021/03/13 18:40:38 saved id  1
+2021/03/13 18:40:38 saved id  1
+2021/03/13 18:40:38 saved id  1
+2021/03/13 18:40:39 saved id  1
+2021/03/13 18:40:39 saved id  1
+2021/03/13 18:40:39 saved id  1
+2021/03/13 18:40:39 saved id  1
+2021/03/13 18:40:39 saved id  1
+2021/03/13 18:40:40 saved id  1
+2021/03/13 18:40:40 saved id  1
+2021/03/13 18:40:40 saved id  1
+2021/03/13 18:40:40 saved id  1
+2021/03/13 18:40:40 saved id  1
+2021/03/13 18:40:40 saved id  1
+2021/03/13 18:40:41 saved id  1
+2021/03/13 18:40:41 saved id  1
+2021/03/13 18:40:41 saved id  1
+2021/03/13 18:40:41 saved id  1
+2021/03/13 18:40:41 saved id  1
+2021/03/13 18:40:41 saved id  1
+2021/03/13 18:40:42 saved id  1
+2021/03/13 18:40:42 saved id  1
+2021/03/13 18:40:42 saved id  1
+2021/03/13 18:40:42 saved id  1
+2021/03/13 18:40:42 saved id  1
+2021/03/13 18:40:43 saved id  1
+2021/03/13 18:40:43 saved id  1
+2021/03/13 18:40:43 saved id  1
+2021/03/13 18:40:43 saved id  1
+2021/03/13 18:40:43 saved id  1
+2021/03/13 18:40:44 saved id  1
+2021/03/13 18:40:44 saved id  1
+2021/03/13 18:40:44 saved id  1
+2021/03/13 18:40:44 saved id  1
+2021/03/13 18:40:45 saved id  1
+2021/03/13 18:40:45 saved id  1
+2021/03/13 18:40:45 saved id  1
+2021/03/13 18:40:45 saved id  1
+2021/03/13 18:40:46 saved id  1
+2021/03/13 18:40:46 saved id  1
+2021/03/13 18:40:46 saved id  1
+2021/03/13 18:40:47 saved id  1
+2021/03/13 18:40:47 saved id  1
+2021/03/13 18:40:47 saved id  1
+2021/03/13 18:40:47 saved id  1
+2021/03/13 18:40:47 saved id  1
+2021/03/13 18:40:47 saved id  1
+2021/03/13 18:40:48 saved id  1
+2021/03/13 18:40:48 saved id  1
+2021/03/13 18:40:48 saved id  1
+2021/03/13 18:40:48 saved id  1
+2021/03/13 18:40:48 saved id  1
+2021/03/13 18:40:49 saved id  1
+2021/03/13 18:40:49 saved id  1
+2021/03/13 18:40:49 saved id  1
+2021/03/13 18:40:50 saved id  1
+2021/03/13 18:40:50 saved id  1
+2021/03/13 18:40:50 saved id  1
+2021/03/13 18:40:51 saved id  1
+2021/03/13 18:40:51 saved id  1
+2021/03/13 18:40:51 saved id  1
+2021/03/13 18:40:51 saved id  1
+2021/03/13 18:40:52 saved id  1
+2021/03/13 18:40:52 saved id  1
+2021/03/13 18:40:52 saved id  1
+2021/03/13 18:40:52 saved id  1
+2021/03/13 18:40:53 saved id  1
+2021/03/13 18:40:53 saved id  1
+2021/03/13 18:40:53 saved id  1
+2021/03/13 18:40:53 saved id  1
+2021/03/13 18:40:53 saved id  1
+2021/03/13 18:40:53 saved id  1
+2021/03/13 18:40:54 saved id  1
+2021/03/13 18:40:54 saved id  1
+2021/03/13 18:40:54 saved id  1
+2021/03/13 18:40:54 saved id  1
+2021/03/13 18:40:54 saved id  1
+2021/03/13 18:40:56 saved id  1
+2021/03/13 18:40:57 saved id  1
+2021/03/13 18:40:57 saved id  1
+2021/03/13 18:40:57 saved id  1
+2021/03/13 18:40:57 saved id  1
+2021/03/13 18:40:58 saved id  1
+2021/03/13 18:40:58 saved id  1
+2021/03/13 18:40:58 saved id  1
+2021/03/13 18:40:58 saved id  1
+2021/03/13 18:40:59 saved id  1
+2021/03/13 18:40:59 saved id  1
+2021/03/13 18:40:59 saved id  1
+2021/03/13 18:40:59 saved id  1
+2021/03/13 18:40:59 saved id  1
+2021/03/13 18:40:59 saved id  1
+2021/03/13 18:41:00 saved id  1
+2021/03/13 18:41:00 saved id  1
+2021/03/13 18:41:00 saved id  1
+2021/03/13 18:41:00 saved id  1
+2021/03/13 18:41:00 saved id  1
+2021/03/13 18:41:01 saved id  1
+2021/03/13 18:41:01 saved id  1
+2021/03/13 18:41:01 saved id  1
+2021/03/13 18:41:01 saved id  1
+2021/03/13 18:56:53 saved id  1
+2021/03/13 18:56:53 saved id  1
+2021/03/13 18:56:55 saved id  1
+2021/03/13 18:56:55 saved id  1
+2021/03/13 19:47:30 Server launched
+2021/03/13 19:47:37 saved id  1
+2021/03/13 19:47:37 saved id  1
+2021/03/13 19:56:45 saved id  1
+2021/03/13 19:56:45 saved id  1
+2021/03/13 20:01:27 saved id  1
+2021/03/13 20:01:27 saved id  1
+2021/03/13 20:02:10 Server launched
+2021/03/13 20:02:23 not ok
+2021/03/13 20:02:23 not ok
+2021/03/13 20:02:27 not ok
+2021/03/13 20:02:27 not ok
+2021/03/13 20:02:28 not ok
+2021/03/13 20:02:28 not ok
+2021/03/13 20:02:29 dump req
+ []
+2021/03/13 20:02:29 3   3
+2021/03/13 20:02:29 u.id u.name u.email 0  3
+2021/03/13 20:02:29 107 3 3
+2021/03/13 20:02:44 Server launched
+2021/03/13 20:02:48 saved id  107
+2021/03/13 20:02:48 saved id  107
+2021/03/13 20:02:52 not ok
+2021/03/13 20:02:52 not ok
+2021/03/13 20:02:54 not ok
+2021/03/13 20:02:54 not ok
+2021/03/13 20:02:54 not ok
+2021/03/13 20:02:54 not ok
+2021/03/13 20:02:55 dump req
+ []
+2021/03/13 20:02:55 3   3
+2021/03/13 20:02:55 u.id u.name u.email 0  3
+2021/03/13 20:02:55 107 3 3
+2021/03/13 20:05:56 saved id  107
+2021/03/13 20:05:56 saved id  107
+2021/03/13 20:06:00 not ok
+2021/03/13 20:06:00 not ok
+2021/03/13 20:06:02 not ok
+2021/03/13 20:06:02 not ok
+2021/03/13 20:06:04 not ok
+2021/03/13 20:06:04 not ok
+2021/03/13 20:06:04 not ok
+2021/03/13 20:06:04 not ok
+2021/03/13 20:06:05 not ok
+2021/03/13 20:06:05 not ok
+2021/03/13 20:06:06 dump req
+ []
+2021/03/13 20:06:06 3   6
+2021/03/13 20:06:37 not ok
+2021/03/13 20:06:37 not ok
+2021/03/13 20:06:38 not ok
+2021/03/13 20:06:38 not ok
+2021/03/13 20:06:39 dump req
+ []
+2021/03/13 20:06:39 4   6
+2021/03/13 20:06:46 saved id  109
+2021/03/13 20:06:48 saved id  109
+2021/03/13 20:06:48 saved id  109
+2021/03/13 20:06:53 not ok
+2021/03/13 20:06:53 not ok
+2021/03/13 20:08:40 not ok
+2021/03/13 20:08:41 not ok
+2021/03/13 20:08:41 not ok
+2021/03/13 20:08:41 not ok
+2021/03/13 20:08:42 dump req
+ []
+2021/03/13 20:08:42 6   6
+2021/03/13 20:08:42 u.id u.name u.email 109  6
+2021/03/13 20:25:49 Server launched
+2021/03/13 20:25:51 dump req
+ []
+2021/03/13 20:25:51 6   6
+2021/03/13 20:25:51 u.id u.name u.email 0  6
+2021/03/13 21:02:00 Server launched
+2021/03/13 21:02:02 dump req
+ []
+2021/03/13 21:02:02 6   6
+2021/03/13 21:02:02 u.id u.name u.email 0  6
+2021/03/13 21:02:04 dump req
+ []
+2021/03/13 21:02:04 6   6
+2021/03/13 21:02:04 u.id u.name u.email 0  6
+2021/03/13 21:02:05 not ok
+2021/03/13 21:02:05 not ok
+2021/03/13 21:02:05 not ok
+2021/03/13 21:02:05 not ok
+2021/03/13 21:02:06 dump req
+ []
+2021/03/13 21:02:06 6   4
+2021/03/13 21:02:06 u.id u.name u.email 0  6
+2021/03/13 21:02:07 not ok
+2021/03/13 21:02:08 not ok
+2021/03/13 21:02:08 not ok
+2021/03/13 21:02:08 not ok
+2021/03/13 21:02:09 dump req
+ []
+2021/03/13 21:02:09 3   4
+2021/03/13 21:02:09 u.id u.name u.email 0  3
+2021/03/13 21:02:10 not ok
+2021/03/13 21:02:10 not ok
+2021/03/13 21:02:11 not ok
+2021/03/13 21:02:11 not ok
+2021/03/13 21:02:12 dump req
+ []
+2021/03/13 21:02:12 3   3
+2021/03/13 21:02:12 u.id u.name u.email 0  3
+2021/03/13 21:02:12 107 3 3
+2021/03/13 21:07:24 Server launched
+2021/03/13 21:07:28 not ok
+2021/03/13 21:07:28 not ok
+2021/03/13 21:07:30 not ok
+2021/03/13 21:07:30 not ok
+2021/03/13 21:07:31 not ok
+2021/03/13 21:07:31 not ok
+2021/03/13 21:07:32 dump req
+ []
+2021/03/13 21:07:32 4   4
+2021/03/13 21:07:32 u.id u.name u.email 0  4
+2021/03/13 21:07:33 not ok
+2021/03/13 21:07:33 not ok
+2021/03/13 21:07:34 not ok
+2021/03/13 21:07:34 not ok
+2021/03/13 21:07:35 dump req
+ []
+2021/03/13 21:07:35 3   4
+2021/03/13 21:07:35 u.id u.name u.email 0  3
+2021/03/13 21:07:37 not ok
+2021/03/13 21:07:37 not ok
+2021/03/13 21:07:37 not ok
+2021/03/13 21:07:37 not ok
+2021/03/13 21:07:39 dump req
+ []
+2021/03/13 21:07:39 3   3
+2021/03/13 21:07:39 u.id u.name u.email 0  3
+2021/03/13 21:07:39 107 3 3
+2021/03/13 21:07:52 not ok
+2021/03/13 21:07:53 not ok
+2021/03/13 21:07:55 not ok
+2021/03/13 21:07:55 not ok
+2021/03/13 21:07:58 not ok
+2021/03/13 21:07:58 not ok
+2021/03/13 21:07:58 not ok
+2021/03/13 21:07:58 not ok
+2021/03/13 21:07:59 not ok
+2021/03/13 21:07:59 not ok
+2021/03/13 21:08:00 dump req
+ []
+2021/03/13 21:08:00 7   7
+2021/03/13 21:08:02 not ok
+2021/03/13 21:08:02 not ok
+2021/03/13 21:08:02 not ok
+2021/03/13 21:08:02 not ok
+2021/03/13 21:08:04 dump req
+ []
+2021/03/13 21:08:04 8   7
+2021/03/13 21:14:16 not ok
+2021/03/13 21:14:16 not ok
+2021/03/13 21:14:18 not ok
+2021/03/13 21:14:18 not ok
+2021/03/14 02:05:42 Server launched
+2021/03/14 02:05:48 Couldn't retrieve student ids
+2021/03/14 02:07:57 Couldn't retrieve student ids
+2021/03/14 02:08:00 Couldn't retrieve student ids
+2021/03/14 02:08:22 Couldn't retrieve student ids
+2021/03/14 02:08:55 Couldn't retrieve student ids
+2021/03/14 02:10:10 Couldn't retrieve student ids
+2021/03/14 02:10:17 Server launched
+2021/03/14 02:10:19 Couldn't retrieve student ids:  Error 1146: Table 'coursework.students' doesn't exist
+2021/03/14 02:10:46 Server launched
+2021/03/14 02:40:24 Server launched
+2021/03/14 02:41:37 Server launched
+2021/03/14 02:43:11 Server launched
+2021/03/14 10:24:19 Server launched
+2021/03/14 10:24:23 Error parsing ids to assign tasks. Ids param: 1,47,106,108,109,52
+2021/03/14 10:26:09 Server launched
+2021/03/14 10:26:12 Error parsing ids to assign tasks. Ids param:  : 
+2021/03/14 10:26:52 Server launched
+2021/03/14 10:26:56 Error parsing ids to assign tasks. Ids param:  :  : []
+2021/03/14 10:37:27 Server launched
+2021/03/14 10:37:28 Error parsing ids to assign tasks. Ids param: 40,47,106,108,109,52,41,44,107,110
+2021/03/14 10:39:53 Server launched
+2021/03/14 10:40:00 Error assigning tasks: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(?, ?) (?, ?) (?, ?) (?, ?) (?, ?) (?, ?) (?, ?) (?, ?) (?, ?)' at line 1
+2021/03/14 10:40:19 Server launched
+2021/03/14 10:40:23 Error assigning tasks: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2021/03/14 10:41:09 Server launched
+2021/03/14 10:41:11 Error assigning tasks: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+query: INSERT INTO assignments (task_id, student_id) VALUES (?, ?), (?, ?), (?, ?), (?, ?), (?, ?), (?, ?), (?, ?), (?, ?), (?, ?), (?, ?), (?, ?),;
+2021/03/14 10:45:08 Server launched
+2021/03/14 10:45:23 Error assigning tasks: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '; student_id) VALUES (?; ?); (?; ?); (?; ?); (?; ?); (?; ?); (?; ?); (?; ?); (?;' at line 1
+query: INSERT INTO assignments (task_id; student_id) VALUES (?; ?); (?; ?); (?; ?); (?; ?); (?; ?); (?; ?); (?; ?); (?; ?); (?; ?); (?; ?); (?; ?);
+2021/03/14 10:47:04 Server launched
+2021/03/14 10:47:08 Error assigning tasks: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'I' at line 1
+query: I;
+2021/03/14 10:47:51 Server launched

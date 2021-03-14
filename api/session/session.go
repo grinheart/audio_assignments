@@ -8,6 +8,7 @@ _ "github.com/go-sql-driver/mysql"
 "encoding/json"
 "github.com/gorilla/sessions"
 "os"
+"log"
 )
 
 type Session struct {
@@ -17,55 +18,89 @@ type Session struct {
 }
 
 type errmsg struct {
-	Msg int `json:"status"`
+	Status int `json:"status"`
+	Msg string `json:"message"`
+}
+
+func (s *Session) SetHeaders(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "application/json")
+	if origin := r.Header.Get("Origin"); origin != "" {
+		w.Header().Set("Access-Control-Allow-Origin", origin)
+	}
+	w.Header().Set("Set-Cookie", w.Header().Get("Set-Cookie") + "; SameSite=Strict")
+}
+
+func (s *Session) user(w http.ResponseWriter, r *http.Request, msg string, status int) {
+	s.SetHeaders(w, r)
+	var err errmsg
+	err.Status = status
+	if (status != 0) {
+		err.Msg = msg
+	} else {
+		s.startSession(w, r)
+	}
+	s.SetHeaders(w, r)
+	json.NewEncoder(w).Encode(err)
+}
+
+func (s *Session) RedirectIfLogged(w http.ResponseWriter, r *http.Request) {
+	s.SetHeaders(w, r)
+	var resp errmsg
+	if (s.savedId(r) != 0) {
+		resp.Status = 0
+	} else {
+		resp.Status = 1
+	}
+	s.SetHeaders(w, r)
+	json.NewEncoder(w).Encode(resp)
 }
 
 func (s *Session) Reg(w http.ResponseWriter, r *http.Request) {
-	w.Header().Set("Content-Type", "application/json")
-	var err errmsg
 	s.loadFromReq(r)
-	if (s.u.Reg() != nil) {
-		err.Msg = -1
-	} else {
-		s.u.Auth()
-		s.startSession(w, r)
-	}
-	json.NewEncoder(w).Encode(err)
+	s.user(w, r, "Пользователь уже зарегистрирован", s.u.Reg())
 }
 
 func (s *Session) Auth(w http.ResponseWriter, r *http.Request) {
-	w.Header().Set("Content-Type", "application/json")
 	s.loadFromReq(r)
-	 var err errmsg
-	if (s.u.Email == "" || s.u.Pwd == "") {
-		err.Msg = -1
-	} else {
-		auth_success, auth_err := s.u.Auth()
-		if (auth_err != nil) {
-			err.Msg = -1
-		} else {
-			if (auth_success) {
-				err.Msg = 0
-				s.startSession(w, r)
-			} else {
-				err.Msg = 1
-			}
-		}
-	}
-	json.NewEncoder(w).Encode(err)
+	s.user(w, r, "Неверный логин или пароль", s.u.Auth())
 }
 
 func (s *Session) loadFromReq(r *http.Request) {
-	params := r.URL.Query()
-	s.u.Email = params.Get("email")
-	s.u.Pwd = params.Get("pwd")
-	s.u.Name = params.Get("name")
+	r.ParseForm()
+	s.u.Email = r.Form.Get("email")
+	s.u.Pwd = r.Form.Get("pwd")
+	s.u.Name = r.Form.Get("name")
+	log.Println(s.u.Email, " ", s.u.Pwd)
+}
+
+func (s *Session) sesId(r *http.Request) (*sessions.Session, error) {
+	return s.store.Get(r, "session")
+}
+
+func (s *Session) savedId(r *http.Request) (int) {
+	session, _ := s.sesId(r)
+	id, ok := session.Values["id"].(int)
+	if (!ok) {
+		log.Println("not ok")
+		return 0
+	}
+	log.Println("saved id ", id)
+	return id
+}
+
+func (s *Session) Logout(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Set-Cookie", "session=")
+	s.SetHeaders(w, r)
 }
 
 func (s *Session) startSession(w http.ResponseWriter, r *http.Request) {
-	session, _ := s.store.Get(r, "session")
+	session, _ := s.sesId(r)
 	session.Values["id"] = s.u.GetId()
-	session.Save(r, w)
+	err := session.Save(r, w)
+	if (err != nil) {
+		log.Println("saving session failed: ", err)
+	}
+	s.SetHeaders(w, r)
 }
 
 func (s *Session) Setup(db *sql.DB, u *user.User) {
