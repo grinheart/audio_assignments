@@ -3,7 +3,7 @@ import { ChooseStudent, store } from './choosestudent';
 import { API } from '../const';
 import post from '../helpers/post';
 import { action, makeObservable, observable, toJS } from 'mobx';
-import { observer } from 'mobx-react'
+import { observer } from 'mobx-react';
 
 class Form {
     title = "";
@@ -42,7 +42,7 @@ const create = () => {
         if (resp.Status !== 0) {
             f.setMsg(resp.message)
         }
-        else {
+        else if (resp.Status === 1) {
             f.setMsg('Задание успешно создано')
         }
     },

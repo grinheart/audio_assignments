@@ -1,7 +1,5 @@
 
-import { makeObservable, observable, action, computed, toJS } from 'mobx';
-import post from '../helpers/post';
-import { API } from '../const'
+import { makeObservable, observable, action, computed } from 'mobx';
 
 class Store {
     chosen = [];
@@ -9,6 +7,7 @@ class Store {
     selected = 0;
     allChosen = false;
     allStudentsAddedMsg = "";
+    title = "";
     constructor(props) {
         makeObservable(this, {
             full: observable,
@@ -16,11 +15,11 @@ class Store {
             allChosen: observable,
             selected: observable,
             allStudentsAddedMsg: observable,
+            title: observable,
 
             fullList: computed,
             fullListEnabled: computed,
 
-            //setFullList: action,
             setChosen: action,
             setFull: action,
             addChosen: action,

@@ -41,7 +41,7 @@ const AddingBlock = observer((props) => {
 
 const ChoiceBlock = observer((props) => {
     return <div>
-        <span>Выбранные студенты</span>
+        <span>{props.store.title}</span>
         <ChosenList store={props.store} />
     </div>
 });

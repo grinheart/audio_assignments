@@ -10,6 +10,7 @@ import (
 	"strconv"
 	"log"
 	"strings"
+	"io/ioutil"
 )
 
 var db *sql.DB;
@@ -20,6 +21,7 @@ type Task struct {
 	Id int `json:"id"`
 	Title string `json:"title"`
 	Body string `json:"body"`
+	Audio []string `json:"audio"`
 }
 
 type response struct {
@@ -58,8 +60,12 @@ func setInternalServerError(w http.ResponseWriter, resp *response) {
 }
 
 func Create(w http.ResponseWriter, r *http.Request) {
-	s.SetHeaders(w, r)
 	var resp response
+	if (!s.IsAdmin(r)) {
+		setInternalServerError(w, &resp)
+		return;
+	} 
+	s.SetHeaders(w, r)
 	params := params(r)
 	resp.Errcode = 0
 	stmt, err := db.Prepare("INSERT INTO tasks (title, body) VALUES (?, ?)")
@@ -117,6 +123,11 @@ func Create(w http.ResponseWriter, r *http.Request) {
 }
 
 func Delete(w http.ResponseWriter, r *http.Request) {
+	var resp response
+	if (!s.IsAdmin(r)) {
+		setInternalServerError(w, &resp)
+		return;
+	} 
 	id := params(r).Get("id")
 	_, err := db.Query("DELETE FROM tasks WHERE id = ?", id)
 	if (err != nil) {
@@ -149,7 +160,7 @@ func GetById(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(resp)
 }
 
-func getTasks(w http.ResponseWriter, r *http.Request, query string, queryArgs []interface{}, errmsg string) {
+func getTasks(w http.ResponseWriter, r *http.Request, query string, queryArgs []interface{}, errmsg string) (response) {
 	s.SetHeaders(w, r)
 	log.Printf("args")
 	log.Println(queryArgs...)
@@ -158,30 +169,49 @@ func getTasks(w http.ResponseWriter, r *http.Request, query string, queryArgs []
 	if (err != nil) {
 		log.Println(errmsg, "; error:", err)
 		setInternalServerError(w, &resp)
-		return
+		return resp
 	}
 	resp.Errcode = errorCode(&res, err)
 	if (resp.Errcode == 0) {
 		for i := 0;;i++ {
 			resp.Payload = append(resp.Payload, Task{})
 			res.Scan(&resp.Payload[i].Id, &resp.Payload[i].Title, &resp.Payload[i].Body)
+			resp.Payload[i].Audio = []string{}
 			if (!res.Next()) {
 				break;
 			}
 		}
 	}
-	json.NewEncoder(w).Encode(resp)
+	return resp
 }
 
 func getByStudentId(w http.ResponseWriter, r *http.Request, id int) {
-	getTasks(
+	resp := getTasks(
 		w, r,
 		"SELECT tasks.id, tasks.title, tasks.body FROM tasks, assignments WHERE tasks.id = assignments.task_id AND assignments.student_id = ?",
 		[]interface{}{id},
 		"Couldn't retrieve student's tasks")
+	for i, task := range resp.Payload {
+		id := strconv.Itoa(id)
+		task_id := strconv.Itoa(task.Id)
+		path := "audio/" + id + "/" + task_id
+		files, err := ioutil.ReadDir("./" + path)
+		if err != nil {
+			log.Println("couldn't open audio dir ", path)
+		}
+		for _, f := range files {
+            resp.Payload[i].Audio = append(resp.Payload[i].Audio, path + "/" + f.Name())
+    	}
+	}
+	json.NewEncoder(w).Encode(resp)
 }
 
 func GetByStudentId(w http.ResponseWriter, r *http.Request) {
+	var resp response
+	if (!s.IsAdmin(r)) {
+		setInternalServerError(w, &resp)
+		return;
+	} 
 	id, _ := strconv.Atoi(params(r).Get("id"))
 	getByStudentId(w, r, id)
 	
@@ -193,18 +223,25 @@ func GetForStudent(w http.ResponseWriter, r *http.Request) {
 }
 
 func Get(w http.ResponseWriter, r *http.Request) {
-	getTasks(
+	var resp response
+	if (!s.IsAdmin(r)) {
+		setInternalServerError(w, &resp)
+		return;
+	} 
+	resp = getTasks(
 		w, r,
 		"SELECT tasks.id, tasks.title, tasks.body FROM tasks",
 		[]interface{}{},
 		"Couldn't retrieve tasks")
+
+	json.NewEncoder(w).Encode(resp)
 }
 
 func CheckIfAssigned(w http.ResponseWriter, r *http.Request) {
+	var resp response
 	s.SetHeaders(w, r)
 	params := params(r)
 	task_id, err := strconv.Atoi(params.Get("task_id"))
-	var resp response;
 	if (err != nil) {
 		log.Println("Invalid task_id: ", params.Get("task_id"))
 		setInternalServerError(w, &resp)
@@ -224,6 +261,9 @@ func CheckIfAssigned(w http.ResponseWriter, r *http.Request) {
 }
 
 func Assign(w http.ResponseWriter, r *http.Request) {
+	if (!s.IsAdmin(r)) {
+		return;
+	} 
 	params := params(r)
 	task_id := params.Get("task_id")
 	student_id := params.Get("student_id")

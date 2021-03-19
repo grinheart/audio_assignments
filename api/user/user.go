@@ -58,7 +58,7 @@ func (u *User) Reg() (int) {
 		log.Println(err)
 		return -1
 	}
-	path := "./audio/" + strconv.Itoa(u.id)
+	path := "./task/audio/" + strconv.Itoa(u.id)
 	if _, err := os.Stat(path); os.IsNotExist(err) {
 		os.Mkdir(path, 0755)
 	}

@@ -40,11 +40,13 @@ func main() {
         AllowCredentials: true,
     })
 
-    handler := c.Handler(r)
+    handler := c.Handler(r)	
 
 	r.HandleFunc("/auth", s.Auth)
+	r.HandleFunc("/admin/auth", s.AdminAuth)
 	r.HandleFunc("/reg", s.Reg).Methods("POST")
 	r.HandleFunc("/redirect", s.RedirectIfLogged)
+	r.HandleFunc("/admin_redirect", s.AdminRedirect)
 	r.HandleFunc("/logout", s.Logout).Methods("POST")
 	r.HandleFunc("/upload", File.Upload)
 	r.HandleFunc("/task/create", task.Create)
@@ -57,6 +59,8 @@ func main() {
 	r.HandleFunc("/task/assign", task.Assign)
 	r.HandleFunc("/task/all", task.Get)
 	r.HandleFunc("/students", general.Students)
+	r.PathPrefix("/audio/").
+    Handler(http.StripPrefix("/audio/", http.FileServer(http.Dir("./audio"))))
 
 	log.Fatal(http.ListenAndServe(":8080", handler))
 }
